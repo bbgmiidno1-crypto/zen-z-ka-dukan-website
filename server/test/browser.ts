@@ -165,7 +165,9 @@ async function verifyInteractionSurface(page: Page, label: string, pointerType: 
       if (onFloatingRail) await element.evaluate((node) => node.scrollIntoView({ block: 'center' }));
       else await element.scrollIntoViewIfNeeded();
       await page.evaluate(() => document.querySelectorAll('.zzkd-ripple').forEach((ripple) => ripple.remove()));
-      await element.evaluate((node, type) => {
+      // Read the synchronous pointerdown result in the same browser task. Separate automation
+      // round trips can take longer than the 340ms press lifetime on a busy software renderer.
+      const pointerResult = await element.evaluate((node, type) => {
         const rect = node.getBoundingClientRect();
         node.dispatchEvent(new PointerEvent('pointerdown', {
           bubbles: true,
@@ -177,22 +179,19 @@ async function verifyInteractionSurface(page: Page, label: string, pointerType: 
           clientX: rect.left + rect.width / 2,
           clientY: rect.top + rect.height / 2,
         }));
-      }, pointerType);
-      // Snapshot the ripple straight away: it lives for ~260ms, so it must be inspected before the
-      // press-timing poll below spends that budget.
-      const rippleSnapshot = await page.evaluate(() => {
         const ripple = document.querySelector('.zzkd-ripple');
-        if (!ripple) return null;
-        const style = getComputedStyle(ripple);
+        const style = ripple ? getComputedStyle(ripple) : null;
         return {
-          width: Number.parseFloat(style.width),
-          height: Number.parseFloat(style.height),
-          pointerEvents: style.pointerEvents,
+          pressed: node.classList.contains('zzkd-pressed'),
+          ripple: style ? {
+            width: Number.parseFloat(style.width),
+            height: Number.parseFloat(style.height),
+            pointerEvents: style.pointerEvents,
+          } : null,
         };
-      });
-      await page.waitForTimeout(35);
-      const pressed = await element.evaluate((node) => node.classList.contains('zzkd-pressed'));
-      assert(pressed, `${label}: interactive element ${index} must receive the press state`);
+      }, pointerType);
+      const rippleSnapshot = pointerResult.ripple;
+      assert(pointerResult.pressed, `${label}: interactive element ${index} must receive the press state`);
       // The press scale is animated, so poll briefly instead of sampling a single frame mid-transition.
       // The press state itself is asserted above from a real pointerdown. The *scale* is verified
       // deterministically on the same element: the delegated layer releases it after a beat, which a
@@ -309,8 +308,10 @@ async function main(): Promise<void> {
   watch(customerPage, 'desktop-customer');
 
   step('Verifying cinematic desktop home, 3D/CSS loader and luxury sections');
-  await customerPage.goto(`${BASE}/`, { waitUntil: 'domcontentloaded' });
-  await customerPage.locator('.loading-screen').waitFor({ state: 'visible', timeout: 3500 });
+  // Observe the short intro as soon as the navigation commits. Waiting for DOMContentLoaded can
+  // miss it entirely on a busy machine because the animation may finish before that event returns.
+  await customerPage.goto(`${BASE}/`, { waitUntil: 'commit' });
+  await customerPage.locator('.loading-screen').waitFor({ state: 'visible', timeout: 12000 });
   await delay(700);
   const loaderHasVisual = await customerPage.locator('.loader-three canvas').count() > 0
     || await customerPage.locator('.loader-monogram').count() > 0;
@@ -885,12 +886,21 @@ async function main(): Promise<void> {
   await mobileAdminPage.getByRole('button', { name: 'Open navigation' }).click();
   await mobileAdminPage.locator('.admin-sidebar.open').waitFor();
 
+  // Keep the same browser sessions, but unload finished tabs before the GPU-sensitive water
+  // checks. Several simultaneous SwiftShader canvases can exhaust small CI environments.
+  await Promise.all([mobilePage, tabletPage, reducedPage, mobileAdminPage, adminPage].map((page) => page.goto('about:blank')));
+
   step('Verifying the liquid layer, floating gallery and wishlist');
   {
-    // This step runs late in the suite, so return to the storefront home page first.
+    // This step runs after mobile/tablet tabs; bring the customer tab forward so Chromium does
+    // not throttle its hover, animation and requestAnimationFrame while the rail is exercised.
+    await customerPage.bringToFront();
     await goto(customerPage, '/');
     const rail = customerPage.locator('.liquid-rail').first();
-    await rail.scrollIntoViewIfNeeded();
+    // Scrolling a GSAP-revealed rail with Playwright's stability gate can wait forever while
+    // the reveal is moving. Scroll the container normally, then test its actual motion below.
+    await rail.evaluate((node) => node.scrollIntoView({ block: 'center', behavior: 'instant' }));
+    await delay(600);
     const trackX = () => rail.locator('.liquid-track').evaluate((node) => new DOMMatrixReadOnly(getComputedStyle(node).transform).m41);
     const copyWidth = await rail.locator('.liquid-copy').first().evaluate((node) => node.getBoundingClientRect().width);
     const startX = await trackX();
@@ -922,10 +932,11 @@ async function main(): Promise<void> {
     });
     assert(peakRipples >= 2, `two pointer touches must create independent ripples, saw ${peakRipples}`);
 
-    // Wishlist: guest heart → stored on the device → merged into the account after registration.
-    await rail.hover();
-    const heart = customerPage.locator('.product-wish').first();
-    await heart.click();
+    // Wishlist: use actual pointer input but skip the automation stability gate: the floating
+    // card deliberately moves continuously, even though its interaction remains usable.
+    await rail.hover({ force: true });
+    const heart = rail.locator('.product-wish').first();
+    await heart.click({ force: true });
     await customerPage.waitForFunction(() => document.querySelector('.product-wish')?.getAttribute('aria-pressed') === 'true', null, { timeout: 4000 });
     assert(await customerPage.locator('.nav-wish .wish-count').count() === 1, 'the navbar must show the saved count');
     // This customer is signed in by now, so the heart lives in SQLite; a guest heart would be in
@@ -1024,9 +1035,14 @@ async function main(): Promise<void> {
   await mobileViewer.waitFor({ state: 'detached' });
   await goto(mobilePage, `/checkout?product=${chronographSummary.slug}&variant=${chronographSummary.defaultVariantId}&size=${chronographSummary.defaultSizeId}&qty=1`);
   await verifyInteractionSurface(mobilePage, 'Android mobile checkout', 'touch', 8);
+  await goto(tabletPage, '/product/aurum-chronograph');
   await verifyInteractionSurface(tabletPage, 'tablet product detail', 'touch', 8);
+  await goto(mobileAdminPage, '/admin');
+  await mobileAdminPage.getByRole('button', { name: 'Open navigation' }).click();
+  await mobileAdminPage.locator('.admin-sidebar.open').waitFor();
   await verifyInteractionSurface(mobileAdminPage, 'Android mobile admin', 'touch', 6);
 
+  await goto(reducedPage, '/');
   await reducedPage.locator('.btn').first().evaluate((node) => {
     const rect = node.getBoundingClientRect();
     node.dispatchEvent(new PointerEvent('pointerdown', {
