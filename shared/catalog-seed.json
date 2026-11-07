@@ -1,0 +1,181 @@
+{
+  "palettes": {
+    "couture": [
+      { "name": "Onyx Black", "slug": "onyx-black", "hex": "#111111" },
+      { "name": "Champagne Gold", "slug": "champagne-gold", "hex": "#D4AF37" },
+      { "name": "Oxblood", "slug": "oxblood", "hex": "#5B1620" }
+    ],
+    "urban": [
+      { "name": "Midnight Blue", "slug": "midnight-blue", "hex": "#16243B" },
+      { "name": "Ivory", "slug": "ivory", "hex": "#D8C9AA" },
+      { "name": "Graphite", "slug": "graphite", "hex": "#3C3C3C" }
+    ],
+    "jewel": [
+      { "name": "Emerald Noir", "slug": "emerald-noir", "hex": "#143C31" },
+      { "name": "Rose Gold", "slug": "rose-gold", "hex": "#B76E79" },
+      { "name": "Obsidian", "slug": "obsidian", "hex": "#0B0B0B" }
+    ],
+    "warm": [
+      { "name": "Espresso", "slug": "espresso", "hex": "#3B241B" },
+      { "name": "Antique Gold", "slug": "antique-gold", "hex": "#C6A15B" },
+      { "name": "Burgundy", "slug": "burgundy", "hex": "#4B1620" }
+    ]
+  },
+  "categories": [
+    { "name": "Men", "slug": "men", "description": "Architectural tailoring and after-dark essentials.", "imageKey": "men", "sortOrder": 1, "specialFilter": null },
+    { "name": "Women", "slug": "women", "description": "Sculptural silhouettes with a gilded edge.", "imageKey": "women", "sortOrder": 2, "specialFilter": null },
+    { "name": "Kids", "slug": "kids", "description": "Miniature icons for the next generation.", "imageKey": "kids", "sortOrder": 3, "specialFilter": null },
+    { "name": "Shoes", "slug": "shoes", "description": "Precision footwear for the modern procession.", "imageKey": "shoes", "sortOrder": 4, "specialFilter": null },
+    { "name": "Bags", "slug": "bags", "description": "Structured leather objects, made to be kept.", "imageKey": "bag", "sortOrder": 5, "specialFilter": null },
+    { "name": "Beauty", "slug": "beauty", "description": "Dark amber, quiet ritual, lasting presence.", "imageKey": "beauty", "sortOrder": 6, "specialFilter": null },
+    { "name": "Accessories", "slug": "accessories", "description": "The final punctuation in gold.", "imageKey": "accessories", "sortOrder": 7, "specialFilter": null },
+    { "name": "New Arrivals", "slug": "new-arrivals", "description": "The latest chapter from the atelier.", "imageKey": "women", "sortOrder": 8, "specialFilter": "new_arrival" },
+    { "name": "Best Sellers", "slug": "best-sellers", "description": "The pieces our patrons return for.", "imageKey": "bag", "sortOrder": 9, "specialFilter": "best_seller" }
+  ],
+  "products": [
+    {
+      "slug": "obsidian-tailored-suit", "name": "Obsidian Tailored Suit", "categorySlug": "men", "imageKey": "men", "palette": "couture",
+      "description": "A razor-sharp two-piece in compact black wool, finished with a whisper of gold-thread piping along the lapel. Cut for a clean shoulder and an elongated line.",
+      "pricePaise": 1899900, "originalPricePaise": 2499900, "sizes": ["S", "M", "L", "XL"], "stockBase": [9, 14, 6, 2],
+      "featured": true, "newArrival": true, "bestSeller": true, "available": true
+    },
+    {
+      "slug": "noir-velvet-tuxedo", "name": "Noir Velvet Tuxedo", "categorySlug": "men", "imageKey": "men", "palette": "jewel",
+      "description": "Midnight velvet with satin peak lapels and a discreet metallic finish. An evening icon designed to catch light only when it moves.",
+      "pricePaise": 2249900, "originalPricePaise": 2999900, "sizes": ["S", "M", "L", "XL"], "stockBase": [5, 8, 3, 0],
+      "featured": true, "newArrival": false, "bestSeller": true, "available": true
+    },
+    {
+      "slug": "aurum-bomber-jacket", "name": "Aurum Bomber Jacket", "categorySlug": "men", "imageKey": "men", "palette": "urban",
+      "description": "A weightless technical bomber with a softly burnished surface, ribbed cuffs and a relaxed luxury fit.",
+      "pricePaise": 1199900, "originalPricePaise": 1599900, "sizes": ["S", "M", "L", "XL"], "stockBase": [12, 10, 4, 7],
+      "featured": false, "newArrival": true, "bestSeller": false, "available": true
+    },
+    {
+      "slug": "monogram-tailored-shirt", "name": "Monogram Tailored Shirt", "categorySlug": "men", "imageKey": "men", "palette": "warm",
+      "description": "A precisely darted cotton shirt with a tonal jacquard monogram and gold-plated collar stays.",
+      "pricePaise": 649900, "originalPricePaise": 899900, "sizes": ["S", "M", "L", "XL"], "stockBase": [18, 16, 11, 3],
+      "featured": false, "newArrival": true, "bestSeller": false, "available": true
+    },
+    {
+      "slug": "midnight-architect-coat", "name": "Midnight Architect Coat", "categorySlug": "women", "imageKey": "women", "palette": "couture",
+      "description": "A double-faced wool coat with a sculpted waist, hidden closures and a fine gilt belt. Quiet drama, impeccable warmth.",
+      "pricePaise": 1699900, "originalPricePaise": 2299900, "sizes": ["XS", "S", "M", "L"], "stockBase": [8, 13, 10, 2],
+      "featured": true, "newArrival": true, "bestSeller": true, "available": true
+    },
+    {
+      "slug": "gilded-silk-gown", "name": "Gilded Silk Gown", "categorySlug": "women", "imageKey": "women", "palette": "jewel",
+      "description": "Fluid silk falls into a column silhouette, traced by hand-finished metallic embroidery at the neckline.",
+      "pricePaise": 2499900, "originalPricePaise": 3499900, "sizes": ["XS", "S", "M", "L"], "stockBase": [4, 2, 6, 1],
+      "featured": true, "newArrival": false, "bestSeller": true, "available": true
+    },
+    {
+      "slug": "obsidian-power-blazer", "name": "Obsidian Power Blazer", "categorySlug": "women", "imageKey": "women", "palette": "urban",
+      "description": "A strong-shouldered blazer in structured crepe, balanced by a nipped waist and gleaming minimalist hardware.",
+      "pricePaise": 1299900, "originalPricePaise": 1799900, "sizes": ["XS", "S", "M", "L"], "stockBase": [9, 12, 5, 0],
+      "featured": true, "newArrival": true, "bestSeller": false, "available": true
+    },
+    {
+      "slug": "noir-pleated-midi", "name": "Noir Pleated Midi", "categorySlug": "women", "imageKey": "women", "palette": "warm",
+      "description": "Knife-pleated satin with a liquid fall and an adjustable gilt chain at the waist.",
+      "pricePaise": 949900, "originalPricePaise": 1299900, "sizes": ["XS", "S", "M", "L"], "stockBase": [15, 11, 9, 4],
+      "featured": false, "newArrival": true, "bestSeller": true, "available": true
+    },
+    {
+      "slug": "little-legacy-suit", "name": "Little Legacy Suit", "categorySlug": "kids", "imageKey": "kids", "palette": "couture",
+      "description": "A miniature ceremonial suit in soft brushed twill with tiny gold buttons and a comfortable hidden-elastic waist.",
+      "pricePaise": 499900, "originalPricePaise": 699900, "sizes": ["2-3Y", "4-5Y", "6-7Y", "8-9Y"], "stockBase": [8, 12, 6, 2],
+      "featured": true, "newArrival": true, "bestSeller": false, "available": true
+    },
+    {
+      "slug": "mini-velvet-dress", "name": "Mini Velvet Dress", "categorySlug": "kids", "imageKey": "kids", "palette": "jewel",
+      "description": "A soft velvet party dress with a fine metallic hem and a full, comfortable lining.",
+      "pricePaise": 399900, "originalPricePaise": 549900, "sizes": ["2-3Y", "4-5Y", "6-7Y", "8-9Y"], "stockBase": [10, 7, 3, 1],
+      "featured": false, "newArrival": true, "bestSeller": true, "available": true
+    },
+    {
+      "slug": "junior-atelier-jacket", "name": "Junior Atelier Jacket", "categorySlug": "kids", "imageKey": "kids", "palette": "urban",
+      "description": "A lightweight cropped jacket with satin lining and subtle gold piping, made for movement.",
+      "pricePaise": 349900, "originalPricePaise": 499900, "sizes": ["2-3Y", "4-5Y", "6-7Y", "8-9Y"], "stockBase": [11, 9, 5, 0],
+      "featured": false, "newArrival": false, "bestSeller": false, "available": true
+    },
+    {
+      "slug": "aurum-low-top-sneakers", "name": "Aurum Low-Top Sneakers", "categorySlug": "shoes", "imageKey": "shoes", "palette": "couture",
+      "description": "Hand-finished black leather low-tops with a fine metallic contour, cushioned footbed and a sculpted rubber sole.",
+      "pricePaise": 899900, "originalPricePaise": 1199900, "sizes": ["7", "8", "9", "10", "11"], "stockBase": [7, 12, 9, 4, 1],
+      "featured": true, "newArrival": true, "bestSeller": true, "available": true
+    },
+    {
+      "slug": "obsidian-leather-loafers", "name": "Obsidian Leather Loafers", "categorySlug": "shoes", "imageKey": "shoes", "palette": "warm",
+      "description": "A polished leather loafer with a discreet gold saddle and a flexible Blake-stitched sole.",
+      "pricePaise": 999900, "originalPricePaise": 1399900, "sizes": ["7", "8", "9", "10", "11"], "stockBase": [5, 6, 2, 8, 3],
+      "featured": true, "newArrival": false, "bestSeller": true, "available": true
+    },
+    {
+      "slug": "noir-runner-edit", "name": "Noir Runner Edit", "categorySlug": "shoes", "imageKey": "shoes", "palette": "urban",
+      "description": "A technical runner in tonal black mesh with brushed gold stabilisers and featherweight cushioning.",
+      "pricePaise": 749900, "originalPricePaise": 999900, "sizes": ["7", "8", "9", "10", "11"], "stockBase": [13, 9, 5, 2, 0],
+      "featured": false, "newArrival": true, "bestSeller": false, "available": true
+    },
+    {
+      "slug": "maison-noir-top-handle", "name": "Maison Noir Top Handle", "categorySlug": "bags", "imageKey": "bag", "palette": "couture",
+      "description": "A structured top-handle bag in full-grain leather, with brushed gold hardware and a suede-lined interior.",
+      "pricePaise": 1999900, "originalPricePaise": 2699900, "sizes": ["One Size"], "stockBase": [4],
+      "featured": true, "newArrival": true, "bestSeller": true, "available": true
+    },
+    {
+      "slug": "gilded-mini-bag", "name": "Gilded Mini Bag", "categorySlug": "bags", "imageKey": "bag", "palette": "jewel",
+      "description": "A compact evening bag with a sculpted frame, chain strap and a mirror-finish gilt clasp.",
+      "pricePaise": 1299900, "originalPricePaise": 1699900, "sizes": ["One Size"], "stockBase": [2],
+      "featured": true, "newArrival": false, "bestSeller": true, "available": true
+    },
+    {
+      "slug": "obsidian-weekender", "name": "Obsidian Weekender", "categorySlug": "bags", "imageKey": "bag", "palette": "urban",
+      "description": "An overnight holdall in pebbled leather with reinforced gold-tone feet and a generous zip opening.",
+      "pricePaise": 2199900, "originalPricePaise": 2899900, "sizes": ["One Size"], "stockBase": [6],
+      "featured": false, "newArrival": true, "bestSeller": false, "available": true
+    },
+    {
+      "slug": "noir-amber-parfum", "name": "Noir Amber Parfum", "categorySlug": "beauty", "imageKey": "beauty", "palette": "warm",
+      "description": "A warm amber extrait with black vanilla, saffron and cedar, presented in a faceted apothecary flacon.",
+      "pricePaise": 599900, "originalPricePaise": 799900, "sizes": ["50 ml", "100 ml"], "stockBase": [12, 3],
+      "featured": true, "newArrival": true, "bestSeller": true, "available": true
+    },
+    {
+      "slug": "aurum-elixir-serum", "name": "Aurum Elixir Serum", "categorySlug": "beauty", "imageKey": "beauty", "palette": "couture",
+      "description": "A luminous night serum with niacinamide and mineral gold, housed in a light-blocking glass vessel.",
+      "pricePaise": 399900, "originalPricePaise": 549900, "sizes": ["30 ml", "50 ml"], "stockBase": [14, 8],
+      "featured": false, "newArrival": true, "bestSeller": false, "available": true
+    },
+    {
+      "slug": "black-rose-edp", "name": "Black Rose Eau de Parfum", "categorySlug": "beauty", "imageKey": "beauty", "palette": "jewel",
+      "description": "A dark floral composition of Damask rose, patchouli and smoked musk. Currently reserved for the next atelier batch.",
+      "pricePaise": 449900, "originalPricePaise": 599900, "sizes": ["50 ml", "100 ml"], "stockBase": [0, 0],
+      "featured": false, "newArrival": false, "bestSeller": false, "available": false
+    },
+    {
+      "slug": "aurum-chronograph", "name": "Aurum Chronograph", "categorySlug": "accessories", "imageKey": "accessories", "palette": "couture",
+      "description": "A black-dial chronograph with gold indices, sapphire crystal and a hand-finished leather strap.",
+      "pricePaise": 1499900, "originalPricePaise": 1999900, "sizes": ["One Size"], "stockBase": [3],
+      "featured": true, "newArrival": true, "bestSeller": true, "available": true
+    },
+    {
+      "slug": "noir-aviator-sunglasses", "name": "Noir Aviator Sunglasses", "categorySlug": "accessories", "imageKey": "accessories", "palette": "urban",
+      "description": "Featherlight titanium aviators with gradient lenses and fine gold bridge detailing.",
+      "pricePaise": 599900, "originalPricePaise": 799900, "sizes": ["One Size"], "stockBase": [9],
+      "featured": false, "newArrival": true, "bestSeller": false, "available": true
+    },
+    {
+      "slug": "gilded-cuff-bracelet", "name": "Gilded Cuff Bracelet", "categorySlug": "accessories", "imageKey": "accessories", "palette": "jewel",
+      "description": "An open sculptural cuff in brushed gold-tone metal with a contrasting black enamel interior.",
+      "pricePaise": 399900, "originalPricePaise": 549900, "sizes": ["One Size"], "stockBase": [1],
+      "featured": false, "newArrival": false, "bestSeller": true, "available": true
+    },
+    {
+      "slug": "obsidian-silk-scarf", "name": "Obsidian Silk Scarf", "categorySlug": "accessories", "imageKey": "accessories", "palette": "warm",
+      "description": "A liquid silk scarf with a hand-drawn gold monogram and hand-rolled edges.",
+      "pricePaise": 449900, "originalPricePaise": 649900, "sizes": ["One Size"], "stockBase": [10],
+      "featured": true, "newArrival": false, "bestSeller": false, "available": true
+    }
+  ]
+}

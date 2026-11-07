@@ -1,0 +1,41 @@
+# Caddy reverse proxy for ZEN Z KA DUKAN.
+# Caddy obtains and renews the Let's Encrypt certificate automatically once
+# SITE_DOMAIN resolves to this VM and ports 80/443 are open.
+
+{
+	email {$ACME_EMAIL}
+	# Uncomment while testing DNS if you want to avoid Let's Encrypt rate limits:
+	# acme_ca https://acme-staging-v02.api.letsencrypt.org/directory
+}
+
+{$SITE_DOMAIN} {
+	encode zstd gzip
+
+	# Uploads and the SPA are served by the Node app; keep request bodies generous for
+	# product photos and GLB models (the app enforces its own per-file limits).
+	request_body {
+		max_size 40MB
+	}
+
+	reverse_proxy app:3001 {
+		header_up X-Real-IP {remote_host}
+		header_up X-Forwarded-For {remote_host}
+		header_up X-Forwarded-Proto {scheme}
+		header_up X-Forwarded-Host {host}
+	}
+
+	header {
+		Strict-Transport-Security "max-age=31536000; includeSubDomains"
+		X-Content-Type-Options "nosniff"
+		Referrer-Policy "strict-origin-when-cross-origin"
+		-Server
+	}
+
+	log {
+		output file /data/access.log {
+			roll_size 10MiB
+			roll_keep 5
+		}
+		format console
+	}
+}

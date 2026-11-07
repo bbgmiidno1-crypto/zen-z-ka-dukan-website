@@ -1,0 +1,25 @@
+# Build works from the repo root, but runtime state must never be baked into the image.
+node_modules
+dist
+.git
+.github
+.env
+.env.*
+!.env.example
+
+# Persistent data: the SQLite database, admin/session secrets and uploaded media.
+data/zen.db
+data/zen.db-*
+data/admin-setup.txt
+data/session-secret.txt
+data/admin-bootstrap-token.txt
+data/uploads
+!data/uploads/seed
+data/test-e2e
+data/browser-e2e
+
+# Local test output and tooling.
+test-results
+playwright-report
+*.log
+.DS_Store

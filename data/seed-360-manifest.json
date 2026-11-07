@@ -1,0 +1,4710 @@
+{
+  "version": 1,
+  "note": "Derived editorial transition frames from the two existing catalogue photographs per colourway. Admin-uploaded true angle photographs replace these per variant.",
+  "products": {
+    "obsidian-tailored-suit": {
+      "colors": [
+        {
+          "name": "Onyx Black",
+          "slug": "onyx-black",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/obsidian-tailored-suit/onyx-black/angle-00.webp",
+              "thumbPath": "/media/seed/spin/obsidian-tailored-suit/onyx-black/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 22244
+            },
+            {
+              "path": "/media/seed/spin/obsidian-tailored-suit/onyx-black/angle-01.webp",
+              "thumbPath": "/media/seed/spin/obsidian-tailored-suit/onyx-black/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 23530
+            },
+            {
+              "path": "/media/seed/spin/obsidian-tailored-suit/onyx-black/angle-02.webp",
+              "thumbPath": "/media/seed/spin/obsidian-tailored-suit/onyx-black/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 25166
+            },
+            {
+              "path": "/media/seed/spin/obsidian-tailored-suit/onyx-black/angle-03.webp",
+              "thumbPath": "/media/seed/spin/obsidian-tailored-suit/onyx-black/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 28728
+            },
+            {
+              "path": "/media/seed/spin/obsidian-tailored-suit/onyx-black/angle-04.webp",
+              "thumbPath": "/media/seed/spin/obsidian-tailored-suit/onyx-black/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 32164
+            },
+            {
+              "path": "/media/seed/spin/obsidian-tailored-suit/onyx-black/angle-05.webp",
+              "thumbPath": "/media/seed/spin/obsidian-tailored-suit/onyx-black/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 38140
+            },
+            {
+              "path": "/media/seed/spin/obsidian-tailored-suit/onyx-black/angle-06.webp",
+              "thumbPath": "/media/seed/spin/obsidian-tailored-suit/onyx-black/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 29000
+            },
+            {
+              "path": "/media/seed/spin/obsidian-tailored-suit/onyx-black/angle-07.webp",
+              "thumbPath": "/media/seed/spin/obsidian-tailored-suit/onyx-black/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 24086
+            }
+          ]
+        },
+        {
+          "name": "Champagne Gold",
+          "slug": "champagne-gold",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/obsidian-tailored-suit/champagne-gold/angle-00.webp",
+              "thumbPath": "/media/seed/spin/obsidian-tailored-suit/champagne-gold/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 27636
+            },
+            {
+              "path": "/media/seed/spin/obsidian-tailored-suit/champagne-gold/angle-01.webp",
+              "thumbPath": "/media/seed/spin/obsidian-tailored-suit/champagne-gold/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 28788
+            },
+            {
+              "path": "/media/seed/spin/obsidian-tailored-suit/champagne-gold/angle-02.webp",
+              "thumbPath": "/media/seed/spin/obsidian-tailored-suit/champagne-gold/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 32062
+            },
+            {
+              "path": "/media/seed/spin/obsidian-tailored-suit/champagne-gold/angle-03.webp",
+              "thumbPath": "/media/seed/spin/obsidian-tailored-suit/champagne-gold/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 38362
+            },
+            {
+              "path": "/media/seed/spin/obsidian-tailored-suit/champagne-gold/angle-04.webp",
+              "thumbPath": "/media/seed/spin/obsidian-tailored-suit/champagne-gold/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 44622
+            },
+            {
+              "path": "/media/seed/spin/obsidian-tailored-suit/champagne-gold/angle-05.webp",
+              "thumbPath": "/media/seed/spin/obsidian-tailored-suit/champagne-gold/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 51680
+            },
+            {
+              "path": "/media/seed/spin/obsidian-tailored-suit/champagne-gold/angle-06.webp",
+              "thumbPath": "/media/seed/spin/obsidian-tailored-suit/champagne-gold/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 38900
+            },
+            {
+              "path": "/media/seed/spin/obsidian-tailored-suit/champagne-gold/angle-07.webp",
+              "thumbPath": "/media/seed/spin/obsidian-tailored-suit/champagne-gold/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 29732
+            }
+          ]
+        },
+        {
+          "name": "Oxblood",
+          "slug": "oxblood",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/obsidian-tailored-suit/oxblood/angle-00.webp",
+              "thumbPath": "/media/seed/spin/obsidian-tailored-suit/oxblood/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 23432
+            },
+            {
+              "path": "/media/seed/spin/obsidian-tailored-suit/oxblood/angle-01.webp",
+              "thumbPath": "/media/seed/spin/obsidian-tailored-suit/oxblood/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 24716
+            },
+            {
+              "path": "/media/seed/spin/obsidian-tailored-suit/oxblood/angle-02.webp",
+              "thumbPath": "/media/seed/spin/obsidian-tailored-suit/oxblood/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 26368
+            },
+            {
+              "path": "/media/seed/spin/obsidian-tailored-suit/oxblood/angle-03.webp",
+              "thumbPath": "/media/seed/spin/obsidian-tailored-suit/oxblood/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 30342
+            },
+            {
+              "path": "/media/seed/spin/obsidian-tailored-suit/oxblood/angle-04.webp",
+              "thumbPath": "/media/seed/spin/obsidian-tailored-suit/oxblood/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 33560
+            },
+            {
+              "path": "/media/seed/spin/obsidian-tailored-suit/oxblood/angle-05.webp",
+              "thumbPath": "/media/seed/spin/obsidian-tailored-suit/oxblood/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 38906
+            },
+            {
+              "path": "/media/seed/spin/obsidian-tailored-suit/oxblood/angle-06.webp",
+              "thumbPath": "/media/seed/spin/obsidian-tailored-suit/oxblood/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 30570
+            },
+            {
+              "path": "/media/seed/spin/obsidian-tailored-suit/oxblood/angle-07.webp",
+              "thumbPath": "/media/seed/spin/obsidian-tailored-suit/oxblood/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 24998
+            }
+          ]
+        }
+      ]
+    },
+    "noir-velvet-tuxedo": {
+      "colors": [
+        {
+          "name": "Emerald Noir",
+          "slug": "emerald-noir",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/noir-velvet-tuxedo/emerald-noir/angle-00.webp",
+              "thumbPath": "/media/seed/spin/noir-velvet-tuxedo/emerald-noir/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 22916
+            },
+            {
+              "path": "/media/seed/spin/noir-velvet-tuxedo/emerald-noir/angle-01.webp",
+              "thumbPath": "/media/seed/spin/noir-velvet-tuxedo/emerald-noir/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 24126
+            },
+            {
+              "path": "/media/seed/spin/noir-velvet-tuxedo/emerald-noir/angle-02.webp",
+              "thumbPath": "/media/seed/spin/noir-velvet-tuxedo/emerald-noir/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 26142
+            },
+            {
+              "path": "/media/seed/spin/noir-velvet-tuxedo/emerald-noir/angle-03.webp",
+              "thumbPath": "/media/seed/spin/noir-velvet-tuxedo/emerald-noir/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 29634
+            },
+            {
+              "path": "/media/seed/spin/noir-velvet-tuxedo/emerald-noir/angle-04.webp",
+              "thumbPath": "/media/seed/spin/noir-velvet-tuxedo/emerald-noir/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 34162
+            },
+            {
+              "path": "/media/seed/spin/noir-velvet-tuxedo/emerald-noir/angle-05.webp",
+              "thumbPath": "/media/seed/spin/noir-velvet-tuxedo/emerald-noir/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 39820
+            },
+            {
+              "path": "/media/seed/spin/noir-velvet-tuxedo/emerald-noir/angle-06.webp",
+              "thumbPath": "/media/seed/spin/noir-velvet-tuxedo/emerald-noir/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 29978
+            },
+            {
+              "path": "/media/seed/spin/noir-velvet-tuxedo/emerald-noir/angle-07.webp",
+              "thumbPath": "/media/seed/spin/noir-velvet-tuxedo/emerald-noir/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 24934
+            }
+          ]
+        },
+        {
+          "name": "Rose Gold",
+          "slug": "rose-gold",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/noir-velvet-tuxedo/rose-gold/angle-00.webp",
+              "thumbPath": "/media/seed/spin/noir-velvet-tuxedo/rose-gold/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 26044
+            },
+            {
+              "path": "/media/seed/spin/noir-velvet-tuxedo/rose-gold/angle-01.webp",
+              "thumbPath": "/media/seed/spin/noir-velvet-tuxedo/rose-gold/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 27098
+            },
+            {
+              "path": "/media/seed/spin/noir-velvet-tuxedo/rose-gold/angle-02.webp",
+              "thumbPath": "/media/seed/spin/noir-velvet-tuxedo/rose-gold/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 29510
+            },
+            {
+              "path": "/media/seed/spin/noir-velvet-tuxedo/rose-gold/angle-03.webp",
+              "thumbPath": "/media/seed/spin/noir-velvet-tuxedo/rose-gold/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 34656
+            },
+            {
+              "path": "/media/seed/spin/noir-velvet-tuxedo/rose-gold/angle-04.webp",
+              "thumbPath": "/media/seed/spin/noir-velvet-tuxedo/rose-gold/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 40310
+            },
+            {
+              "path": "/media/seed/spin/noir-velvet-tuxedo/rose-gold/angle-05.webp",
+              "thumbPath": "/media/seed/spin/noir-velvet-tuxedo/rose-gold/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 46460
+            },
+            {
+              "path": "/media/seed/spin/noir-velvet-tuxedo/rose-gold/angle-06.webp",
+              "thumbPath": "/media/seed/spin/noir-velvet-tuxedo/rose-gold/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 35130
+            },
+            {
+              "path": "/media/seed/spin/noir-velvet-tuxedo/rose-gold/angle-07.webp",
+              "thumbPath": "/media/seed/spin/noir-velvet-tuxedo/rose-gold/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 27800
+            }
+          ]
+        },
+        {
+          "name": "Obsidian",
+          "slug": "obsidian",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/noir-velvet-tuxedo/obsidian/angle-00.webp",
+              "thumbPath": "/media/seed/spin/noir-velvet-tuxedo/obsidian/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 21950
+            },
+            {
+              "path": "/media/seed/spin/noir-velvet-tuxedo/obsidian/angle-01.webp",
+              "thumbPath": "/media/seed/spin/noir-velvet-tuxedo/obsidian/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 23024
+            },
+            {
+              "path": "/media/seed/spin/noir-velvet-tuxedo/obsidian/angle-02.webp",
+              "thumbPath": "/media/seed/spin/noir-velvet-tuxedo/obsidian/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 24476
+            },
+            {
+              "path": "/media/seed/spin/noir-velvet-tuxedo/obsidian/angle-03.webp",
+              "thumbPath": "/media/seed/spin/noir-velvet-tuxedo/obsidian/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 27620
+            },
+            {
+              "path": "/media/seed/spin/noir-velvet-tuxedo/obsidian/angle-04.webp",
+              "thumbPath": "/media/seed/spin/noir-velvet-tuxedo/obsidian/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 31538
+            },
+            {
+              "path": "/media/seed/spin/noir-velvet-tuxedo/obsidian/angle-05.webp",
+              "thumbPath": "/media/seed/spin/noir-velvet-tuxedo/obsidian/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 36906
+            },
+            {
+              "path": "/media/seed/spin/noir-velvet-tuxedo/obsidian/angle-06.webp",
+              "thumbPath": "/media/seed/spin/noir-velvet-tuxedo/obsidian/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 28024
+            },
+            {
+              "path": "/media/seed/spin/noir-velvet-tuxedo/obsidian/angle-07.webp",
+              "thumbPath": "/media/seed/spin/noir-velvet-tuxedo/obsidian/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 23560
+            }
+          ]
+        }
+      ]
+    },
+    "aurum-bomber-jacket": {
+      "colors": [
+        {
+          "name": "Midnight Blue",
+          "slug": "midnight-blue",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/aurum-bomber-jacket/midnight-blue/angle-00.webp",
+              "thumbPath": "/media/seed/spin/aurum-bomber-jacket/midnight-blue/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 22686
+            },
+            {
+              "path": "/media/seed/spin/aurum-bomber-jacket/midnight-blue/angle-01.webp",
+              "thumbPath": "/media/seed/spin/aurum-bomber-jacket/midnight-blue/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 23912
+            },
+            {
+              "path": "/media/seed/spin/aurum-bomber-jacket/midnight-blue/angle-02.webp",
+              "thumbPath": "/media/seed/spin/aurum-bomber-jacket/midnight-blue/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 25658
+            },
+            {
+              "path": "/media/seed/spin/aurum-bomber-jacket/midnight-blue/angle-03.webp",
+              "thumbPath": "/media/seed/spin/aurum-bomber-jacket/midnight-blue/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 29414
+            },
+            {
+              "path": "/media/seed/spin/aurum-bomber-jacket/midnight-blue/angle-04.webp",
+              "thumbPath": "/media/seed/spin/aurum-bomber-jacket/midnight-blue/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 32714
+            },
+            {
+              "path": "/media/seed/spin/aurum-bomber-jacket/midnight-blue/angle-05.webp",
+              "thumbPath": "/media/seed/spin/aurum-bomber-jacket/midnight-blue/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 39342
+            },
+            {
+              "path": "/media/seed/spin/aurum-bomber-jacket/midnight-blue/angle-06.webp",
+              "thumbPath": "/media/seed/spin/aurum-bomber-jacket/midnight-blue/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 29564
+            },
+            {
+              "path": "/media/seed/spin/aurum-bomber-jacket/midnight-blue/angle-07.webp",
+              "thumbPath": "/media/seed/spin/aurum-bomber-jacket/midnight-blue/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 24456
+            }
+          ]
+        },
+        {
+          "name": "Ivory",
+          "slug": "ivory",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/aurum-bomber-jacket/ivory/angle-00.webp",
+              "thumbPath": "/media/seed/spin/aurum-bomber-jacket/ivory/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 27330
+            },
+            {
+              "path": "/media/seed/spin/aurum-bomber-jacket/ivory/angle-01.webp",
+              "thumbPath": "/media/seed/spin/aurum-bomber-jacket/ivory/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 28710
+            },
+            {
+              "path": "/media/seed/spin/aurum-bomber-jacket/ivory/angle-02.webp",
+              "thumbPath": "/media/seed/spin/aurum-bomber-jacket/ivory/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 32590
+            },
+            {
+              "path": "/media/seed/spin/aurum-bomber-jacket/ivory/angle-03.webp",
+              "thumbPath": "/media/seed/spin/aurum-bomber-jacket/ivory/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 39034
+            },
+            {
+              "path": "/media/seed/spin/aurum-bomber-jacket/ivory/angle-04.webp",
+              "thumbPath": "/media/seed/spin/aurum-bomber-jacket/ivory/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 45734
+            },
+            {
+              "path": "/media/seed/spin/aurum-bomber-jacket/ivory/angle-05.webp",
+              "thumbPath": "/media/seed/spin/aurum-bomber-jacket/ivory/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 52542
+            },
+            {
+              "path": "/media/seed/spin/aurum-bomber-jacket/ivory/angle-06.webp",
+              "thumbPath": "/media/seed/spin/aurum-bomber-jacket/ivory/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 39726
+            },
+            {
+              "path": "/media/seed/spin/aurum-bomber-jacket/ivory/angle-07.webp",
+              "thumbPath": "/media/seed/spin/aurum-bomber-jacket/ivory/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 29754
+            }
+          ]
+        },
+        {
+          "name": "Graphite",
+          "slug": "graphite",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/aurum-bomber-jacket/graphite/angle-00.webp",
+              "thumbPath": "/media/seed/spin/aurum-bomber-jacket/graphite/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 23548
+            },
+            {
+              "path": "/media/seed/spin/aurum-bomber-jacket/graphite/angle-01.webp",
+              "thumbPath": "/media/seed/spin/aurum-bomber-jacket/graphite/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 24434
+            },
+            {
+              "path": "/media/seed/spin/aurum-bomber-jacket/graphite/angle-02.webp",
+              "thumbPath": "/media/seed/spin/aurum-bomber-jacket/graphite/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 26548
+            },
+            {
+              "path": "/media/seed/spin/aurum-bomber-jacket/graphite/angle-03.webp",
+              "thumbPath": "/media/seed/spin/aurum-bomber-jacket/graphite/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 30348
+            },
+            {
+              "path": "/media/seed/spin/aurum-bomber-jacket/graphite/angle-04.webp",
+              "thumbPath": "/media/seed/spin/aurum-bomber-jacket/graphite/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 34742
+            },
+            {
+              "path": "/media/seed/spin/aurum-bomber-jacket/graphite/angle-05.webp",
+              "thumbPath": "/media/seed/spin/aurum-bomber-jacket/graphite/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 40356
+            },
+            {
+              "path": "/media/seed/spin/aurum-bomber-jacket/graphite/angle-06.webp",
+              "thumbPath": "/media/seed/spin/aurum-bomber-jacket/graphite/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 30474
+            },
+            {
+              "path": "/media/seed/spin/aurum-bomber-jacket/graphite/angle-07.webp",
+              "thumbPath": "/media/seed/spin/aurum-bomber-jacket/graphite/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 25130
+            }
+          ]
+        }
+      ]
+    },
+    "monogram-tailored-shirt": {
+      "colors": [
+        {
+          "name": "Espresso",
+          "slug": "espresso",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/monogram-tailored-shirt/espresso/angle-00.webp",
+              "thumbPath": "/media/seed/spin/monogram-tailored-shirt/espresso/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 22544
+            },
+            {
+              "path": "/media/seed/spin/monogram-tailored-shirt/espresso/angle-01.webp",
+              "thumbPath": "/media/seed/spin/monogram-tailored-shirt/espresso/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 23876
+            },
+            {
+              "path": "/media/seed/spin/monogram-tailored-shirt/espresso/angle-02.webp",
+              "thumbPath": "/media/seed/spin/monogram-tailored-shirt/espresso/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 25762
+            },
+            {
+              "path": "/media/seed/spin/monogram-tailored-shirt/espresso/angle-03.webp",
+              "thumbPath": "/media/seed/spin/monogram-tailored-shirt/espresso/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 29630
+            },
+            {
+              "path": "/media/seed/spin/monogram-tailored-shirt/espresso/angle-04.webp",
+              "thumbPath": "/media/seed/spin/monogram-tailored-shirt/espresso/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 34104
+            },
+            {
+              "path": "/media/seed/spin/monogram-tailored-shirt/espresso/angle-05.webp",
+              "thumbPath": "/media/seed/spin/monogram-tailored-shirt/espresso/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 39832
+            },
+            {
+              "path": "/media/seed/spin/monogram-tailored-shirt/espresso/angle-06.webp",
+              "thumbPath": "/media/seed/spin/monogram-tailored-shirt/espresso/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 29944
+            },
+            {
+              "path": "/media/seed/spin/monogram-tailored-shirt/espresso/angle-07.webp",
+              "thumbPath": "/media/seed/spin/monogram-tailored-shirt/espresso/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 24470
+            }
+          ]
+        },
+        {
+          "name": "Antique Gold",
+          "slug": "antique-gold",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/monogram-tailored-shirt/antique-gold/angle-00.webp",
+              "thumbPath": "/media/seed/spin/monogram-tailored-shirt/antique-gold/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 27238
+            },
+            {
+              "path": "/media/seed/spin/monogram-tailored-shirt/antique-gold/angle-01.webp",
+              "thumbPath": "/media/seed/spin/monogram-tailored-shirt/antique-gold/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 28208
+            },
+            {
+              "path": "/media/seed/spin/monogram-tailored-shirt/antique-gold/angle-02.webp",
+              "thumbPath": "/media/seed/spin/monogram-tailored-shirt/antique-gold/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 30968
+            },
+            {
+              "path": "/media/seed/spin/monogram-tailored-shirt/antique-gold/angle-03.webp",
+              "thumbPath": "/media/seed/spin/monogram-tailored-shirt/antique-gold/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 36552
+            },
+            {
+              "path": "/media/seed/spin/monogram-tailored-shirt/antique-gold/angle-04.webp",
+              "thumbPath": "/media/seed/spin/monogram-tailored-shirt/antique-gold/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 42362
+            },
+            {
+              "path": "/media/seed/spin/monogram-tailored-shirt/antique-gold/angle-05.webp",
+              "thumbPath": "/media/seed/spin/monogram-tailored-shirt/antique-gold/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 48848
+            },
+            {
+              "path": "/media/seed/spin/monogram-tailored-shirt/antique-gold/angle-06.webp",
+              "thumbPath": "/media/seed/spin/monogram-tailored-shirt/antique-gold/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 36942
+            },
+            {
+              "path": "/media/seed/spin/monogram-tailored-shirt/antique-gold/angle-07.webp",
+              "thumbPath": "/media/seed/spin/monogram-tailored-shirt/antique-gold/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 28948
+            }
+          ]
+        },
+        {
+          "name": "Burgundy",
+          "slug": "burgundy",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/monogram-tailored-shirt/burgundy/angle-00.webp",
+              "thumbPath": "/media/seed/spin/monogram-tailored-shirt/burgundy/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 23180
+            },
+            {
+              "path": "/media/seed/spin/monogram-tailored-shirt/burgundy/angle-01.webp",
+              "thumbPath": "/media/seed/spin/monogram-tailored-shirt/burgundy/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 24220
+            },
+            {
+              "path": "/media/seed/spin/monogram-tailored-shirt/burgundy/angle-02.webp",
+              "thumbPath": "/media/seed/spin/monogram-tailored-shirt/burgundy/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 26098
+            },
+            {
+              "path": "/media/seed/spin/monogram-tailored-shirt/burgundy/angle-03.webp",
+              "thumbPath": "/media/seed/spin/monogram-tailored-shirt/burgundy/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 29644
+            },
+            {
+              "path": "/media/seed/spin/monogram-tailored-shirt/burgundy/angle-04.webp",
+              "thumbPath": "/media/seed/spin/monogram-tailored-shirt/burgundy/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 33748
+            },
+            {
+              "path": "/media/seed/spin/monogram-tailored-shirt/burgundy/angle-05.webp",
+              "thumbPath": "/media/seed/spin/monogram-tailored-shirt/burgundy/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 38458
+            },
+            {
+              "path": "/media/seed/spin/monogram-tailored-shirt/burgundy/angle-06.webp",
+              "thumbPath": "/media/seed/spin/monogram-tailored-shirt/burgundy/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 29830
+            },
+            {
+              "path": "/media/seed/spin/monogram-tailored-shirt/burgundy/angle-07.webp",
+              "thumbPath": "/media/seed/spin/monogram-tailored-shirt/burgundy/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 24640
+            }
+          ]
+        }
+      ]
+    },
+    "midnight-architect-coat": {
+      "colors": [
+        {
+          "name": "Onyx Black",
+          "slug": "onyx-black",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/midnight-architect-coat/onyx-black/angle-00.webp",
+              "thumbPath": "/media/seed/spin/midnight-architect-coat/onyx-black/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 19882
+            },
+            {
+              "path": "/media/seed/spin/midnight-architect-coat/onyx-black/angle-01.webp",
+              "thumbPath": "/media/seed/spin/midnight-architect-coat/onyx-black/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 19736
+            },
+            {
+              "path": "/media/seed/spin/midnight-architect-coat/onyx-black/angle-02.webp",
+              "thumbPath": "/media/seed/spin/midnight-architect-coat/onyx-black/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 20324
+            },
+            {
+              "path": "/media/seed/spin/midnight-architect-coat/onyx-black/angle-03.webp",
+              "thumbPath": "/media/seed/spin/midnight-architect-coat/onyx-black/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 21984
+            },
+            {
+              "path": "/media/seed/spin/midnight-architect-coat/onyx-black/angle-04.webp",
+              "thumbPath": "/media/seed/spin/midnight-architect-coat/onyx-black/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 24040
+            },
+            {
+              "path": "/media/seed/spin/midnight-architect-coat/onyx-black/angle-05.webp",
+              "thumbPath": "/media/seed/spin/midnight-architect-coat/onyx-black/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 27724
+            },
+            {
+              "path": "/media/seed/spin/midnight-architect-coat/onyx-black/angle-06.webp",
+              "thumbPath": "/media/seed/spin/midnight-architect-coat/onyx-black/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 22302
+            },
+            {
+              "path": "/media/seed/spin/midnight-architect-coat/onyx-black/angle-07.webp",
+              "thumbPath": "/media/seed/spin/midnight-architect-coat/onyx-black/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 19926
+            }
+          ]
+        },
+        {
+          "name": "Champagne Gold",
+          "slug": "champagne-gold",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/midnight-architect-coat/champagne-gold/angle-00.webp",
+              "thumbPath": "/media/seed/spin/midnight-architect-coat/champagne-gold/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 25200
+            },
+            {
+              "path": "/media/seed/spin/midnight-architect-coat/champagne-gold/angle-01.webp",
+              "thumbPath": "/media/seed/spin/midnight-architect-coat/champagne-gold/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 25484
+            },
+            {
+              "path": "/media/seed/spin/midnight-architect-coat/champagne-gold/angle-02.webp",
+              "thumbPath": "/media/seed/spin/midnight-architect-coat/champagne-gold/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 27220
+            },
+            {
+              "path": "/media/seed/spin/midnight-architect-coat/champagne-gold/angle-03.webp",
+              "thumbPath": "/media/seed/spin/midnight-architect-coat/champagne-gold/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 29976
+            },
+            {
+              "path": "/media/seed/spin/midnight-architect-coat/champagne-gold/angle-04.webp",
+              "thumbPath": "/media/seed/spin/midnight-architect-coat/champagne-gold/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 33560
+            },
+            {
+              "path": "/media/seed/spin/midnight-architect-coat/champagne-gold/angle-05.webp",
+              "thumbPath": "/media/seed/spin/midnight-architect-coat/champagne-gold/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 38044
+            },
+            {
+              "path": "/media/seed/spin/midnight-architect-coat/champagne-gold/angle-06.webp",
+              "thumbPath": "/media/seed/spin/midnight-architect-coat/champagne-gold/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 30282
+            },
+            {
+              "path": "/media/seed/spin/midnight-architect-coat/champagne-gold/angle-07.webp",
+              "thumbPath": "/media/seed/spin/midnight-architect-coat/champagne-gold/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 25770
+            }
+          ]
+        },
+        {
+          "name": "Oxblood",
+          "slug": "oxblood",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/midnight-architect-coat/oxblood/angle-00.webp",
+              "thumbPath": "/media/seed/spin/midnight-architect-coat/oxblood/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 20846
+            },
+            {
+              "path": "/media/seed/spin/midnight-architect-coat/oxblood/angle-01.webp",
+              "thumbPath": "/media/seed/spin/midnight-architect-coat/oxblood/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 20778
+            },
+            {
+              "path": "/media/seed/spin/midnight-architect-coat/oxblood/angle-02.webp",
+              "thumbPath": "/media/seed/spin/midnight-architect-coat/oxblood/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 21534
+            },
+            {
+              "path": "/media/seed/spin/midnight-architect-coat/oxblood/angle-03.webp",
+              "thumbPath": "/media/seed/spin/midnight-architect-coat/oxblood/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 23688
+            },
+            {
+              "path": "/media/seed/spin/midnight-architect-coat/oxblood/angle-04.webp",
+              "thumbPath": "/media/seed/spin/midnight-architect-coat/oxblood/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 25626
+            },
+            {
+              "path": "/media/seed/spin/midnight-architect-coat/oxblood/angle-05.webp",
+              "thumbPath": "/media/seed/spin/midnight-architect-coat/oxblood/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 29300
+            },
+            {
+              "path": "/media/seed/spin/midnight-architect-coat/oxblood/angle-06.webp",
+              "thumbPath": "/media/seed/spin/midnight-architect-coat/oxblood/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 23466
+            },
+            {
+              "path": "/media/seed/spin/midnight-architect-coat/oxblood/angle-07.webp",
+              "thumbPath": "/media/seed/spin/midnight-architect-coat/oxblood/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 20890
+            }
+          ]
+        }
+      ]
+    },
+    "gilded-silk-gown": {
+      "colors": [
+        {
+          "name": "Emerald Noir",
+          "slug": "emerald-noir",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/gilded-silk-gown/emerald-noir/angle-00.webp",
+              "thumbPath": "/media/seed/spin/gilded-silk-gown/emerald-noir/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 20606
+            },
+            {
+              "path": "/media/seed/spin/gilded-silk-gown/emerald-noir/angle-01.webp",
+              "thumbPath": "/media/seed/spin/gilded-silk-gown/emerald-noir/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 20306
+            },
+            {
+              "path": "/media/seed/spin/gilded-silk-gown/emerald-noir/angle-02.webp",
+              "thumbPath": "/media/seed/spin/gilded-silk-gown/emerald-noir/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 21422
+            },
+            {
+              "path": "/media/seed/spin/gilded-silk-gown/emerald-noir/angle-03.webp",
+              "thumbPath": "/media/seed/spin/gilded-silk-gown/emerald-noir/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 23266
+            },
+            {
+              "path": "/media/seed/spin/gilded-silk-gown/emerald-noir/angle-04.webp",
+              "thumbPath": "/media/seed/spin/gilded-silk-gown/emerald-noir/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 25904
+            },
+            {
+              "path": "/media/seed/spin/gilded-silk-gown/emerald-noir/angle-05.webp",
+              "thumbPath": "/media/seed/spin/gilded-silk-gown/emerald-noir/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 29816
+            },
+            {
+              "path": "/media/seed/spin/gilded-silk-gown/emerald-noir/angle-06.webp",
+              "thumbPath": "/media/seed/spin/gilded-silk-gown/emerald-noir/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 23472
+            },
+            {
+              "path": "/media/seed/spin/gilded-silk-gown/emerald-noir/angle-07.webp",
+              "thumbPath": "/media/seed/spin/gilded-silk-gown/emerald-noir/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 20426
+            }
+          ]
+        },
+        {
+          "name": "Rose Gold",
+          "slug": "rose-gold",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/gilded-silk-gown/rose-gold/angle-00.webp",
+              "thumbPath": "/media/seed/spin/gilded-silk-gown/rose-gold/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 23218
+            },
+            {
+              "path": "/media/seed/spin/gilded-silk-gown/rose-gold/angle-01.webp",
+              "thumbPath": "/media/seed/spin/gilded-silk-gown/rose-gold/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 23192
+            },
+            {
+              "path": "/media/seed/spin/gilded-silk-gown/rose-gold/angle-02.webp",
+              "thumbPath": "/media/seed/spin/gilded-silk-gown/rose-gold/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 25068
+            },
+            {
+              "path": "/media/seed/spin/gilded-silk-gown/rose-gold/angle-03.webp",
+              "thumbPath": "/media/seed/spin/gilded-silk-gown/rose-gold/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 28538
+            },
+            {
+              "path": "/media/seed/spin/gilded-silk-gown/rose-gold/angle-04.webp",
+              "thumbPath": "/media/seed/spin/gilded-silk-gown/rose-gold/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 31482
+            },
+            {
+              "path": "/media/seed/spin/gilded-silk-gown/rose-gold/angle-05.webp",
+              "thumbPath": "/media/seed/spin/gilded-silk-gown/rose-gold/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 35982
+            },
+            {
+              "path": "/media/seed/spin/gilded-silk-gown/rose-gold/angle-06.webp",
+              "thumbPath": "/media/seed/spin/gilded-silk-gown/rose-gold/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 28314
+            },
+            {
+              "path": "/media/seed/spin/gilded-silk-gown/rose-gold/angle-07.webp",
+              "thumbPath": "/media/seed/spin/gilded-silk-gown/rose-gold/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 23698
+            }
+          ]
+        },
+        {
+          "name": "Obsidian",
+          "slug": "obsidian",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/gilded-silk-gown/obsidian/angle-00.webp",
+              "thumbPath": "/media/seed/spin/gilded-silk-gown/obsidian/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 19566
+            },
+            {
+              "path": "/media/seed/spin/gilded-silk-gown/obsidian/angle-01.webp",
+              "thumbPath": "/media/seed/spin/gilded-silk-gown/obsidian/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 19206
+            },
+            {
+              "path": "/media/seed/spin/gilded-silk-gown/obsidian/angle-02.webp",
+              "thumbPath": "/media/seed/spin/gilded-silk-gown/obsidian/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 19418
+            },
+            {
+              "path": "/media/seed/spin/gilded-silk-gown/obsidian/angle-03.webp",
+              "thumbPath": "/media/seed/spin/gilded-silk-gown/obsidian/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 21184
+            },
+            {
+              "path": "/media/seed/spin/gilded-silk-gown/obsidian/angle-04.webp",
+              "thumbPath": "/media/seed/spin/gilded-silk-gown/obsidian/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 22730
+            },
+            {
+              "path": "/media/seed/spin/gilded-silk-gown/obsidian/angle-05.webp",
+              "thumbPath": "/media/seed/spin/gilded-silk-gown/obsidian/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 26230
+            },
+            {
+              "path": "/media/seed/spin/gilded-silk-gown/obsidian/angle-06.webp",
+              "thumbPath": "/media/seed/spin/gilded-silk-gown/obsidian/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 21052
+            },
+            {
+              "path": "/media/seed/spin/gilded-silk-gown/obsidian/angle-07.webp",
+              "thumbPath": "/media/seed/spin/gilded-silk-gown/obsidian/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 19286
+            }
+          ]
+        }
+      ]
+    },
+    "obsidian-power-blazer": {
+      "colors": [
+        {
+          "name": "Midnight Blue",
+          "slug": "midnight-blue",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/obsidian-power-blazer/midnight-blue/angle-00.webp",
+              "thumbPath": "/media/seed/spin/obsidian-power-blazer/midnight-blue/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 20092
+            },
+            {
+              "path": "/media/seed/spin/obsidian-power-blazer/midnight-blue/angle-01.webp",
+              "thumbPath": "/media/seed/spin/obsidian-power-blazer/midnight-blue/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 19918
+            },
+            {
+              "path": "/media/seed/spin/obsidian-power-blazer/midnight-blue/angle-02.webp",
+              "thumbPath": "/media/seed/spin/obsidian-power-blazer/midnight-blue/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 20632
+            },
+            {
+              "path": "/media/seed/spin/obsidian-power-blazer/midnight-blue/angle-03.webp",
+              "thumbPath": "/media/seed/spin/obsidian-power-blazer/midnight-blue/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 22150
+            },
+            {
+              "path": "/media/seed/spin/obsidian-power-blazer/midnight-blue/angle-04.webp",
+              "thumbPath": "/media/seed/spin/obsidian-power-blazer/midnight-blue/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 24498
+            },
+            {
+              "path": "/media/seed/spin/obsidian-power-blazer/midnight-blue/angle-05.webp",
+              "thumbPath": "/media/seed/spin/obsidian-power-blazer/midnight-blue/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 28064
+            },
+            {
+              "path": "/media/seed/spin/obsidian-power-blazer/midnight-blue/angle-06.webp",
+              "thumbPath": "/media/seed/spin/obsidian-power-blazer/midnight-blue/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 22638
+            },
+            {
+              "path": "/media/seed/spin/obsidian-power-blazer/midnight-blue/angle-07.webp",
+              "thumbPath": "/media/seed/spin/obsidian-power-blazer/midnight-blue/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 20066
+            }
+          ]
+        },
+        {
+          "name": "Ivory",
+          "slug": "ivory",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/obsidian-power-blazer/ivory/angle-00.webp",
+              "thumbPath": "/media/seed/spin/obsidian-power-blazer/ivory/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 25544
+            },
+            {
+              "path": "/media/seed/spin/obsidian-power-blazer/ivory/angle-01.webp",
+              "thumbPath": "/media/seed/spin/obsidian-power-blazer/ivory/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 25170
+            },
+            {
+              "path": "/media/seed/spin/obsidian-power-blazer/ivory/angle-02.webp",
+              "thumbPath": "/media/seed/spin/obsidian-power-blazer/ivory/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 28086
+            },
+            {
+              "path": "/media/seed/spin/obsidian-power-blazer/ivory/angle-03.webp",
+              "thumbPath": "/media/seed/spin/obsidian-power-blazer/ivory/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 31592
+            },
+            {
+              "path": "/media/seed/spin/obsidian-power-blazer/ivory/angle-04.webp",
+              "thumbPath": "/media/seed/spin/obsidian-power-blazer/ivory/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 35580
+            },
+            {
+              "path": "/media/seed/spin/obsidian-power-blazer/ivory/angle-05.webp",
+              "thumbPath": "/media/seed/spin/obsidian-power-blazer/ivory/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 41546
+            },
+            {
+              "path": "/media/seed/spin/obsidian-power-blazer/ivory/angle-06.webp",
+              "thumbPath": "/media/seed/spin/obsidian-power-blazer/ivory/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 32134
+            },
+            {
+              "path": "/media/seed/spin/obsidian-power-blazer/ivory/angle-07.webp",
+              "thumbPath": "/media/seed/spin/obsidian-power-blazer/ivory/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 26290
+            }
+          ]
+        },
+        {
+          "name": "Graphite",
+          "slug": "graphite",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/obsidian-power-blazer/graphite/angle-00.webp",
+              "thumbPath": "/media/seed/spin/obsidian-power-blazer/graphite/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 20944
+            },
+            {
+              "path": "/media/seed/spin/obsidian-power-blazer/graphite/angle-01.webp",
+              "thumbPath": "/media/seed/spin/obsidian-power-blazer/graphite/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 20662
+            },
+            {
+              "path": "/media/seed/spin/obsidian-power-blazer/graphite/angle-02.webp",
+              "thumbPath": "/media/seed/spin/obsidian-power-blazer/graphite/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 21414
+            },
+            {
+              "path": "/media/seed/spin/obsidian-power-blazer/graphite/angle-03.webp",
+              "thumbPath": "/media/seed/spin/obsidian-power-blazer/graphite/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 23684
+            },
+            {
+              "path": "/media/seed/spin/obsidian-power-blazer/graphite/angle-04.webp",
+              "thumbPath": "/media/seed/spin/obsidian-power-blazer/graphite/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 25564
+            },
+            {
+              "path": "/media/seed/spin/obsidian-power-blazer/graphite/angle-05.webp",
+              "thumbPath": "/media/seed/spin/obsidian-power-blazer/graphite/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 29108
+            },
+            {
+              "path": "/media/seed/spin/obsidian-power-blazer/graphite/angle-06.webp",
+              "thumbPath": "/media/seed/spin/obsidian-power-blazer/graphite/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 23918
+            },
+            {
+              "path": "/media/seed/spin/obsidian-power-blazer/graphite/angle-07.webp",
+              "thumbPath": "/media/seed/spin/obsidian-power-blazer/graphite/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 20814
+            }
+          ]
+        }
+      ]
+    },
+    "noir-pleated-midi": {
+      "colors": [
+        {
+          "name": "Espresso",
+          "slug": "espresso",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/noir-pleated-midi/espresso/angle-00.webp",
+              "thumbPath": "/media/seed/spin/noir-pleated-midi/espresso/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 20482
+            },
+            {
+              "path": "/media/seed/spin/noir-pleated-midi/espresso/angle-01.webp",
+              "thumbPath": "/media/seed/spin/noir-pleated-midi/espresso/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 20154
+            },
+            {
+              "path": "/media/seed/spin/noir-pleated-midi/espresso/angle-02.webp",
+              "thumbPath": "/media/seed/spin/noir-pleated-midi/espresso/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 21060
+            },
+            {
+              "path": "/media/seed/spin/noir-pleated-midi/espresso/angle-03.webp",
+              "thumbPath": "/media/seed/spin/noir-pleated-midi/espresso/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 22644
+            },
+            {
+              "path": "/media/seed/spin/noir-pleated-midi/espresso/angle-04.webp",
+              "thumbPath": "/media/seed/spin/noir-pleated-midi/espresso/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 24870
+            },
+            {
+              "path": "/media/seed/spin/noir-pleated-midi/espresso/angle-05.webp",
+              "thumbPath": "/media/seed/spin/noir-pleated-midi/espresso/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 28306
+            },
+            {
+              "path": "/media/seed/spin/noir-pleated-midi/espresso/angle-06.webp",
+              "thumbPath": "/media/seed/spin/noir-pleated-midi/espresso/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 22986
+            },
+            {
+              "path": "/media/seed/spin/noir-pleated-midi/espresso/angle-07.webp",
+              "thumbPath": "/media/seed/spin/noir-pleated-midi/espresso/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 20536
+            }
+          ]
+        },
+        {
+          "name": "Antique Gold",
+          "slug": "antique-gold",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/noir-pleated-midi/antique-gold/angle-00.webp",
+              "thumbPath": "/media/seed/spin/noir-pleated-midi/antique-gold/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 24744
+            },
+            {
+              "path": "/media/seed/spin/noir-pleated-midi/antique-gold/angle-01.webp",
+              "thumbPath": "/media/seed/spin/noir-pleated-midi/antique-gold/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 24378
+            },
+            {
+              "path": "/media/seed/spin/noir-pleated-midi/antique-gold/angle-02.webp",
+              "thumbPath": "/media/seed/spin/noir-pleated-midi/antique-gold/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 26438
+            },
+            {
+              "path": "/media/seed/spin/noir-pleated-midi/antique-gold/angle-03.webp",
+              "thumbPath": "/media/seed/spin/noir-pleated-midi/antique-gold/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 29392
+            },
+            {
+              "path": "/media/seed/spin/noir-pleated-midi/antique-gold/angle-04.webp",
+              "thumbPath": "/media/seed/spin/noir-pleated-midi/antique-gold/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 32786
+            },
+            {
+              "path": "/media/seed/spin/noir-pleated-midi/antique-gold/angle-05.webp",
+              "thumbPath": "/media/seed/spin/noir-pleated-midi/antique-gold/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 37246
+            },
+            {
+              "path": "/media/seed/spin/noir-pleated-midi/antique-gold/angle-06.webp",
+              "thumbPath": "/media/seed/spin/noir-pleated-midi/antique-gold/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 29592
+            },
+            {
+              "path": "/media/seed/spin/noir-pleated-midi/antique-gold/angle-07.webp",
+              "thumbPath": "/media/seed/spin/noir-pleated-midi/antique-gold/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 24982
+            }
+          ]
+        },
+        {
+          "name": "Burgundy",
+          "slug": "burgundy",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/noir-pleated-midi/burgundy/angle-00.webp",
+              "thumbPath": "/media/seed/spin/noir-pleated-midi/burgundy/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 20648
+            },
+            {
+              "path": "/media/seed/spin/noir-pleated-midi/burgundy/angle-01.webp",
+              "thumbPath": "/media/seed/spin/noir-pleated-midi/burgundy/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 20700
+            },
+            {
+              "path": "/media/seed/spin/noir-pleated-midi/burgundy/angle-02.webp",
+              "thumbPath": "/media/seed/spin/noir-pleated-midi/burgundy/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 21018
+            },
+            {
+              "path": "/media/seed/spin/noir-pleated-midi/burgundy/angle-03.webp",
+              "thumbPath": "/media/seed/spin/noir-pleated-midi/burgundy/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 23152
+            },
+            {
+              "path": "/media/seed/spin/noir-pleated-midi/burgundy/angle-04.webp",
+              "thumbPath": "/media/seed/spin/noir-pleated-midi/burgundy/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 24692
+            },
+            {
+              "path": "/media/seed/spin/noir-pleated-midi/burgundy/angle-05.webp",
+              "thumbPath": "/media/seed/spin/noir-pleated-midi/burgundy/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 28030
+            },
+            {
+              "path": "/media/seed/spin/noir-pleated-midi/burgundy/angle-06.webp",
+              "thumbPath": "/media/seed/spin/noir-pleated-midi/burgundy/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 22872
+            },
+            {
+              "path": "/media/seed/spin/noir-pleated-midi/burgundy/angle-07.webp",
+              "thumbPath": "/media/seed/spin/noir-pleated-midi/burgundy/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 20800
+            }
+          ]
+        }
+      ]
+    },
+    "little-legacy-suit": {
+      "colors": [
+        {
+          "name": "Onyx Black",
+          "slug": "onyx-black",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/little-legacy-suit/onyx-black/angle-00.webp",
+              "thumbPath": "/media/seed/spin/little-legacy-suit/onyx-black/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 34890
+            },
+            {
+              "path": "/media/seed/spin/little-legacy-suit/onyx-black/angle-01.webp",
+              "thumbPath": "/media/seed/spin/little-legacy-suit/onyx-black/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 34624
+            },
+            {
+              "path": "/media/seed/spin/little-legacy-suit/onyx-black/angle-02.webp",
+              "thumbPath": "/media/seed/spin/little-legacy-suit/onyx-black/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 33894
+            },
+            {
+              "path": "/media/seed/spin/little-legacy-suit/onyx-black/angle-03.webp",
+              "thumbPath": "/media/seed/spin/little-legacy-suit/onyx-black/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 35128
+            },
+            {
+              "path": "/media/seed/spin/little-legacy-suit/onyx-black/angle-04.webp",
+              "thumbPath": "/media/seed/spin/little-legacy-suit/onyx-black/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 38086
+            },
+            {
+              "path": "/media/seed/spin/little-legacy-suit/onyx-black/angle-05.webp",
+              "thumbPath": "/media/seed/spin/little-legacy-suit/onyx-black/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 46578
+            },
+            {
+              "path": "/media/seed/spin/little-legacy-suit/onyx-black/angle-06.webp",
+              "thumbPath": "/media/seed/spin/little-legacy-suit/onyx-black/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 36358
+            },
+            {
+              "path": "/media/seed/spin/little-legacy-suit/onyx-black/angle-07.webp",
+              "thumbPath": "/media/seed/spin/little-legacy-suit/onyx-black/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 33834
+            }
+          ]
+        },
+        {
+          "name": "Champagne Gold",
+          "slug": "champagne-gold",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/little-legacy-suit/champagne-gold/angle-00.webp",
+              "thumbPath": "/media/seed/spin/little-legacy-suit/champagne-gold/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 42882
+            },
+            {
+              "path": "/media/seed/spin/little-legacy-suit/champagne-gold/angle-01.webp",
+              "thumbPath": "/media/seed/spin/little-legacy-suit/champagne-gold/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 42596
+            },
+            {
+              "path": "/media/seed/spin/little-legacy-suit/champagne-gold/angle-02.webp",
+              "thumbPath": "/media/seed/spin/little-legacy-suit/champagne-gold/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 43404
+            },
+            {
+              "path": "/media/seed/spin/little-legacy-suit/champagne-gold/angle-03.webp",
+              "thumbPath": "/media/seed/spin/little-legacy-suit/champagne-gold/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 49474
+            },
+            {
+              "path": "/media/seed/spin/little-legacy-suit/champagne-gold/angle-04.webp",
+              "thumbPath": "/media/seed/spin/little-legacy-suit/champagne-gold/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 57366
+            },
+            {
+              "path": "/media/seed/spin/little-legacy-suit/champagne-gold/angle-05.webp",
+              "thumbPath": "/media/seed/spin/little-legacy-suit/champagne-gold/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 68068
+            },
+            {
+              "path": "/media/seed/spin/little-legacy-suit/champagne-gold/angle-06.webp",
+              "thumbPath": "/media/seed/spin/little-legacy-suit/champagne-gold/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 49898
+            },
+            {
+              "path": "/media/seed/spin/little-legacy-suit/champagne-gold/angle-07.webp",
+              "thumbPath": "/media/seed/spin/little-legacy-suit/champagne-gold/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 41814
+            }
+          ]
+        },
+        {
+          "name": "Oxblood",
+          "slug": "oxblood",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/little-legacy-suit/oxblood/angle-00.webp",
+              "thumbPath": "/media/seed/spin/little-legacy-suit/oxblood/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 36310
+            },
+            {
+              "path": "/media/seed/spin/little-legacy-suit/oxblood/angle-01.webp",
+              "thumbPath": "/media/seed/spin/little-legacy-suit/oxblood/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 35790
+            },
+            {
+              "path": "/media/seed/spin/little-legacy-suit/oxblood/angle-02.webp",
+              "thumbPath": "/media/seed/spin/little-legacy-suit/oxblood/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 34720
+            },
+            {
+              "path": "/media/seed/spin/little-legacy-suit/oxblood/angle-03.webp",
+              "thumbPath": "/media/seed/spin/little-legacy-suit/oxblood/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 36294
+            },
+            {
+              "path": "/media/seed/spin/little-legacy-suit/oxblood/angle-04.webp",
+              "thumbPath": "/media/seed/spin/little-legacy-suit/oxblood/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 38986
+            },
+            {
+              "path": "/media/seed/spin/little-legacy-suit/oxblood/angle-05.webp",
+              "thumbPath": "/media/seed/spin/little-legacy-suit/oxblood/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 44900
+            },
+            {
+              "path": "/media/seed/spin/little-legacy-suit/oxblood/angle-06.webp",
+              "thumbPath": "/media/seed/spin/little-legacy-suit/oxblood/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 36524
+            },
+            {
+              "path": "/media/seed/spin/little-legacy-suit/oxblood/angle-07.webp",
+              "thumbPath": "/media/seed/spin/little-legacy-suit/oxblood/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 34888
+            }
+          ]
+        }
+      ]
+    },
+    "mini-velvet-dress": {
+      "colors": [
+        {
+          "name": "Emerald Noir",
+          "slug": "emerald-noir",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/mini-velvet-dress/emerald-noir/angle-00.webp",
+              "thumbPath": "/media/seed/spin/mini-velvet-dress/emerald-noir/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 35850
+            },
+            {
+              "path": "/media/seed/spin/mini-velvet-dress/emerald-noir/angle-01.webp",
+              "thumbPath": "/media/seed/spin/mini-velvet-dress/emerald-noir/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 35498
+            },
+            {
+              "path": "/media/seed/spin/mini-velvet-dress/emerald-noir/angle-02.webp",
+              "thumbPath": "/media/seed/spin/mini-velvet-dress/emerald-noir/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 35392
+            },
+            {
+              "path": "/media/seed/spin/mini-velvet-dress/emerald-noir/angle-03.webp",
+              "thumbPath": "/media/seed/spin/mini-velvet-dress/emerald-noir/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 39528
+            },
+            {
+              "path": "/media/seed/spin/mini-velvet-dress/emerald-noir/angle-04.webp",
+              "thumbPath": "/media/seed/spin/mini-velvet-dress/emerald-noir/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 46326
+            },
+            {
+              "path": "/media/seed/spin/mini-velvet-dress/emerald-noir/angle-05.webp",
+              "thumbPath": "/media/seed/spin/mini-velvet-dress/emerald-noir/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 56100
+            },
+            {
+              "path": "/media/seed/spin/mini-velvet-dress/emerald-noir/angle-06.webp",
+              "thumbPath": "/media/seed/spin/mini-velvet-dress/emerald-noir/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 39822
+            },
+            {
+              "path": "/media/seed/spin/mini-velvet-dress/emerald-noir/angle-07.webp",
+              "thumbPath": "/media/seed/spin/mini-velvet-dress/emerald-noir/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 34936
+            }
+          ]
+        },
+        {
+          "name": "Rose Gold",
+          "slug": "rose-gold",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/mini-velvet-dress/rose-gold/angle-00.webp",
+              "thumbPath": "/media/seed/spin/mini-velvet-dress/rose-gold/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 39980
+            },
+            {
+              "path": "/media/seed/spin/mini-velvet-dress/rose-gold/angle-01.webp",
+              "thumbPath": "/media/seed/spin/mini-velvet-dress/rose-gold/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 39794
+            },
+            {
+              "path": "/media/seed/spin/mini-velvet-dress/rose-gold/angle-02.webp",
+              "thumbPath": "/media/seed/spin/mini-velvet-dress/rose-gold/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 39890
+            },
+            {
+              "path": "/media/seed/spin/mini-velvet-dress/rose-gold/angle-03.webp",
+              "thumbPath": "/media/seed/spin/mini-velvet-dress/rose-gold/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 44462
+            },
+            {
+              "path": "/media/seed/spin/mini-velvet-dress/rose-gold/angle-04.webp",
+              "thumbPath": "/media/seed/spin/mini-velvet-dress/rose-gold/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 49578
+            },
+            {
+              "path": "/media/seed/spin/mini-velvet-dress/rose-gold/angle-05.webp",
+              "thumbPath": "/media/seed/spin/mini-velvet-dress/rose-gold/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 59328
+            },
+            {
+              "path": "/media/seed/spin/mini-velvet-dress/rose-gold/angle-06.webp",
+              "thumbPath": "/media/seed/spin/mini-velvet-dress/rose-gold/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 44270
+            },
+            {
+              "path": "/media/seed/spin/mini-velvet-dress/rose-gold/angle-07.webp",
+              "thumbPath": "/media/seed/spin/mini-velvet-dress/rose-gold/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 39002
+            }
+          ]
+        },
+        {
+          "name": "Obsidian",
+          "slug": "obsidian",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/mini-velvet-dress/obsidian/angle-00.webp",
+              "thumbPath": "/media/seed/spin/mini-velvet-dress/obsidian/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 33884
+            },
+            {
+              "path": "/media/seed/spin/mini-velvet-dress/obsidian/angle-01.webp",
+              "thumbPath": "/media/seed/spin/mini-velvet-dress/obsidian/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 33348
+            },
+            {
+              "path": "/media/seed/spin/mini-velvet-dress/obsidian/angle-02.webp",
+              "thumbPath": "/media/seed/spin/mini-velvet-dress/obsidian/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 31880
+            },
+            {
+              "path": "/media/seed/spin/mini-velvet-dress/obsidian/angle-03.webp",
+              "thumbPath": "/media/seed/spin/mini-velvet-dress/obsidian/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 33272
+            },
+            {
+              "path": "/media/seed/spin/mini-velvet-dress/obsidian/angle-04.webp",
+              "thumbPath": "/media/seed/spin/mini-velvet-dress/obsidian/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 34628
+            },
+            {
+              "path": "/media/seed/spin/mini-velvet-dress/obsidian/angle-05.webp",
+              "thumbPath": "/media/seed/spin/mini-velvet-dress/obsidian/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 41120
+            },
+            {
+              "path": "/media/seed/spin/mini-velvet-dress/obsidian/angle-06.webp",
+              "thumbPath": "/media/seed/spin/mini-velvet-dress/obsidian/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 33576
+            },
+            {
+              "path": "/media/seed/spin/mini-velvet-dress/obsidian/angle-07.webp",
+              "thumbPath": "/media/seed/spin/mini-velvet-dress/obsidian/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 32332
+            }
+          ]
+        }
+      ]
+    },
+    "junior-atelier-jacket": {
+      "colors": [
+        {
+          "name": "Midnight Blue",
+          "slug": "midnight-blue",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/junior-atelier-jacket/midnight-blue/angle-00.webp",
+              "thumbPath": "/media/seed/spin/junior-atelier-jacket/midnight-blue/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 35462
+            },
+            {
+              "path": "/media/seed/spin/junior-atelier-jacket/midnight-blue/angle-01.webp",
+              "thumbPath": "/media/seed/spin/junior-atelier-jacket/midnight-blue/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 34994
+            },
+            {
+              "path": "/media/seed/spin/junior-atelier-jacket/midnight-blue/angle-02.webp",
+              "thumbPath": "/media/seed/spin/junior-atelier-jacket/midnight-blue/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 34384
+            },
+            {
+              "path": "/media/seed/spin/junior-atelier-jacket/midnight-blue/angle-03.webp",
+              "thumbPath": "/media/seed/spin/junior-atelier-jacket/midnight-blue/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 38644
+            },
+            {
+              "path": "/media/seed/spin/junior-atelier-jacket/midnight-blue/angle-04.webp",
+              "thumbPath": "/media/seed/spin/junior-atelier-jacket/midnight-blue/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 44720
+            },
+            {
+              "path": "/media/seed/spin/junior-atelier-jacket/midnight-blue/angle-05.webp",
+              "thumbPath": "/media/seed/spin/junior-atelier-jacket/midnight-blue/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 53640
+            },
+            {
+              "path": "/media/seed/spin/junior-atelier-jacket/midnight-blue/angle-06.webp",
+              "thumbPath": "/media/seed/spin/junior-atelier-jacket/midnight-blue/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 38580
+            },
+            {
+              "path": "/media/seed/spin/junior-atelier-jacket/midnight-blue/angle-07.webp",
+              "thumbPath": "/media/seed/spin/junior-atelier-jacket/midnight-blue/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 34304
+            }
+          ]
+        },
+        {
+          "name": "Ivory",
+          "slug": "ivory",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/junior-atelier-jacket/ivory/angle-00.webp",
+              "thumbPath": "/media/seed/spin/junior-atelier-jacket/ivory/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 42896
+            },
+            {
+              "path": "/media/seed/spin/junior-atelier-jacket/ivory/angle-01.webp",
+              "thumbPath": "/media/seed/spin/junior-atelier-jacket/ivory/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 42706
+            },
+            {
+              "path": "/media/seed/spin/junior-atelier-jacket/ivory/angle-02.webp",
+              "thumbPath": "/media/seed/spin/junior-atelier-jacket/ivory/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 43962
+            },
+            {
+              "path": "/media/seed/spin/junior-atelier-jacket/ivory/angle-03.webp",
+              "thumbPath": "/media/seed/spin/junior-atelier-jacket/ivory/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 49114
+            },
+            {
+              "path": "/media/seed/spin/junior-atelier-jacket/ivory/angle-04.webp",
+              "thumbPath": "/media/seed/spin/junior-atelier-jacket/ivory/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 59300
+            },
+            {
+              "path": "/media/seed/spin/junior-atelier-jacket/ivory/angle-05.webp",
+              "thumbPath": "/media/seed/spin/junior-atelier-jacket/ivory/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 70678
+            },
+            {
+              "path": "/media/seed/spin/junior-atelier-jacket/ivory/angle-06.webp",
+              "thumbPath": "/media/seed/spin/junior-atelier-jacket/ivory/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 51386
+            },
+            {
+              "path": "/media/seed/spin/junior-atelier-jacket/ivory/angle-07.webp",
+              "thumbPath": "/media/seed/spin/junior-atelier-jacket/ivory/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 42176
+            }
+          ]
+        },
+        {
+          "name": "Graphite",
+          "slug": "graphite",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/junior-atelier-jacket/graphite/angle-00.webp",
+              "thumbPath": "/media/seed/spin/junior-atelier-jacket/graphite/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 36348
+            },
+            {
+              "path": "/media/seed/spin/junior-atelier-jacket/graphite/angle-01.webp",
+              "thumbPath": "/media/seed/spin/junior-atelier-jacket/graphite/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 35732
+            },
+            {
+              "path": "/media/seed/spin/junior-atelier-jacket/graphite/angle-02.webp",
+              "thumbPath": "/media/seed/spin/junior-atelier-jacket/graphite/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 34860
+            },
+            {
+              "path": "/media/seed/spin/junior-atelier-jacket/graphite/angle-03.webp",
+              "thumbPath": "/media/seed/spin/junior-atelier-jacket/graphite/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 37314
+            },
+            {
+              "path": "/media/seed/spin/junior-atelier-jacket/graphite/angle-04.webp",
+              "thumbPath": "/media/seed/spin/junior-atelier-jacket/graphite/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 40938
+            },
+            {
+              "path": "/media/seed/spin/junior-atelier-jacket/graphite/angle-05.webp",
+              "thumbPath": "/media/seed/spin/junior-atelier-jacket/graphite/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 47184
+            },
+            {
+              "path": "/media/seed/spin/junior-atelier-jacket/graphite/angle-06.webp",
+              "thumbPath": "/media/seed/spin/junior-atelier-jacket/graphite/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 37044
+            },
+            {
+              "path": "/media/seed/spin/junior-atelier-jacket/graphite/angle-07.webp",
+              "thumbPath": "/media/seed/spin/junior-atelier-jacket/graphite/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 34738
+            }
+          ]
+        }
+      ]
+    },
+    "aurum-low-top-sneakers": {
+      "colors": [
+        {
+          "name": "Onyx Black",
+          "slug": "onyx-black",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/aurum-low-top-sneakers/onyx-black/angle-00.webp",
+              "thumbPath": "/media/seed/spin/aurum-low-top-sneakers/onyx-black/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 65658
+            },
+            {
+              "path": "/media/seed/spin/aurum-low-top-sneakers/onyx-black/angle-01.webp",
+              "thumbPath": "/media/seed/spin/aurum-low-top-sneakers/onyx-black/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 69466
+            },
+            {
+              "path": "/media/seed/spin/aurum-low-top-sneakers/onyx-black/angle-02.webp",
+              "thumbPath": "/media/seed/spin/aurum-low-top-sneakers/onyx-black/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 83166
+            },
+            {
+              "path": "/media/seed/spin/aurum-low-top-sneakers/onyx-black/angle-03.webp",
+              "thumbPath": "/media/seed/spin/aurum-low-top-sneakers/onyx-black/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 94452
+            },
+            {
+              "path": "/media/seed/spin/aurum-low-top-sneakers/onyx-black/angle-04.webp",
+              "thumbPath": "/media/seed/spin/aurum-low-top-sneakers/onyx-black/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 103906
+            },
+            {
+              "path": "/media/seed/spin/aurum-low-top-sneakers/onyx-black/angle-05.webp",
+              "thumbPath": "/media/seed/spin/aurum-low-top-sneakers/onyx-black/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 111622
+            },
+            {
+              "path": "/media/seed/spin/aurum-low-top-sneakers/onyx-black/angle-06.webp",
+              "thumbPath": "/media/seed/spin/aurum-low-top-sneakers/onyx-black/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 95496
+            },
+            {
+              "path": "/media/seed/spin/aurum-low-top-sneakers/onyx-black/angle-07.webp",
+              "thumbPath": "/media/seed/spin/aurum-low-top-sneakers/onyx-black/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 75512
+            }
+          ]
+        },
+        {
+          "name": "Champagne Gold",
+          "slug": "champagne-gold",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/aurum-low-top-sneakers/champagne-gold/angle-00.webp",
+              "thumbPath": "/media/seed/spin/aurum-low-top-sneakers/champagne-gold/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 83186
+            },
+            {
+              "path": "/media/seed/spin/aurum-low-top-sneakers/champagne-gold/angle-01.webp",
+              "thumbPath": "/media/seed/spin/aurum-low-top-sneakers/champagne-gold/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 93178
+            },
+            {
+              "path": "/media/seed/spin/aurum-low-top-sneakers/champagne-gold/angle-02.webp",
+              "thumbPath": "/media/seed/spin/aurum-low-top-sneakers/champagne-gold/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 113992
+            },
+            {
+              "path": "/media/seed/spin/aurum-low-top-sneakers/champagne-gold/angle-03.webp",
+              "thumbPath": "/media/seed/spin/aurum-low-top-sneakers/champagne-gold/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 128644
+            },
+            {
+              "path": "/media/seed/spin/aurum-low-top-sneakers/champagne-gold/angle-04.webp",
+              "thumbPath": "/media/seed/spin/aurum-low-top-sneakers/champagne-gold/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 141504
+            },
+            {
+              "path": "/media/seed/spin/aurum-low-top-sneakers/champagne-gold/angle-05.webp",
+              "thumbPath": "/media/seed/spin/aurum-low-top-sneakers/champagne-gold/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 149320
+            },
+            {
+              "path": "/media/seed/spin/aurum-low-top-sneakers/champagne-gold/angle-06.webp",
+              "thumbPath": "/media/seed/spin/aurum-low-top-sneakers/champagne-gold/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 129138
+            },
+            {
+              "path": "/media/seed/spin/aurum-low-top-sneakers/champagne-gold/angle-07.webp",
+              "thumbPath": "/media/seed/spin/aurum-low-top-sneakers/champagne-gold/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 103498
+            }
+          ]
+        },
+        {
+          "name": "Oxblood",
+          "slug": "oxblood",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/aurum-low-top-sneakers/oxblood/angle-00.webp",
+              "thumbPath": "/media/seed/spin/aurum-low-top-sneakers/oxblood/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 68914
+            },
+            {
+              "path": "/media/seed/spin/aurum-low-top-sneakers/oxblood/angle-01.webp",
+              "thumbPath": "/media/seed/spin/aurum-low-top-sneakers/oxblood/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 72338
+            },
+            {
+              "path": "/media/seed/spin/aurum-low-top-sneakers/oxblood/angle-02.webp",
+              "thumbPath": "/media/seed/spin/aurum-low-top-sneakers/oxblood/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 85642
+            },
+            {
+              "path": "/media/seed/spin/aurum-low-top-sneakers/oxblood/angle-03.webp",
+              "thumbPath": "/media/seed/spin/aurum-low-top-sneakers/oxblood/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 94842
+            },
+            {
+              "path": "/media/seed/spin/aurum-low-top-sneakers/oxblood/angle-04.webp",
+              "thumbPath": "/media/seed/spin/aurum-low-top-sneakers/oxblood/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 102314
+            },
+            {
+              "path": "/media/seed/spin/aurum-low-top-sneakers/oxblood/angle-05.webp",
+              "thumbPath": "/media/seed/spin/aurum-low-top-sneakers/oxblood/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 108798
+            },
+            {
+              "path": "/media/seed/spin/aurum-low-top-sneakers/oxblood/angle-06.webp",
+              "thumbPath": "/media/seed/spin/aurum-low-top-sneakers/oxblood/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 96146
+            },
+            {
+              "path": "/media/seed/spin/aurum-low-top-sneakers/oxblood/angle-07.webp",
+              "thumbPath": "/media/seed/spin/aurum-low-top-sneakers/oxblood/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 78496
+            }
+          ]
+        }
+      ]
+    },
+    "obsidian-leather-loafers": {
+      "colors": [
+        {
+          "name": "Espresso",
+          "slug": "espresso",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/obsidian-leather-loafers/espresso/angle-00.webp",
+              "thumbPath": "/media/seed/spin/obsidian-leather-loafers/espresso/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 68360
+            },
+            {
+              "path": "/media/seed/spin/obsidian-leather-loafers/espresso/angle-01.webp",
+              "thumbPath": "/media/seed/spin/obsidian-leather-loafers/espresso/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 72712
+            },
+            {
+              "path": "/media/seed/spin/obsidian-leather-loafers/espresso/angle-02.webp",
+              "thumbPath": "/media/seed/spin/obsidian-leather-loafers/espresso/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 88016
+            },
+            {
+              "path": "/media/seed/spin/obsidian-leather-loafers/espresso/angle-03.webp",
+              "thumbPath": "/media/seed/spin/obsidian-leather-loafers/espresso/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 100894
+            },
+            {
+              "path": "/media/seed/spin/obsidian-leather-loafers/espresso/angle-04.webp",
+              "thumbPath": "/media/seed/spin/obsidian-leather-loafers/espresso/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 109698
+            },
+            {
+              "path": "/media/seed/spin/obsidian-leather-loafers/espresso/angle-05.webp",
+              "thumbPath": "/media/seed/spin/obsidian-leather-loafers/espresso/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 118522
+            },
+            {
+              "path": "/media/seed/spin/obsidian-leather-loafers/espresso/angle-06.webp",
+              "thumbPath": "/media/seed/spin/obsidian-leather-loafers/espresso/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 100888
+            },
+            {
+              "path": "/media/seed/spin/obsidian-leather-loafers/espresso/angle-07.webp",
+              "thumbPath": "/media/seed/spin/obsidian-leather-loafers/espresso/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 79214
+            }
+          ]
+        },
+        {
+          "name": "Antique Gold",
+          "slug": "antique-gold",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/obsidian-leather-loafers/antique-gold/angle-00.webp",
+              "thumbPath": "/media/seed/spin/obsidian-leather-loafers/antique-gold/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 80680
+            },
+            {
+              "path": "/media/seed/spin/obsidian-leather-loafers/antique-gold/angle-01.webp",
+              "thumbPath": "/media/seed/spin/obsidian-leather-loafers/antique-gold/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 90396
+            },
+            {
+              "path": "/media/seed/spin/obsidian-leather-loafers/antique-gold/angle-02.webp",
+              "thumbPath": "/media/seed/spin/obsidian-leather-loafers/antique-gold/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 111214
+            },
+            {
+              "path": "/media/seed/spin/obsidian-leather-loafers/antique-gold/angle-03.webp",
+              "thumbPath": "/media/seed/spin/obsidian-leather-loafers/antique-gold/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 125544
+            },
+            {
+              "path": "/media/seed/spin/obsidian-leather-loafers/antique-gold/angle-04.webp",
+              "thumbPath": "/media/seed/spin/obsidian-leather-loafers/antique-gold/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 138130
+            },
+            {
+              "path": "/media/seed/spin/obsidian-leather-loafers/antique-gold/angle-05.webp",
+              "thumbPath": "/media/seed/spin/obsidian-leather-loafers/antique-gold/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 145494
+            },
+            {
+              "path": "/media/seed/spin/obsidian-leather-loafers/antique-gold/angle-06.webp",
+              "thumbPath": "/media/seed/spin/obsidian-leather-loafers/antique-gold/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 125952
+            },
+            {
+              "path": "/media/seed/spin/obsidian-leather-loafers/antique-gold/angle-07.webp",
+              "thumbPath": "/media/seed/spin/obsidian-leather-loafers/antique-gold/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 102746
+            }
+          ]
+        },
+        {
+          "name": "Burgundy",
+          "slug": "burgundy",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/obsidian-leather-loafers/burgundy/angle-00.webp",
+              "thumbPath": "/media/seed/spin/obsidian-leather-loafers/burgundy/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 67744
+            },
+            {
+              "path": "/media/seed/spin/obsidian-leather-loafers/burgundy/angle-01.webp",
+              "thumbPath": "/media/seed/spin/obsidian-leather-loafers/burgundy/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 70916
+            },
+            {
+              "path": "/media/seed/spin/obsidian-leather-loafers/burgundy/angle-02.webp",
+              "thumbPath": "/media/seed/spin/obsidian-leather-loafers/burgundy/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 83790
+            },
+            {
+              "path": "/media/seed/spin/obsidian-leather-loafers/burgundy/angle-03.webp",
+              "thumbPath": "/media/seed/spin/obsidian-leather-loafers/burgundy/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 92462
+            },
+            {
+              "path": "/media/seed/spin/obsidian-leather-loafers/burgundy/angle-04.webp",
+              "thumbPath": "/media/seed/spin/obsidian-leather-loafers/burgundy/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 99672
+            },
+            {
+              "path": "/media/seed/spin/obsidian-leather-loafers/burgundy/angle-05.webp",
+              "thumbPath": "/media/seed/spin/obsidian-leather-loafers/burgundy/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 105104
+            },
+            {
+              "path": "/media/seed/spin/obsidian-leather-loafers/burgundy/angle-06.webp",
+              "thumbPath": "/media/seed/spin/obsidian-leather-loafers/burgundy/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 92196
+            },
+            {
+              "path": "/media/seed/spin/obsidian-leather-loafers/burgundy/angle-07.webp",
+              "thumbPath": "/media/seed/spin/obsidian-leather-loafers/burgundy/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 76398
+            }
+          ]
+        }
+      ]
+    },
+    "noir-runner-edit": {
+      "colors": [
+        {
+          "name": "Midnight Blue",
+          "slug": "midnight-blue",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/noir-runner-edit/midnight-blue/angle-00.webp",
+              "thumbPath": "/media/seed/spin/noir-runner-edit/midnight-blue/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 67212
+            },
+            {
+              "path": "/media/seed/spin/noir-runner-edit/midnight-blue/angle-01.webp",
+              "thumbPath": "/media/seed/spin/noir-runner-edit/midnight-blue/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 70876
+            },
+            {
+              "path": "/media/seed/spin/noir-runner-edit/midnight-blue/angle-02.webp",
+              "thumbPath": "/media/seed/spin/noir-runner-edit/midnight-blue/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 85672
+            },
+            {
+              "path": "/media/seed/spin/noir-runner-edit/midnight-blue/angle-03.webp",
+              "thumbPath": "/media/seed/spin/noir-runner-edit/midnight-blue/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 96336
+            },
+            {
+              "path": "/media/seed/spin/noir-runner-edit/midnight-blue/angle-04.webp",
+              "thumbPath": "/media/seed/spin/noir-runner-edit/midnight-blue/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 105522
+            },
+            {
+              "path": "/media/seed/spin/noir-runner-edit/midnight-blue/angle-05.webp",
+              "thumbPath": "/media/seed/spin/noir-runner-edit/midnight-blue/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 111530
+            },
+            {
+              "path": "/media/seed/spin/noir-runner-edit/midnight-blue/angle-06.webp",
+              "thumbPath": "/media/seed/spin/noir-runner-edit/midnight-blue/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 97236
+            },
+            {
+              "path": "/media/seed/spin/noir-runner-edit/midnight-blue/angle-07.webp",
+              "thumbPath": "/media/seed/spin/noir-runner-edit/midnight-blue/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 77606
+            }
+          ]
+        },
+        {
+          "name": "Ivory",
+          "slug": "ivory",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/noir-runner-edit/ivory/angle-00.webp",
+              "thumbPath": "/media/seed/spin/noir-runner-edit/ivory/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 85716
+            },
+            {
+              "path": "/media/seed/spin/noir-runner-edit/ivory/angle-01.webp",
+              "thumbPath": "/media/seed/spin/noir-runner-edit/ivory/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 96530
+            },
+            {
+              "path": "/media/seed/spin/noir-runner-edit/ivory/angle-02.webp",
+              "thumbPath": "/media/seed/spin/noir-runner-edit/ivory/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 117722
+            },
+            {
+              "path": "/media/seed/spin/noir-runner-edit/ivory/angle-03.webp",
+              "thumbPath": "/media/seed/spin/noir-runner-edit/ivory/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 131756
+            },
+            {
+              "path": "/media/seed/spin/noir-runner-edit/ivory/angle-04.webp",
+              "thumbPath": "/media/seed/spin/noir-runner-edit/ivory/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 144806
+            },
+            {
+              "path": "/media/seed/spin/noir-runner-edit/ivory/angle-05.webp",
+              "thumbPath": "/media/seed/spin/noir-runner-edit/ivory/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 152508
+            },
+            {
+              "path": "/media/seed/spin/noir-runner-edit/ivory/angle-06.webp",
+              "thumbPath": "/media/seed/spin/noir-runner-edit/ivory/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 132826
+            },
+            {
+              "path": "/media/seed/spin/noir-runner-edit/ivory/angle-07.webp",
+              "thumbPath": "/media/seed/spin/noir-runner-edit/ivory/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 108630
+            }
+          ]
+        },
+        {
+          "name": "Graphite",
+          "slug": "graphite",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/noir-runner-edit/graphite/angle-00.webp",
+              "thumbPath": "/media/seed/spin/noir-runner-edit/graphite/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 69514
+            },
+            {
+              "path": "/media/seed/spin/noir-runner-edit/graphite/angle-01.webp",
+              "thumbPath": "/media/seed/spin/noir-runner-edit/graphite/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 74216
+            },
+            {
+              "path": "/media/seed/spin/noir-runner-edit/graphite/angle-02.webp",
+              "thumbPath": "/media/seed/spin/noir-runner-edit/graphite/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 88352
+            },
+            {
+              "path": "/media/seed/spin/noir-runner-edit/graphite/angle-03.webp",
+              "thumbPath": "/media/seed/spin/noir-runner-edit/graphite/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 97772
+            },
+            {
+              "path": "/media/seed/spin/noir-runner-edit/graphite/angle-04.webp",
+              "thumbPath": "/media/seed/spin/noir-runner-edit/graphite/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 106126
+            },
+            {
+              "path": "/media/seed/spin/noir-runner-edit/graphite/angle-05.webp",
+              "thumbPath": "/media/seed/spin/noir-runner-edit/graphite/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 113342
+            },
+            {
+              "path": "/media/seed/spin/noir-runner-edit/graphite/angle-06.webp",
+              "thumbPath": "/media/seed/spin/noir-runner-edit/graphite/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 99360
+            },
+            {
+              "path": "/media/seed/spin/noir-runner-edit/graphite/angle-07.webp",
+              "thumbPath": "/media/seed/spin/noir-runner-edit/graphite/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 80528
+            }
+          ]
+        }
+      ]
+    },
+    "maison-noir-top-handle": {
+      "colors": [
+        {
+          "name": "Onyx Black",
+          "slug": "onyx-black",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/maison-noir-top-handle/onyx-black/angle-00.webp",
+              "thumbPath": "/media/seed/spin/maison-noir-top-handle/onyx-black/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 76518
+            },
+            {
+              "path": "/media/seed/spin/maison-noir-top-handle/onyx-black/angle-01.webp",
+              "thumbPath": "/media/seed/spin/maison-noir-top-handle/onyx-black/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 71218
+            },
+            {
+              "path": "/media/seed/spin/maison-noir-top-handle/onyx-black/angle-02.webp",
+              "thumbPath": "/media/seed/spin/maison-noir-top-handle/onyx-black/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 64788
+            },
+            {
+              "path": "/media/seed/spin/maison-noir-top-handle/onyx-black/angle-03.webp",
+              "thumbPath": "/media/seed/spin/maison-noir-top-handle/onyx-black/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 56548
+            },
+            {
+              "path": "/media/seed/spin/maison-noir-top-handle/onyx-black/angle-04.webp",
+              "thumbPath": "/media/seed/spin/maison-noir-top-handle/onyx-black/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 47112
+            },
+            {
+              "path": "/media/seed/spin/maison-noir-top-handle/onyx-black/angle-05.webp",
+              "thumbPath": "/media/seed/spin/maison-noir-top-handle/onyx-black/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 40976
+            },
+            {
+              "path": "/media/seed/spin/maison-noir-top-handle/onyx-black/angle-06.webp",
+              "thumbPath": "/media/seed/spin/maison-noir-top-handle/onyx-black/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 56066
+            },
+            {
+              "path": "/media/seed/spin/maison-noir-top-handle/onyx-black/angle-07.webp",
+              "thumbPath": "/media/seed/spin/maison-noir-top-handle/onyx-black/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 67438
+            }
+          ]
+        },
+        {
+          "name": "Champagne Gold",
+          "slug": "champagne-gold",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/maison-noir-top-handle/champagne-gold/angle-00.webp",
+              "thumbPath": "/media/seed/spin/maison-noir-top-handle/champagne-gold/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 95694
+            },
+            {
+              "path": "/media/seed/spin/maison-noir-top-handle/champagne-gold/angle-01.webp",
+              "thumbPath": "/media/seed/spin/maison-noir-top-handle/champagne-gold/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 91634
+            },
+            {
+              "path": "/media/seed/spin/maison-noir-top-handle/champagne-gold/angle-02.webp",
+              "thumbPath": "/media/seed/spin/maison-noir-top-handle/champagne-gold/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 86942
+            },
+            {
+              "path": "/media/seed/spin/maison-noir-top-handle/champagne-gold/angle-03.webp",
+              "thumbPath": "/media/seed/spin/maison-noir-top-handle/champagne-gold/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 77682
+            },
+            {
+              "path": "/media/seed/spin/maison-noir-top-handle/champagne-gold/angle-04.webp",
+              "thumbPath": "/media/seed/spin/maison-noir-top-handle/champagne-gold/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 66344
+            },
+            {
+              "path": "/media/seed/spin/maison-noir-top-handle/champagne-gold/angle-05.webp",
+              "thumbPath": "/media/seed/spin/maison-noir-top-handle/champagne-gold/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 55320
+            },
+            {
+              "path": "/media/seed/spin/maison-noir-top-handle/champagne-gold/angle-06.webp",
+              "thumbPath": "/media/seed/spin/maison-noir-top-handle/champagne-gold/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 76100
+            },
+            {
+              "path": "/media/seed/spin/maison-noir-top-handle/champagne-gold/angle-07.webp",
+              "thumbPath": "/media/seed/spin/maison-noir-top-handle/champagne-gold/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 89108
+            }
+          ]
+        },
+        {
+          "name": "Oxblood",
+          "slug": "oxblood",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/maison-noir-top-handle/oxblood/angle-00.webp",
+              "thumbPath": "/media/seed/spin/maison-noir-top-handle/oxblood/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 78440
+            },
+            {
+              "path": "/media/seed/spin/maison-noir-top-handle/oxblood/angle-01.webp",
+              "thumbPath": "/media/seed/spin/maison-noir-top-handle/oxblood/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 72220
+            },
+            {
+              "path": "/media/seed/spin/maison-noir-top-handle/oxblood/angle-02.webp",
+              "thumbPath": "/media/seed/spin/maison-noir-top-handle/oxblood/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 66752
+            },
+            {
+              "path": "/media/seed/spin/maison-noir-top-handle/oxblood/angle-03.webp",
+              "thumbPath": "/media/seed/spin/maison-noir-top-handle/oxblood/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 57960
+            },
+            {
+              "path": "/media/seed/spin/maison-noir-top-handle/oxblood/angle-04.webp",
+              "thumbPath": "/media/seed/spin/maison-noir-top-handle/oxblood/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 47352
+            },
+            {
+              "path": "/media/seed/spin/maison-noir-top-handle/oxblood/angle-05.webp",
+              "thumbPath": "/media/seed/spin/maison-noir-top-handle/oxblood/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 40878
+            },
+            {
+              "path": "/media/seed/spin/maison-noir-top-handle/oxblood/angle-06.webp",
+              "thumbPath": "/media/seed/spin/maison-noir-top-handle/oxblood/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 56590
+            },
+            {
+              "path": "/media/seed/spin/maison-noir-top-handle/oxblood/angle-07.webp",
+              "thumbPath": "/media/seed/spin/maison-noir-top-handle/oxblood/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 68786
+            }
+          ]
+        }
+      ]
+    },
+    "gilded-mini-bag": {
+      "colors": [
+        {
+          "name": "Emerald Noir",
+          "slug": "emerald-noir",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/gilded-mini-bag/emerald-noir/angle-00.webp",
+              "thumbPath": "/media/seed/spin/gilded-mini-bag/emerald-noir/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 78956
+            },
+            {
+              "path": "/media/seed/spin/gilded-mini-bag/emerald-noir/angle-01.webp",
+              "thumbPath": "/media/seed/spin/gilded-mini-bag/emerald-noir/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 73442
+            },
+            {
+              "path": "/media/seed/spin/gilded-mini-bag/emerald-noir/angle-02.webp",
+              "thumbPath": "/media/seed/spin/gilded-mini-bag/emerald-noir/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 67666
+            },
+            {
+              "path": "/media/seed/spin/gilded-mini-bag/emerald-noir/angle-03.webp",
+              "thumbPath": "/media/seed/spin/gilded-mini-bag/emerald-noir/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 60594
+            },
+            {
+              "path": "/media/seed/spin/gilded-mini-bag/emerald-noir/angle-04.webp",
+              "thumbPath": "/media/seed/spin/gilded-mini-bag/emerald-noir/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 49460
+            },
+            {
+              "path": "/media/seed/spin/gilded-mini-bag/emerald-noir/angle-05.webp",
+              "thumbPath": "/media/seed/spin/gilded-mini-bag/emerald-noir/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 43300
+            },
+            {
+              "path": "/media/seed/spin/gilded-mini-bag/emerald-noir/angle-06.webp",
+              "thumbPath": "/media/seed/spin/gilded-mini-bag/emerald-noir/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 59032
+            },
+            {
+              "path": "/media/seed/spin/gilded-mini-bag/emerald-noir/angle-07.webp",
+              "thumbPath": "/media/seed/spin/gilded-mini-bag/emerald-noir/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 70584
+            }
+          ]
+        },
+        {
+          "name": "Rose Gold",
+          "slug": "rose-gold",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/gilded-mini-bag/rose-gold/angle-00.webp",
+              "thumbPath": "/media/seed/spin/gilded-mini-bag/rose-gold/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 90454
+            },
+            {
+              "path": "/media/seed/spin/gilded-mini-bag/rose-gold/angle-01.webp",
+              "thumbPath": "/media/seed/spin/gilded-mini-bag/rose-gold/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 84506
+            },
+            {
+              "path": "/media/seed/spin/gilded-mini-bag/rose-gold/angle-02.webp",
+              "thumbPath": "/media/seed/spin/gilded-mini-bag/rose-gold/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 80384
+            },
+            {
+              "path": "/media/seed/spin/gilded-mini-bag/rose-gold/angle-03.webp",
+              "thumbPath": "/media/seed/spin/gilded-mini-bag/rose-gold/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 70712
+            },
+            {
+              "path": "/media/seed/spin/gilded-mini-bag/rose-gold/angle-04.webp",
+              "thumbPath": "/media/seed/spin/gilded-mini-bag/rose-gold/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 60204
+            },
+            {
+              "path": "/media/seed/spin/gilded-mini-bag/rose-gold/angle-05.webp",
+              "thumbPath": "/media/seed/spin/gilded-mini-bag/rose-gold/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 50174
+            },
+            {
+              "path": "/media/seed/spin/gilded-mini-bag/rose-gold/angle-06.webp",
+              "thumbPath": "/media/seed/spin/gilded-mini-bag/rose-gold/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 70500
+            },
+            {
+              "path": "/media/seed/spin/gilded-mini-bag/rose-gold/angle-07.webp",
+              "thumbPath": "/media/seed/spin/gilded-mini-bag/rose-gold/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 82248
+            }
+          ]
+        },
+        {
+          "name": "Obsidian",
+          "slug": "obsidian",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/gilded-mini-bag/obsidian/angle-00.webp",
+              "thumbPath": "/media/seed/spin/gilded-mini-bag/obsidian/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 73780
+            },
+            {
+              "path": "/media/seed/spin/gilded-mini-bag/obsidian/angle-01.webp",
+              "thumbPath": "/media/seed/spin/gilded-mini-bag/obsidian/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 67234
+            },
+            {
+              "path": "/media/seed/spin/gilded-mini-bag/obsidian/angle-02.webp",
+              "thumbPath": "/media/seed/spin/gilded-mini-bag/obsidian/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 59746
+            },
+            {
+              "path": "/media/seed/spin/gilded-mini-bag/obsidian/angle-03.webp",
+              "thumbPath": "/media/seed/spin/gilded-mini-bag/obsidian/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 51992
+            },
+            {
+              "path": "/media/seed/spin/gilded-mini-bag/obsidian/angle-04.webp",
+              "thumbPath": "/media/seed/spin/gilded-mini-bag/obsidian/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 41592
+            },
+            {
+              "path": "/media/seed/spin/gilded-mini-bag/obsidian/angle-05.webp",
+              "thumbPath": "/media/seed/spin/gilded-mini-bag/obsidian/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 36084
+            },
+            {
+              "path": "/media/seed/spin/gilded-mini-bag/obsidian/angle-06.webp",
+              "thumbPath": "/media/seed/spin/gilded-mini-bag/obsidian/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 50894
+            },
+            {
+              "path": "/media/seed/spin/gilded-mini-bag/obsidian/angle-07.webp",
+              "thumbPath": "/media/seed/spin/gilded-mini-bag/obsidian/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 63096
+            }
+          ]
+        }
+      ]
+    },
+    "obsidian-weekender": {
+      "colors": [
+        {
+          "name": "Midnight Blue",
+          "slug": "midnight-blue",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/obsidian-weekender/midnight-blue/angle-00.webp",
+              "thumbPath": "/media/seed/spin/obsidian-weekender/midnight-blue/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 76996
+            },
+            {
+              "path": "/media/seed/spin/obsidian-weekender/midnight-blue/angle-01.webp",
+              "thumbPath": "/media/seed/spin/obsidian-weekender/midnight-blue/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 71634
+            },
+            {
+              "path": "/media/seed/spin/obsidian-weekender/midnight-blue/angle-02.webp",
+              "thumbPath": "/media/seed/spin/obsidian-weekender/midnight-blue/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 65508
+            },
+            {
+              "path": "/media/seed/spin/obsidian-weekender/midnight-blue/angle-03.webp",
+              "thumbPath": "/media/seed/spin/obsidian-weekender/midnight-blue/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 58448
+            },
+            {
+              "path": "/media/seed/spin/obsidian-weekender/midnight-blue/angle-04.webp",
+              "thumbPath": "/media/seed/spin/obsidian-weekender/midnight-blue/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 48814
+            },
+            {
+              "path": "/media/seed/spin/obsidian-weekender/midnight-blue/angle-05.webp",
+              "thumbPath": "/media/seed/spin/obsidian-weekender/midnight-blue/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 42132
+            },
+            {
+              "path": "/media/seed/spin/obsidian-weekender/midnight-blue/angle-06.webp",
+              "thumbPath": "/media/seed/spin/obsidian-weekender/midnight-blue/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 57308
+            },
+            {
+              "path": "/media/seed/spin/obsidian-weekender/midnight-blue/angle-07.webp",
+              "thumbPath": "/media/seed/spin/obsidian-weekender/midnight-blue/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 68498
+            }
+          ]
+        },
+        {
+          "name": "Ivory",
+          "slug": "ivory",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/obsidian-weekender/ivory/angle-00.webp",
+              "thumbPath": "/media/seed/spin/obsidian-weekender/ivory/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 97480
+            },
+            {
+              "path": "/media/seed/spin/obsidian-weekender/ivory/angle-01.webp",
+              "thumbPath": "/media/seed/spin/obsidian-weekender/ivory/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 93476
+            },
+            {
+              "path": "/media/seed/spin/obsidian-weekender/ivory/angle-02.webp",
+              "thumbPath": "/media/seed/spin/obsidian-weekender/ivory/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 88792
+            },
+            {
+              "path": "/media/seed/spin/obsidian-weekender/ivory/angle-03.webp",
+              "thumbPath": "/media/seed/spin/obsidian-weekender/ivory/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 79840
+            },
+            {
+              "path": "/media/seed/spin/obsidian-weekender/ivory/angle-04.webp",
+              "thumbPath": "/media/seed/spin/obsidian-weekender/ivory/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 69612
+            },
+            {
+              "path": "/media/seed/spin/obsidian-weekender/ivory/angle-05.webp",
+              "thumbPath": "/media/seed/spin/obsidian-weekender/ivory/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 57444
+            },
+            {
+              "path": "/media/seed/spin/obsidian-weekender/ivory/angle-06.webp",
+              "thumbPath": "/media/seed/spin/obsidian-weekender/ivory/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 78568
+            },
+            {
+              "path": "/media/seed/spin/obsidian-weekender/ivory/angle-07.webp",
+              "thumbPath": "/media/seed/spin/obsidian-weekender/ivory/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 91002
+            }
+          ]
+        },
+        {
+          "name": "Graphite",
+          "slug": "graphite",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/obsidian-weekender/graphite/angle-00.webp",
+              "thumbPath": "/media/seed/spin/obsidian-weekender/graphite/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 81110
+            },
+            {
+              "path": "/media/seed/spin/obsidian-weekender/graphite/angle-01.webp",
+              "thumbPath": "/media/seed/spin/obsidian-weekender/graphite/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 75118
+            },
+            {
+              "path": "/media/seed/spin/obsidian-weekender/graphite/angle-02.webp",
+              "thumbPath": "/media/seed/spin/obsidian-weekender/graphite/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 68834
+            },
+            {
+              "path": "/media/seed/spin/obsidian-weekender/graphite/angle-03.webp",
+              "thumbPath": "/media/seed/spin/obsidian-weekender/graphite/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 60274
+            },
+            {
+              "path": "/media/seed/spin/obsidian-weekender/graphite/angle-04.webp",
+              "thumbPath": "/media/seed/spin/obsidian-weekender/graphite/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 49556
+            },
+            {
+              "path": "/media/seed/spin/obsidian-weekender/graphite/angle-05.webp",
+              "thumbPath": "/media/seed/spin/obsidian-weekender/graphite/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 41908
+            },
+            {
+              "path": "/media/seed/spin/obsidian-weekender/graphite/angle-06.webp",
+              "thumbPath": "/media/seed/spin/obsidian-weekender/graphite/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 59074
+            },
+            {
+              "path": "/media/seed/spin/obsidian-weekender/graphite/angle-07.webp",
+              "thumbPath": "/media/seed/spin/obsidian-weekender/graphite/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 71540
+            }
+          ]
+        }
+      ]
+    },
+    "noir-amber-parfum": {
+      "colors": [
+        {
+          "name": "Espresso",
+          "slug": "espresso",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/noir-amber-parfum/espresso/angle-00.webp",
+              "thumbPath": "/media/seed/spin/noir-amber-parfum/espresso/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 46196
+            },
+            {
+              "path": "/media/seed/spin/noir-amber-parfum/espresso/angle-01.webp",
+              "thumbPath": "/media/seed/spin/noir-amber-parfum/espresso/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 50410
+            },
+            {
+              "path": "/media/seed/spin/noir-amber-parfum/espresso/angle-02.webp",
+              "thumbPath": "/media/seed/spin/noir-amber-parfum/espresso/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 53960
+            },
+            {
+              "path": "/media/seed/spin/noir-amber-parfum/espresso/angle-03.webp",
+              "thumbPath": "/media/seed/spin/noir-amber-parfum/espresso/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 56742
+            },
+            {
+              "path": "/media/seed/spin/noir-amber-parfum/espresso/angle-04.webp",
+              "thumbPath": "/media/seed/spin/noir-amber-parfum/espresso/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 57400
+            },
+            {
+              "path": "/media/seed/spin/noir-amber-parfum/espresso/angle-05.webp",
+              "thumbPath": "/media/seed/spin/noir-amber-parfum/espresso/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 60644
+            },
+            {
+              "path": "/media/seed/spin/noir-amber-parfum/espresso/angle-06.webp",
+              "thumbPath": "/media/seed/spin/noir-amber-parfum/espresso/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 57754
+            },
+            {
+              "path": "/media/seed/spin/noir-amber-parfum/espresso/angle-07.webp",
+              "thumbPath": "/media/seed/spin/noir-amber-parfum/espresso/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 50912
+            }
+          ]
+        },
+        {
+          "name": "Antique Gold",
+          "slug": "antique-gold",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/noir-amber-parfum/antique-gold/angle-00.webp",
+              "thumbPath": "/media/seed/spin/noir-amber-parfum/antique-gold/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 54354
+            },
+            {
+              "path": "/media/seed/spin/noir-amber-parfum/antique-gold/angle-01.webp",
+              "thumbPath": "/media/seed/spin/noir-amber-parfum/antique-gold/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 57934
+            },
+            {
+              "path": "/media/seed/spin/noir-amber-parfum/antique-gold/angle-02.webp",
+              "thumbPath": "/media/seed/spin/noir-amber-parfum/antique-gold/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 61016
+            },
+            {
+              "path": "/media/seed/spin/noir-amber-parfum/antique-gold/angle-03.webp",
+              "thumbPath": "/media/seed/spin/noir-amber-parfum/antique-gold/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 63334
+            },
+            {
+              "path": "/media/seed/spin/noir-amber-parfum/antique-gold/angle-04.webp",
+              "thumbPath": "/media/seed/spin/noir-amber-parfum/antique-gold/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 64492
+            },
+            {
+              "path": "/media/seed/spin/noir-amber-parfum/antique-gold/angle-05.webp",
+              "thumbPath": "/media/seed/spin/noir-amber-parfum/antique-gold/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 64404
+            },
+            {
+              "path": "/media/seed/spin/noir-amber-parfum/antique-gold/angle-06.webp",
+              "thumbPath": "/media/seed/spin/noir-amber-parfum/antique-gold/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 62710
+            },
+            {
+              "path": "/media/seed/spin/noir-amber-parfum/antique-gold/angle-07.webp",
+              "thumbPath": "/media/seed/spin/noir-amber-parfum/antique-gold/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 59438
+            }
+          ]
+        },
+        {
+          "name": "Burgundy",
+          "slug": "burgundy",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/noir-amber-parfum/burgundy/angle-00.webp",
+              "thumbPath": "/media/seed/spin/noir-amber-parfum/burgundy/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 45600
+            },
+            {
+              "path": "/media/seed/spin/noir-amber-parfum/burgundy/angle-01.webp",
+              "thumbPath": "/media/seed/spin/noir-amber-parfum/burgundy/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 49282
+            },
+            {
+              "path": "/media/seed/spin/noir-amber-parfum/burgundy/angle-02.webp",
+              "thumbPath": "/media/seed/spin/noir-amber-parfum/burgundy/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 52582
+            },
+            {
+              "path": "/media/seed/spin/noir-amber-parfum/burgundy/angle-03.webp",
+              "thumbPath": "/media/seed/spin/noir-amber-parfum/burgundy/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 55580
+            },
+            {
+              "path": "/media/seed/spin/noir-amber-parfum/burgundy/angle-04.webp",
+              "thumbPath": "/media/seed/spin/noir-amber-parfum/burgundy/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 57510
+            },
+            {
+              "path": "/media/seed/spin/noir-amber-parfum/burgundy/angle-05.webp",
+              "thumbPath": "/media/seed/spin/noir-amber-parfum/burgundy/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 59476
+            },
+            {
+              "path": "/media/seed/spin/noir-amber-parfum/burgundy/angle-06.webp",
+              "thumbPath": "/media/seed/spin/noir-amber-parfum/burgundy/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 56136
+            },
+            {
+              "path": "/media/seed/spin/noir-amber-parfum/burgundy/angle-07.webp",
+              "thumbPath": "/media/seed/spin/noir-amber-parfum/burgundy/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 51364
+            }
+          ]
+        }
+      ]
+    },
+    "aurum-elixir-serum": {
+      "colors": [
+        {
+          "name": "Onyx Black",
+          "slug": "onyx-black",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/aurum-elixir-serum/onyx-black/angle-00.webp",
+              "thumbPath": "/media/seed/spin/aurum-elixir-serum/onyx-black/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 45262
+            },
+            {
+              "path": "/media/seed/spin/aurum-elixir-serum/onyx-black/angle-01.webp",
+              "thumbPath": "/media/seed/spin/aurum-elixir-serum/onyx-black/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 48942
+            },
+            {
+              "path": "/media/seed/spin/aurum-elixir-serum/onyx-black/angle-02.webp",
+              "thumbPath": "/media/seed/spin/aurum-elixir-serum/onyx-black/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 52954
+            },
+            {
+              "path": "/media/seed/spin/aurum-elixir-serum/onyx-black/angle-03.webp",
+              "thumbPath": "/media/seed/spin/aurum-elixir-serum/onyx-black/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 56812
+            },
+            {
+              "path": "/media/seed/spin/aurum-elixir-serum/onyx-black/angle-04.webp",
+              "thumbPath": "/media/seed/spin/aurum-elixir-serum/onyx-black/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 57284
+            },
+            {
+              "path": "/media/seed/spin/aurum-elixir-serum/onyx-black/angle-05.webp",
+              "thumbPath": "/media/seed/spin/aurum-elixir-serum/onyx-black/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 60896
+            },
+            {
+              "path": "/media/seed/spin/aurum-elixir-serum/onyx-black/angle-06.webp",
+              "thumbPath": "/media/seed/spin/aurum-elixir-serum/onyx-black/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 56582
+            },
+            {
+              "path": "/media/seed/spin/aurum-elixir-serum/onyx-black/angle-07.webp",
+              "thumbPath": "/media/seed/spin/aurum-elixir-serum/onyx-black/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 50618
+            }
+          ]
+        },
+        {
+          "name": "Champagne Gold",
+          "slug": "champagne-gold",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/aurum-elixir-serum/champagne-gold/angle-00.webp",
+              "thumbPath": "/media/seed/spin/aurum-elixir-serum/champagne-gold/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 55200
+            },
+            {
+              "path": "/media/seed/spin/aurum-elixir-serum/champagne-gold/angle-01.webp",
+              "thumbPath": "/media/seed/spin/aurum-elixir-serum/champagne-gold/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 59066
+            },
+            {
+              "path": "/media/seed/spin/aurum-elixir-serum/champagne-gold/angle-02.webp",
+              "thumbPath": "/media/seed/spin/aurum-elixir-serum/champagne-gold/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 61898
+            },
+            {
+              "path": "/media/seed/spin/aurum-elixir-serum/champagne-gold/angle-03.webp",
+              "thumbPath": "/media/seed/spin/aurum-elixir-serum/champagne-gold/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 64044
+            },
+            {
+              "path": "/media/seed/spin/aurum-elixir-serum/champagne-gold/angle-04.webp",
+              "thumbPath": "/media/seed/spin/aurum-elixir-serum/champagne-gold/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 65422
+            },
+            {
+              "path": "/media/seed/spin/aurum-elixir-serum/champagne-gold/angle-05.webp",
+              "thumbPath": "/media/seed/spin/aurum-elixir-serum/champagne-gold/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 65720
+            },
+            {
+              "path": "/media/seed/spin/aurum-elixir-serum/champagne-gold/angle-06.webp",
+              "thumbPath": "/media/seed/spin/aurum-elixir-serum/champagne-gold/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 64020
+            },
+            {
+              "path": "/media/seed/spin/aurum-elixir-serum/champagne-gold/angle-07.webp",
+              "thumbPath": "/media/seed/spin/aurum-elixir-serum/champagne-gold/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 60696
+            }
+          ]
+        },
+        {
+          "name": "Oxblood",
+          "slug": "oxblood",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/aurum-elixir-serum/oxblood/angle-00.webp",
+              "thumbPath": "/media/seed/spin/aurum-elixir-serum/oxblood/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 46586
+            },
+            {
+              "path": "/media/seed/spin/aurum-elixir-serum/oxblood/angle-01.webp",
+              "thumbPath": "/media/seed/spin/aurum-elixir-serum/oxblood/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 50192
+            },
+            {
+              "path": "/media/seed/spin/aurum-elixir-serum/oxblood/angle-02.webp",
+              "thumbPath": "/media/seed/spin/aurum-elixir-serum/oxblood/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 52838
+            },
+            {
+              "path": "/media/seed/spin/aurum-elixir-serum/oxblood/angle-03.webp",
+              "thumbPath": "/media/seed/spin/aurum-elixir-serum/oxblood/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 56558
+            },
+            {
+              "path": "/media/seed/spin/aurum-elixir-serum/oxblood/angle-04.webp",
+              "thumbPath": "/media/seed/spin/aurum-elixir-serum/oxblood/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 56724
+            },
+            {
+              "path": "/media/seed/spin/aurum-elixir-serum/oxblood/angle-05.webp",
+              "thumbPath": "/media/seed/spin/aurum-elixir-serum/oxblood/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 59598
+            },
+            {
+              "path": "/media/seed/spin/aurum-elixir-serum/oxblood/angle-06.webp",
+              "thumbPath": "/media/seed/spin/aurum-elixir-serum/oxblood/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 57012
+            },
+            {
+              "path": "/media/seed/spin/aurum-elixir-serum/oxblood/angle-07.webp",
+              "thumbPath": "/media/seed/spin/aurum-elixir-serum/oxblood/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 51550
+            }
+          ]
+        }
+      ]
+    },
+    "black-rose-edp": {
+      "colors": [
+        {
+          "name": "Emerald Noir",
+          "slug": "emerald-noir",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/black-rose-edp/emerald-noir/angle-00.webp",
+              "thumbPath": "/media/seed/spin/black-rose-edp/emerald-noir/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 46088
+            },
+            {
+              "path": "/media/seed/spin/black-rose-edp/emerald-noir/angle-01.webp",
+              "thumbPath": "/media/seed/spin/black-rose-edp/emerald-noir/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 49916
+            },
+            {
+              "path": "/media/seed/spin/black-rose-edp/emerald-noir/angle-02.webp",
+              "thumbPath": "/media/seed/spin/black-rose-edp/emerald-noir/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 53870
+            },
+            {
+              "path": "/media/seed/spin/black-rose-edp/emerald-noir/angle-03.webp",
+              "thumbPath": "/media/seed/spin/black-rose-edp/emerald-noir/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 56432
+            },
+            {
+              "path": "/media/seed/spin/black-rose-edp/emerald-noir/angle-04.webp",
+              "thumbPath": "/media/seed/spin/black-rose-edp/emerald-noir/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 58254
+            },
+            {
+              "path": "/media/seed/spin/black-rose-edp/emerald-noir/angle-05.webp",
+              "thumbPath": "/media/seed/spin/black-rose-edp/emerald-noir/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 60382
+            },
+            {
+              "path": "/media/seed/spin/black-rose-edp/emerald-noir/angle-06.webp",
+              "thumbPath": "/media/seed/spin/black-rose-edp/emerald-noir/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 57538
+            },
+            {
+              "path": "/media/seed/spin/black-rose-edp/emerald-noir/angle-07.webp",
+              "thumbPath": "/media/seed/spin/black-rose-edp/emerald-noir/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 50764
+            }
+          ]
+        },
+        {
+          "name": "Rose Gold",
+          "slug": "rose-gold",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/black-rose-edp/rose-gold/angle-00.webp",
+              "thumbPath": "/media/seed/spin/black-rose-edp/rose-gold/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 51398
+            },
+            {
+              "path": "/media/seed/spin/black-rose-edp/rose-gold/angle-01.webp",
+              "thumbPath": "/media/seed/spin/black-rose-edp/rose-gold/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 55096
+            },
+            {
+              "path": "/media/seed/spin/black-rose-edp/rose-gold/angle-02.webp",
+              "thumbPath": "/media/seed/spin/black-rose-edp/rose-gold/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 58572
+            },
+            {
+              "path": "/media/seed/spin/black-rose-edp/rose-gold/angle-03.webp",
+              "thumbPath": "/media/seed/spin/black-rose-edp/rose-gold/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 61408
+            },
+            {
+              "path": "/media/seed/spin/black-rose-edp/rose-gold/angle-04.webp",
+              "thumbPath": "/media/seed/spin/black-rose-edp/rose-gold/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 61192
+            },
+            {
+              "path": "/media/seed/spin/black-rose-edp/rose-gold/angle-05.webp",
+              "thumbPath": "/media/seed/spin/black-rose-edp/rose-gold/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 63404
+            },
+            {
+              "path": "/media/seed/spin/black-rose-edp/rose-gold/angle-06.webp",
+              "thumbPath": "/media/seed/spin/black-rose-edp/rose-gold/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 61522
+            },
+            {
+              "path": "/media/seed/spin/black-rose-edp/rose-gold/angle-07.webp",
+              "thumbPath": "/media/seed/spin/black-rose-edp/rose-gold/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 56626
+            }
+          ]
+        },
+        {
+          "name": "Obsidian",
+          "slug": "obsidian",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/black-rose-edp/obsidian/angle-00.webp",
+              "thumbPath": "/media/seed/spin/black-rose-edp/obsidian/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 43358
+            },
+            {
+              "path": "/media/seed/spin/black-rose-edp/obsidian/angle-01.webp",
+              "thumbPath": "/media/seed/spin/black-rose-edp/obsidian/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 46976
+            },
+            {
+              "path": "/media/seed/spin/black-rose-edp/obsidian/angle-02.webp",
+              "thumbPath": "/media/seed/spin/black-rose-edp/obsidian/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 50356
+            },
+            {
+              "path": "/media/seed/spin/black-rose-edp/obsidian/angle-03.webp",
+              "thumbPath": "/media/seed/spin/black-rose-edp/obsidian/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 53918
+            },
+            {
+              "path": "/media/seed/spin/black-rose-edp/obsidian/angle-04.webp",
+              "thumbPath": "/media/seed/spin/black-rose-edp/obsidian/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 54860
+            },
+            {
+              "path": "/media/seed/spin/black-rose-edp/obsidian/angle-05.webp",
+              "thumbPath": "/media/seed/spin/black-rose-edp/obsidian/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 58062
+            },
+            {
+              "path": "/media/seed/spin/black-rose-edp/obsidian/angle-06.webp",
+              "thumbPath": "/media/seed/spin/black-rose-edp/obsidian/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 53596
+            },
+            {
+              "path": "/media/seed/spin/black-rose-edp/obsidian/angle-07.webp",
+              "thumbPath": "/media/seed/spin/black-rose-edp/obsidian/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 48538
+            }
+          ]
+        }
+      ]
+    },
+    "aurum-chronograph": {
+      "colors": [
+        {
+          "name": "Onyx Black",
+          "slug": "onyx-black",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/aurum-chronograph/onyx-black/angle-00.webp",
+              "thumbPath": "/media/seed/spin/aurum-chronograph/onyx-black/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 91382
+            },
+            {
+              "path": "/media/seed/spin/aurum-chronograph/onyx-black/angle-01.webp",
+              "thumbPath": "/media/seed/spin/aurum-chronograph/onyx-black/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 84300
+            },
+            {
+              "path": "/media/seed/spin/aurum-chronograph/onyx-black/angle-02.webp",
+              "thumbPath": "/media/seed/spin/aurum-chronograph/onyx-black/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 73452
+            },
+            {
+              "path": "/media/seed/spin/aurum-chronograph/onyx-black/angle-03.webp",
+              "thumbPath": "/media/seed/spin/aurum-chronograph/onyx-black/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 61212
+            },
+            {
+              "path": "/media/seed/spin/aurum-chronograph/onyx-black/angle-04.webp",
+              "thumbPath": "/media/seed/spin/aurum-chronograph/onyx-black/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 50538
+            },
+            {
+              "path": "/media/seed/spin/aurum-chronograph/onyx-black/angle-05.webp",
+              "thumbPath": "/media/seed/spin/aurum-chronograph/onyx-black/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 45140
+            },
+            {
+              "path": "/media/seed/spin/aurum-chronograph/onyx-black/angle-06.webp",
+              "thumbPath": "/media/seed/spin/aurum-chronograph/onyx-black/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 60512
+            },
+            {
+              "path": "/media/seed/spin/aurum-chronograph/onyx-black/angle-07.webp",
+              "thumbPath": "/media/seed/spin/aurum-chronograph/onyx-black/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 78652
+            }
+          ]
+        },
+        {
+          "name": "Champagne Gold",
+          "slug": "champagne-gold",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/aurum-chronograph/champagne-gold/angle-00.webp",
+              "thumbPath": "/media/seed/spin/aurum-chronograph/champagne-gold/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 118678
+            },
+            {
+              "path": "/media/seed/spin/aurum-chronograph/champagne-gold/angle-01.webp",
+              "thumbPath": "/media/seed/spin/aurum-chronograph/champagne-gold/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 108028
+            },
+            {
+              "path": "/media/seed/spin/aurum-chronograph/champagne-gold/angle-02.webp",
+              "thumbPath": "/media/seed/spin/aurum-chronograph/champagne-gold/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 92664
+            },
+            {
+              "path": "/media/seed/spin/aurum-chronograph/champagne-gold/angle-03.webp",
+              "thumbPath": "/media/seed/spin/aurum-chronograph/champagne-gold/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 78390
+            },
+            {
+              "path": "/media/seed/spin/aurum-chronograph/champagne-gold/angle-04.webp",
+              "thumbPath": "/media/seed/spin/aurum-chronograph/champagne-gold/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 63732
+            },
+            {
+              "path": "/media/seed/spin/aurum-chronograph/champagne-gold/angle-05.webp",
+              "thumbPath": "/media/seed/spin/aurum-chronograph/champagne-gold/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 56490
+            },
+            {
+              "path": "/media/seed/spin/aurum-chronograph/champagne-gold/angle-06.webp",
+              "thumbPath": "/media/seed/spin/aurum-chronograph/champagne-gold/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 77092
+            },
+            {
+              "path": "/media/seed/spin/aurum-chronograph/champagne-gold/angle-07.webp",
+              "thumbPath": "/media/seed/spin/aurum-chronograph/champagne-gold/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 99370
+            }
+          ]
+        },
+        {
+          "name": "Oxblood",
+          "slug": "oxblood",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/aurum-chronograph/oxblood/angle-00.webp",
+              "thumbPath": "/media/seed/spin/aurum-chronograph/oxblood/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 96224
+            },
+            {
+              "path": "/media/seed/spin/aurum-chronograph/oxblood/angle-01.webp",
+              "thumbPath": "/media/seed/spin/aurum-chronograph/oxblood/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 86832
+            },
+            {
+              "path": "/media/seed/spin/aurum-chronograph/oxblood/angle-02.webp",
+              "thumbPath": "/media/seed/spin/aurum-chronograph/oxblood/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 74886
+            },
+            {
+              "path": "/media/seed/spin/aurum-chronograph/oxblood/angle-03.webp",
+              "thumbPath": "/media/seed/spin/aurum-chronograph/oxblood/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 62842
+            },
+            {
+              "path": "/media/seed/spin/aurum-chronograph/oxblood/angle-04.webp",
+              "thumbPath": "/media/seed/spin/aurum-chronograph/oxblood/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 51036
+            },
+            {
+              "path": "/media/seed/spin/aurum-chronograph/oxblood/angle-05.webp",
+              "thumbPath": "/media/seed/spin/aurum-chronograph/oxblood/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 45828
+            },
+            {
+              "path": "/media/seed/spin/aurum-chronograph/oxblood/angle-06.webp",
+              "thumbPath": "/media/seed/spin/aurum-chronograph/oxblood/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 60814
+            },
+            {
+              "path": "/media/seed/spin/aurum-chronograph/oxblood/angle-07.webp",
+              "thumbPath": "/media/seed/spin/aurum-chronograph/oxblood/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 81154
+            }
+          ]
+        }
+      ]
+    },
+    "noir-aviator-sunglasses": {
+      "colors": [
+        {
+          "name": "Midnight Blue",
+          "slug": "midnight-blue",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/noir-aviator-sunglasses/midnight-blue/angle-00.webp",
+              "thumbPath": "/media/seed/spin/noir-aviator-sunglasses/midnight-blue/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 94112
+            },
+            {
+              "path": "/media/seed/spin/noir-aviator-sunglasses/midnight-blue/angle-01.webp",
+              "thumbPath": "/media/seed/spin/noir-aviator-sunglasses/midnight-blue/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 86020
+            },
+            {
+              "path": "/media/seed/spin/noir-aviator-sunglasses/midnight-blue/angle-02.webp",
+              "thumbPath": "/media/seed/spin/noir-aviator-sunglasses/midnight-blue/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 74686
+            },
+            {
+              "path": "/media/seed/spin/noir-aviator-sunglasses/midnight-blue/angle-03.webp",
+              "thumbPath": "/media/seed/spin/noir-aviator-sunglasses/midnight-blue/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 62144
+            },
+            {
+              "path": "/media/seed/spin/noir-aviator-sunglasses/midnight-blue/angle-04.webp",
+              "thumbPath": "/media/seed/spin/noir-aviator-sunglasses/midnight-blue/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 51462
+            },
+            {
+              "path": "/media/seed/spin/noir-aviator-sunglasses/midnight-blue/angle-05.webp",
+              "thumbPath": "/media/seed/spin/noir-aviator-sunglasses/midnight-blue/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 45814
+            },
+            {
+              "path": "/media/seed/spin/noir-aviator-sunglasses/midnight-blue/angle-06.webp",
+              "thumbPath": "/media/seed/spin/noir-aviator-sunglasses/midnight-blue/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 61652
+            },
+            {
+              "path": "/media/seed/spin/noir-aviator-sunglasses/midnight-blue/angle-07.webp",
+              "thumbPath": "/media/seed/spin/noir-aviator-sunglasses/midnight-blue/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 80432
+            }
+          ]
+        },
+        {
+          "name": "Ivory",
+          "slug": "ivory",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/noir-aviator-sunglasses/ivory/angle-00.webp",
+              "thumbPath": "/media/seed/spin/noir-aviator-sunglasses/ivory/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 115282
+            },
+            {
+              "path": "/media/seed/spin/noir-aviator-sunglasses/ivory/angle-01.webp",
+              "thumbPath": "/media/seed/spin/noir-aviator-sunglasses/ivory/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 105388
+            },
+            {
+              "path": "/media/seed/spin/noir-aviator-sunglasses/ivory/angle-02.webp",
+              "thumbPath": "/media/seed/spin/noir-aviator-sunglasses/ivory/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 91870
+            },
+            {
+              "path": "/media/seed/spin/noir-aviator-sunglasses/ivory/angle-03.webp",
+              "thumbPath": "/media/seed/spin/noir-aviator-sunglasses/ivory/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 78180
+            },
+            {
+              "path": "/media/seed/spin/noir-aviator-sunglasses/ivory/angle-04.webp",
+              "thumbPath": "/media/seed/spin/noir-aviator-sunglasses/ivory/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 63934
+            },
+            {
+              "path": "/media/seed/spin/noir-aviator-sunglasses/ivory/angle-05.webp",
+              "thumbPath": "/media/seed/spin/noir-aviator-sunglasses/ivory/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 56696
+            },
+            {
+              "path": "/media/seed/spin/noir-aviator-sunglasses/ivory/angle-06.webp",
+              "thumbPath": "/media/seed/spin/noir-aviator-sunglasses/ivory/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 77098
+            },
+            {
+              "path": "/media/seed/spin/noir-aviator-sunglasses/ivory/angle-07.webp",
+              "thumbPath": "/media/seed/spin/noir-aviator-sunglasses/ivory/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 97336
+            }
+          ]
+        },
+        {
+          "name": "Graphite",
+          "slug": "graphite",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/noir-aviator-sunglasses/graphite/angle-00.webp",
+              "thumbPath": "/media/seed/spin/noir-aviator-sunglasses/graphite/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 96616
+            },
+            {
+              "path": "/media/seed/spin/noir-aviator-sunglasses/graphite/angle-01.webp",
+              "thumbPath": "/media/seed/spin/noir-aviator-sunglasses/graphite/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 88076
+            },
+            {
+              "path": "/media/seed/spin/noir-aviator-sunglasses/graphite/angle-02.webp",
+              "thumbPath": "/media/seed/spin/noir-aviator-sunglasses/graphite/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 75368
+            },
+            {
+              "path": "/media/seed/spin/noir-aviator-sunglasses/graphite/angle-03.webp",
+              "thumbPath": "/media/seed/spin/noir-aviator-sunglasses/graphite/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 62844
+            },
+            {
+              "path": "/media/seed/spin/noir-aviator-sunglasses/graphite/angle-04.webp",
+              "thumbPath": "/media/seed/spin/noir-aviator-sunglasses/graphite/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 50760
+            },
+            {
+              "path": "/media/seed/spin/noir-aviator-sunglasses/graphite/angle-05.webp",
+              "thumbPath": "/media/seed/spin/noir-aviator-sunglasses/graphite/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 45362
+            },
+            {
+              "path": "/media/seed/spin/noir-aviator-sunglasses/graphite/angle-06.webp",
+              "thumbPath": "/media/seed/spin/noir-aviator-sunglasses/graphite/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 61082
+            },
+            {
+              "path": "/media/seed/spin/noir-aviator-sunglasses/graphite/angle-07.webp",
+              "thumbPath": "/media/seed/spin/noir-aviator-sunglasses/graphite/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 81328
+            }
+          ]
+        }
+      ]
+    },
+    "gilded-cuff-bracelet": {
+      "colors": [
+        {
+          "name": "Emerald Noir",
+          "slug": "emerald-noir",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/gilded-cuff-bracelet/emerald-noir/angle-00.webp",
+              "thumbPath": "/media/seed/spin/gilded-cuff-bracelet/emerald-noir/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 93602
+            },
+            {
+              "path": "/media/seed/spin/gilded-cuff-bracelet/emerald-noir/angle-01.webp",
+              "thumbPath": "/media/seed/spin/gilded-cuff-bracelet/emerald-noir/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 86672
+            },
+            {
+              "path": "/media/seed/spin/gilded-cuff-bracelet/emerald-noir/angle-02.webp",
+              "thumbPath": "/media/seed/spin/gilded-cuff-bracelet/emerald-noir/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 75106
+            },
+            {
+              "path": "/media/seed/spin/gilded-cuff-bracelet/emerald-noir/angle-03.webp",
+              "thumbPath": "/media/seed/spin/gilded-cuff-bracelet/emerald-noir/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 62810
+            },
+            {
+              "path": "/media/seed/spin/gilded-cuff-bracelet/emerald-noir/angle-04.webp",
+              "thumbPath": "/media/seed/spin/gilded-cuff-bracelet/emerald-noir/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 52568
+            },
+            {
+              "path": "/media/seed/spin/gilded-cuff-bracelet/emerald-noir/angle-05.webp",
+              "thumbPath": "/media/seed/spin/gilded-cuff-bracelet/emerald-noir/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 46302
+            },
+            {
+              "path": "/media/seed/spin/gilded-cuff-bracelet/emerald-noir/angle-06.webp",
+              "thumbPath": "/media/seed/spin/gilded-cuff-bracelet/emerald-noir/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 61644
+            },
+            {
+              "path": "/media/seed/spin/gilded-cuff-bracelet/emerald-noir/angle-07.webp",
+              "thumbPath": "/media/seed/spin/gilded-cuff-bracelet/emerald-noir/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 80548
+            }
+          ]
+        },
+        {
+          "name": "Rose Gold",
+          "slug": "rose-gold",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/gilded-cuff-bracelet/rose-gold/angle-00.webp",
+              "thumbPath": "/media/seed/spin/gilded-cuff-bracelet/rose-gold/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 106608
+            },
+            {
+              "path": "/media/seed/spin/gilded-cuff-bracelet/rose-gold/angle-01.webp",
+              "thumbPath": "/media/seed/spin/gilded-cuff-bracelet/rose-gold/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 96726
+            },
+            {
+              "path": "/media/seed/spin/gilded-cuff-bracelet/rose-gold/angle-02.webp",
+              "thumbPath": "/media/seed/spin/gilded-cuff-bracelet/rose-gold/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 84756
+            },
+            {
+              "path": "/media/seed/spin/gilded-cuff-bracelet/rose-gold/angle-03.webp",
+              "thumbPath": "/media/seed/spin/gilded-cuff-bracelet/rose-gold/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 71966
+            },
+            {
+              "path": "/media/seed/spin/gilded-cuff-bracelet/rose-gold/angle-04.webp",
+              "thumbPath": "/media/seed/spin/gilded-cuff-bracelet/rose-gold/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 58152
+            },
+            {
+              "path": "/media/seed/spin/gilded-cuff-bracelet/rose-gold/angle-05.webp",
+              "thumbPath": "/media/seed/spin/gilded-cuff-bracelet/rose-gold/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 52254
+            },
+            {
+              "path": "/media/seed/spin/gilded-cuff-bracelet/rose-gold/angle-06.webp",
+              "thumbPath": "/media/seed/spin/gilded-cuff-bracelet/rose-gold/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 70440
+            },
+            {
+              "path": "/media/seed/spin/gilded-cuff-bracelet/rose-gold/angle-07.webp",
+              "thumbPath": "/media/seed/spin/gilded-cuff-bracelet/rose-gold/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 90550
+            }
+          ]
+        },
+        {
+          "name": "Obsidian",
+          "slug": "obsidian",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/gilded-cuff-bracelet/obsidian/angle-00.webp",
+              "thumbPath": "/media/seed/spin/gilded-cuff-bracelet/obsidian/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 90630
+            },
+            {
+              "path": "/media/seed/spin/gilded-cuff-bracelet/obsidian/angle-01.webp",
+              "thumbPath": "/media/seed/spin/gilded-cuff-bracelet/obsidian/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 81438
+            },
+            {
+              "path": "/media/seed/spin/gilded-cuff-bracelet/obsidian/angle-02.webp",
+              "thumbPath": "/media/seed/spin/gilded-cuff-bracelet/obsidian/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 70296
+            },
+            {
+              "path": "/media/seed/spin/gilded-cuff-bracelet/obsidian/angle-03.webp",
+              "thumbPath": "/media/seed/spin/gilded-cuff-bracelet/obsidian/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 58244
+            },
+            {
+              "path": "/media/seed/spin/gilded-cuff-bracelet/obsidian/angle-04.webp",
+              "thumbPath": "/media/seed/spin/gilded-cuff-bracelet/obsidian/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 46790
+            },
+            {
+              "path": "/media/seed/spin/gilded-cuff-bracelet/obsidian/angle-05.webp",
+              "thumbPath": "/media/seed/spin/gilded-cuff-bracelet/obsidian/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 42140
+            },
+            {
+              "path": "/media/seed/spin/gilded-cuff-bracelet/obsidian/angle-06.webp",
+              "thumbPath": "/media/seed/spin/gilded-cuff-bracelet/obsidian/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 56782
+            },
+            {
+              "path": "/media/seed/spin/gilded-cuff-bracelet/obsidian/angle-07.webp",
+              "thumbPath": "/media/seed/spin/gilded-cuff-bracelet/obsidian/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 75578
+            }
+          ]
+        }
+      ]
+    },
+    "obsidian-silk-scarf": {
+      "colors": [
+        {
+          "name": "Espresso",
+          "slug": "espresso",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/obsidian-silk-scarf/espresso/angle-00.webp",
+              "thumbPath": "/media/seed/spin/obsidian-silk-scarf/espresso/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 93520
+            },
+            {
+              "path": "/media/seed/spin/obsidian-silk-scarf/espresso/angle-01.webp",
+              "thumbPath": "/media/seed/spin/obsidian-silk-scarf/espresso/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 86614
+            },
+            {
+              "path": "/media/seed/spin/obsidian-silk-scarf/espresso/angle-02.webp",
+              "thumbPath": "/media/seed/spin/obsidian-silk-scarf/espresso/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 75050
+            },
+            {
+              "path": "/media/seed/spin/obsidian-silk-scarf/espresso/angle-03.webp",
+              "thumbPath": "/media/seed/spin/obsidian-silk-scarf/espresso/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 62906
+            },
+            {
+              "path": "/media/seed/spin/obsidian-silk-scarf/espresso/angle-04.webp",
+              "thumbPath": "/media/seed/spin/obsidian-silk-scarf/espresso/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 52128
+            },
+            {
+              "path": "/media/seed/spin/obsidian-silk-scarf/espresso/angle-05.webp",
+              "thumbPath": "/media/seed/spin/obsidian-silk-scarf/espresso/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 46626
+            },
+            {
+              "path": "/media/seed/spin/obsidian-silk-scarf/espresso/angle-06.webp",
+              "thumbPath": "/media/seed/spin/obsidian-silk-scarf/espresso/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 62374
+            },
+            {
+              "path": "/media/seed/spin/obsidian-silk-scarf/espresso/angle-07.webp",
+              "thumbPath": "/media/seed/spin/obsidian-silk-scarf/espresso/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 80774
+            }
+          ]
+        },
+        {
+          "name": "Antique Gold",
+          "slug": "antique-gold",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/obsidian-silk-scarf/antique-gold/angle-00.webp",
+              "thumbPath": "/media/seed/spin/obsidian-silk-scarf/antique-gold/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 113388
+            },
+            {
+              "path": "/media/seed/spin/obsidian-silk-scarf/antique-gold/angle-01.webp",
+              "thumbPath": "/media/seed/spin/obsidian-silk-scarf/antique-gold/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 103566
+            },
+            {
+              "path": "/media/seed/spin/obsidian-silk-scarf/antique-gold/angle-02.webp",
+              "thumbPath": "/media/seed/spin/obsidian-silk-scarf/antique-gold/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 89394
+            },
+            {
+              "path": "/media/seed/spin/obsidian-silk-scarf/antique-gold/angle-03.webp",
+              "thumbPath": "/media/seed/spin/obsidian-silk-scarf/antique-gold/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 75294
+            },
+            {
+              "path": "/media/seed/spin/obsidian-silk-scarf/antique-gold/angle-04.webp",
+              "thumbPath": "/media/seed/spin/obsidian-silk-scarf/antique-gold/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 61844
+            },
+            {
+              "path": "/media/seed/spin/obsidian-silk-scarf/antique-gold/angle-05.webp",
+              "thumbPath": "/media/seed/spin/obsidian-silk-scarf/antique-gold/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 55032
+            },
+            {
+              "path": "/media/seed/spin/obsidian-silk-scarf/antique-gold/angle-06.webp",
+              "thumbPath": "/media/seed/spin/obsidian-silk-scarf/antique-gold/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 74232
+            },
+            {
+              "path": "/media/seed/spin/obsidian-silk-scarf/antique-gold/angle-07.webp",
+              "thumbPath": "/media/seed/spin/obsidian-silk-scarf/antique-gold/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 95106
+            }
+          ]
+        },
+        {
+          "name": "Burgundy",
+          "slug": "burgundy",
+          "frameCount": 8,
+          "source": "seed_derived",
+          "images": [
+            {
+              "path": "/media/seed/spin/obsidian-silk-scarf/burgundy/angle-00.webp",
+              "thumbPath": "/media/seed/spin/obsidian-silk-scarf/burgundy/angle-00-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 96450
+            },
+            {
+              "path": "/media/seed/spin/obsidian-silk-scarf/burgundy/angle-01.webp",
+              "thumbPath": "/media/seed/spin/obsidian-silk-scarf/burgundy/angle-01-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 86838
+            },
+            {
+              "path": "/media/seed/spin/obsidian-silk-scarf/burgundy/angle-02.webp",
+              "thumbPath": "/media/seed/spin/obsidian-silk-scarf/burgundy/angle-02-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 74592
+            },
+            {
+              "path": "/media/seed/spin/obsidian-silk-scarf/burgundy/angle-03.webp",
+              "thumbPath": "/media/seed/spin/obsidian-silk-scarf/burgundy/angle-03-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 61800
+            },
+            {
+              "path": "/media/seed/spin/obsidian-silk-scarf/burgundy/angle-04.webp",
+              "thumbPath": "/media/seed/spin/obsidian-silk-scarf/burgundy/angle-04-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 49738
+            },
+            {
+              "path": "/media/seed/spin/obsidian-silk-scarf/burgundy/angle-05.webp",
+              "thumbPath": "/media/seed/spin/obsidian-silk-scarf/burgundy/angle-05-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 44732
+            },
+            {
+              "path": "/media/seed/spin/obsidian-silk-scarf/burgundy/angle-06.webp",
+              "thumbPath": "/media/seed/spin/obsidian-silk-scarf/burgundy/angle-06-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 60340
+            },
+            {
+              "path": "/media/seed/spin/obsidian-silk-scarf/burgundy/angle-07.webp",
+              "thumbPath": "/media/seed/spin/obsidian-silk-scarf/burgundy/angle-07-thumb.webp",
+              "width": 900,
+              "height": 1125,
+              "bytes": 80530
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

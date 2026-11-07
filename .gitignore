@@ -1,0 +1,31 @@
+# Dependencies and generated output
+node_modules/
+dist/
+test-results/
+*.log
+.DS_Store
+
+# Local configuration and deployment secrets (keep the example templates)
+.env
+.env.*
+!.env.example
+!.env.deploy.example
+
+# Runtime databases, setup material and isolated test data
+data/**/*.db
+data/**/*.db-*
+data/**/*.sqlite
+data/**/*.sqlite-*
+data/**/admin-setup.txt
+data/**/admin-bootstrap-token.txt
+data/**/session-secret.txt
+data/test-e2e/
+data/browser-e2e/
+data/liquid-test/
+data/devcheck/
+
+# User-uploaded files are runtime data; shipped catalogue media lives in seed/.
+data/uploads/products/
+data/uploads/categories/
+data/uploads/spin/admin/
+data/uploads/models/

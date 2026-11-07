@@ -1,0 +1,72 @@
+# ZEN Z KA DUKAN on Oracle Cloud Always Free (Docker + automatic HTTPS)
+#
+#   cp .env.deploy.example .env && edit it       # domain, email, secrets
+#   docker compose up -d --build
+#
+# Two containers: the Node app (only reachable inside the compose network) and Caddy,
+# which terminates TLS with a Let's Encrypt certificate and proxies to the app.
+# The Docker named volumes hold SQLite, sessions and every uploaded image, so
+# `docker compose up -d --build` after a code change keeps all real data.
+
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: zen-z-ka-dukan:latest
+    container_name: zzkd-app
+    restart: unless-stopped
+    environment:
+      NODE_ENV: production
+      PORT: "3001"
+      DATA_DIR: /app/data
+      UPLOAD_DIR: /app/data/uploads
+      SESSION_SECRET: ${SESSION_SECRET:?set SESSION_SECRET in .env}
+      ADMIN_BOOTSTRAP_TOKEN: ${ADMIN_BOOTSTRAP_TOKEN:?set ADMIN_BOOTSTRAP_TOKEN in .env}
+      COOKIE_SECURE: "true"
+      COOKIE_SAMESITE: lax
+      TRUST_PROXY: "1"
+      TZ: Asia/Kolkata
+    volumes:
+      - zzkd-data:/app/data
+    expose:
+      - "3001"
+    healthcheck:
+      test: ["CMD", "node", "-e", "fetch('http://127.0.0.1:3001/api/health').then(r=>process.exit(r.ok?0:1)).catch(()=>process.exit(1))"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 25s
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "3"
+
+  caddy:
+    image: caddy:2-alpine
+    container_name: zzkd-caddy
+    restart: unless-stopped
+    depends_on:
+      app:
+        condition: service_healthy
+    ports:
+      - "${HTTP_PORT:-80}:80"
+      - "${HTTPS_PORT:-443}:443"
+    environment:
+      SITE_DOMAIN: ${SITE_DOMAIN:?set SITE_DOMAIN in .env}
+      ACME_EMAIL: ${ACME_EMAIL:-admin@example.com}
+    volumes:
+      - ./deploy/Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy-data:/data
+      - caddy-config:/config
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "3"
+
+volumes:
+  zzkd-data:
+  caddy-data:
+  caddy-config:

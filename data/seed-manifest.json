@@ -1,0 +1,1198 @@
+{
+  "editorial": {
+    "hero": "/media/seed/editorial/hero.webp",
+    "heroPoster": "/media/seed/editorial/heroPoster.webp",
+    "campaign": "/media/seed/editorial/campaign.webp",
+    "collectionOne": "/media/seed/editorial/collectionOne.webp",
+    "collectionTwo": "/media/seed/editorial/collectionTwo.webp",
+    "promotion": "/media/seed/editorial/promotion.webp",
+    "quote": "/media/seed/editorial/quote.webp"
+  },
+  "categoryImages": {
+    "accessories": "/media/seed/categories/accessories.webp",
+    "bag": "/media/seed/categories/bag.webp",
+    "beauty": "/media/seed/categories/beauty.webp",
+    "kids": "/media/seed/categories/kids.webp",
+    "men": "/media/seed/categories/men.webp",
+    "shoes": "/media/seed/categories/shoes.webp",
+    "women": "/media/seed/categories/women.webp"
+  },
+  "products": {
+    "obsidian-tailored-suit": {
+      "colors": [
+        {
+          "name": "Onyx Black",
+          "slug": "onyx-black",
+          "hex": "#111111",
+          "images": [
+            {
+              "path": "/media/seed/products/obsidian-tailored-suit/onyx-black-1.webp",
+              "thumbPath": "/media/seed/products/obsidian-tailored-suit/onyx-black-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/obsidian-tailored-suit/onyx-black-2.webp",
+              "thumbPath": "/media/seed/products/obsidian-tailored-suit/onyx-black-2-thumb.webp"
+            }
+          ]
+        },
+        {
+          "name": "Champagne Gold",
+          "slug": "champagne-gold",
+          "hex": "#D4AF37",
+          "images": [
+            {
+              "path": "/media/seed/products/obsidian-tailored-suit/champagne-gold-1.webp",
+              "thumbPath": "/media/seed/products/obsidian-tailored-suit/champagne-gold-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/obsidian-tailored-suit/champagne-gold-2.webp",
+              "thumbPath": "/media/seed/products/obsidian-tailored-suit/champagne-gold-2-thumb.webp"
+            }
+          ]
+        },
+        {
+          "name": "Oxblood",
+          "slug": "oxblood",
+          "hex": "#5B1620",
+          "images": [
+            {
+              "path": "/media/seed/products/obsidian-tailored-suit/oxblood-1.webp",
+              "thumbPath": "/media/seed/products/obsidian-tailored-suit/oxblood-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/obsidian-tailored-suit/oxblood-2.webp",
+              "thumbPath": "/media/seed/products/obsidian-tailored-suit/oxblood-2-thumb.webp"
+            }
+          ]
+        }
+      ]
+    },
+    "noir-velvet-tuxedo": {
+      "colors": [
+        {
+          "name": "Emerald Noir",
+          "slug": "emerald-noir",
+          "hex": "#143C31",
+          "images": [
+            {
+              "path": "/media/seed/products/noir-velvet-tuxedo/emerald-noir-1.webp",
+              "thumbPath": "/media/seed/products/noir-velvet-tuxedo/emerald-noir-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/noir-velvet-tuxedo/emerald-noir-2.webp",
+              "thumbPath": "/media/seed/products/noir-velvet-tuxedo/emerald-noir-2-thumb.webp"
+            }
+          ]
+        },
+        {
+          "name": "Rose Gold",
+          "slug": "rose-gold",
+          "hex": "#B76E79",
+          "images": [
+            {
+              "path": "/media/seed/products/noir-velvet-tuxedo/rose-gold-1.webp",
+              "thumbPath": "/media/seed/products/noir-velvet-tuxedo/rose-gold-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/noir-velvet-tuxedo/rose-gold-2.webp",
+              "thumbPath": "/media/seed/products/noir-velvet-tuxedo/rose-gold-2-thumb.webp"
+            }
+          ]
+        },
+        {
+          "name": "Obsidian",
+          "slug": "obsidian",
+          "hex": "#0B0B0B",
+          "images": [
+            {
+              "path": "/media/seed/products/noir-velvet-tuxedo/obsidian-1.webp",
+              "thumbPath": "/media/seed/products/noir-velvet-tuxedo/obsidian-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/noir-velvet-tuxedo/obsidian-2.webp",
+              "thumbPath": "/media/seed/products/noir-velvet-tuxedo/obsidian-2-thumb.webp"
+            }
+          ]
+        }
+      ]
+    },
+    "aurum-bomber-jacket": {
+      "colors": [
+        {
+          "name": "Midnight Blue",
+          "slug": "midnight-blue",
+          "hex": "#16243B",
+          "images": [
+            {
+              "path": "/media/seed/products/aurum-bomber-jacket/midnight-blue-1.webp",
+              "thumbPath": "/media/seed/products/aurum-bomber-jacket/midnight-blue-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/aurum-bomber-jacket/midnight-blue-2.webp",
+              "thumbPath": "/media/seed/products/aurum-bomber-jacket/midnight-blue-2-thumb.webp"
+            }
+          ]
+        },
+        {
+          "name": "Ivory",
+          "slug": "ivory",
+          "hex": "#D8C9AA",
+          "images": [
+            {
+              "path": "/media/seed/products/aurum-bomber-jacket/ivory-1.webp",
+              "thumbPath": "/media/seed/products/aurum-bomber-jacket/ivory-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/aurum-bomber-jacket/ivory-2.webp",
+              "thumbPath": "/media/seed/products/aurum-bomber-jacket/ivory-2-thumb.webp"
+            }
+          ]
+        },
+        {
+          "name": "Graphite",
+          "slug": "graphite",
+          "hex": "#3C3C3C",
+          "images": [
+            {
+              "path": "/media/seed/products/aurum-bomber-jacket/graphite-1.webp",
+              "thumbPath": "/media/seed/products/aurum-bomber-jacket/graphite-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/aurum-bomber-jacket/graphite-2.webp",
+              "thumbPath": "/media/seed/products/aurum-bomber-jacket/graphite-2-thumb.webp"
+            }
+          ]
+        }
+      ]
+    },
+    "monogram-tailored-shirt": {
+      "colors": [
+        {
+          "name": "Espresso",
+          "slug": "espresso",
+          "hex": "#3B241B",
+          "images": [
+            {
+              "path": "/media/seed/products/monogram-tailored-shirt/espresso-1.webp",
+              "thumbPath": "/media/seed/products/monogram-tailored-shirt/espresso-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/monogram-tailored-shirt/espresso-2.webp",
+              "thumbPath": "/media/seed/products/monogram-tailored-shirt/espresso-2-thumb.webp"
+            }
+          ]
+        },
+        {
+          "name": "Antique Gold",
+          "slug": "antique-gold",
+          "hex": "#C6A15B",
+          "images": [
+            {
+              "path": "/media/seed/products/monogram-tailored-shirt/antique-gold-1.webp",
+              "thumbPath": "/media/seed/products/monogram-tailored-shirt/antique-gold-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/monogram-tailored-shirt/antique-gold-2.webp",
+              "thumbPath": "/media/seed/products/monogram-tailored-shirt/antique-gold-2-thumb.webp"
+            }
+          ]
+        },
+        {
+          "name": "Burgundy",
+          "slug": "burgundy",
+          "hex": "#4B1620",
+          "images": [
+            {
+              "path": "/media/seed/products/monogram-tailored-shirt/burgundy-1.webp",
+              "thumbPath": "/media/seed/products/monogram-tailored-shirt/burgundy-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/monogram-tailored-shirt/burgundy-2.webp",
+              "thumbPath": "/media/seed/products/monogram-tailored-shirt/burgundy-2-thumb.webp"
+            }
+          ]
+        }
+      ]
+    },
+    "midnight-architect-coat": {
+      "colors": [
+        {
+          "name": "Onyx Black",
+          "slug": "onyx-black",
+          "hex": "#111111",
+          "images": [
+            {
+              "path": "/media/seed/products/midnight-architect-coat/onyx-black-1.webp",
+              "thumbPath": "/media/seed/products/midnight-architect-coat/onyx-black-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/midnight-architect-coat/onyx-black-2.webp",
+              "thumbPath": "/media/seed/products/midnight-architect-coat/onyx-black-2-thumb.webp"
+            }
+          ]
+        },
+        {
+          "name": "Champagne Gold",
+          "slug": "champagne-gold",
+          "hex": "#D4AF37",
+          "images": [
+            {
+              "path": "/media/seed/products/midnight-architect-coat/champagne-gold-1.webp",
+              "thumbPath": "/media/seed/products/midnight-architect-coat/champagne-gold-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/midnight-architect-coat/champagne-gold-2.webp",
+              "thumbPath": "/media/seed/products/midnight-architect-coat/champagne-gold-2-thumb.webp"
+            }
+          ]
+        },
+        {
+          "name": "Oxblood",
+          "slug": "oxblood",
+          "hex": "#5B1620",
+          "images": [
+            {
+              "path": "/media/seed/products/midnight-architect-coat/oxblood-1.webp",
+              "thumbPath": "/media/seed/products/midnight-architect-coat/oxblood-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/midnight-architect-coat/oxblood-2.webp",
+              "thumbPath": "/media/seed/products/midnight-architect-coat/oxblood-2-thumb.webp"
+            }
+          ]
+        }
+      ]
+    },
+    "gilded-silk-gown": {
+      "colors": [
+        {
+          "name": "Emerald Noir",
+          "slug": "emerald-noir",
+          "hex": "#143C31",
+          "images": [
+            {
+              "path": "/media/seed/products/gilded-silk-gown/emerald-noir-1.webp",
+              "thumbPath": "/media/seed/products/gilded-silk-gown/emerald-noir-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/gilded-silk-gown/emerald-noir-2.webp",
+              "thumbPath": "/media/seed/products/gilded-silk-gown/emerald-noir-2-thumb.webp"
+            }
+          ]
+        },
+        {
+          "name": "Rose Gold",
+          "slug": "rose-gold",
+          "hex": "#B76E79",
+          "images": [
+            {
+              "path": "/media/seed/products/gilded-silk-gown/rose-gold-1.webp",
+              "thumbPath": "/media/seed/products/gilded-silk-gown/rose-gold-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/gilded-silk-gown/rose-gold-2.webp",
+              "thumbPath": "/media/seed/products/gilded-silk-gown/rose-gold-2-thumb.webp"
+            }
+          ]
+        },
+        {
+          "name": "Obsidian",
+          "slug": "obsidian",
+          "hex": "#0B0B0B",
+          "images": [
+            {
+              "path": "/media/seed/products/gilded-silk-gown/obsidian-1.webp",
+              "thumbPath": "/media/seed/products/gilded-silk-gown/obsidian-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/gilded-silk-gown/obsidian-2.webp",
+              "thumbPath": "/media/seed/products/gilded-silk-gown/obsidian-2-thumb.webp"
+            }
+          ]
+        }
+      ]
+    },
+    "obsidian-power-blazer": {
+      "colors": [
+        {
+          "name": "Midnight Blue",
+          "slug": "midnight-blue",
+          "hex": "#16243B",
+          "images": [
+            {
+              "path": "/media/seed/products/obsidian-power-blazer/midnight-blue-1.webp",
+              "thumbPath": "/media/seed/products/obsidian-power-blazer/midnight-blue-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/obsidian-power-blazer/midnight-blue-2.webp",
+              "thumbPath": "/media/seed/products/obsidian-power-blazer/midnight-blue-2-thumb.webp"
+            }
+          ]
+        },
+        {
+          "name": "Ivory",
+          "slug": "ivory",
+          "hex": "#D8C9AA",
+          "images": [
+            {
+              "path": "/media/seed/products/obsidian-power-blazer/ivory-1.webp",
+              "thumbPath": "/media/seed/products/obsidian-power-blazer/ivory-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/obsidian-power-blazer/ivory-2.webp",
+              "thumbPath": "/media/seed/products/obsidian-power-blazer/ivory-2-thumb.webp"
+            }
+          ]
+        },
+        {
+          "name": "Graphite",
+          "slug": "graphite",
+          "hex": "#3C3C3C",
+          "images": [
+            {
+              "path": "/media/seed/products/obsidian-power-blazer/graphite-1.webp",
+              "thumbPath": "/media/seed/products/obsidian-power-blazer/graphite-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/obsidian-power-blazer/graphite-2.webp",
+              "thumbPath": "/media/seed/products/obsidian-power-blazer/graphite-2-thumb.webp"
+            }
+          ]
+        }
+      ]
+    },
+    "noir-pleated-midi": {
+      "colors": [
+        {
+          "name": "Espresso",
+          "slug": "espresso",
+          "hex": "#3B241B",
+          "images": [
+            {
+              "path": "/media/seed/products/noir-pleated-midi/espresso-1.webp",
+              "thumbPath": "/media/seed/products/noir-pleated-midi/espresso-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/noir-pleated-midi/espresso-2.webp",
+              "thumbPath": "/media/seed/products/noir-pleated-midi/espresso-2-thumb.webp"
+            }
+          ]
+        },
+        {
+          "name": "Antique Gold",
+          "slug": "antique-gold",
+          "hex": "#C6A15B",
+          "images": [
+            {
+              "path": "/media/seed/products/noir-pleated-midi/antique-gold-1.webp",
+              "thumbPath": "/media/seed/products/noir-pleated-midi/antique-gold-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/noir-pleated-midi/antique-gold-2.webp",
+              "thumbPath": "/media/seed/products/noir-pleated-midi/antique-gold-2-thumb.webp"
+            }
+          ]
+        },
+        {
+          "name": "Burgundy",
+          "slug": "burgundy",
+          "hex": "#4B1620",
+          "images": [
+            {
+              "path": "/media/seed/products/noir-pleated-midi/burgundy-1.webp",
+              "thumbPath": "/media/seed/products/noir-pleated-midi/burgundy-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/noir-pleated-midi/burgundy-2.webp",
+              "thumbPath": "/media/seed/products/noir-pleated-midi/burgundy-2-thumb.webp"
+            }
+          ]
+        }
+      ]
+    },
+    "little-legacy-suit": {
+      "colors": [
+        {
+          "name": "Onyx Black",
+          "slug": "onyx-black",
+          "hex": "#111111",
+          "images": [
+            {
+              "path": "/media/seed/products/little-legacy-suit/onyx-black-1.webp",
+              "thumbPath": "/media/seed/products/little-legacy-suit/onyx-black-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/little-legacy-suit/onyx-black-2.webp",
+              "thumbPath": "/media/seed/products/little-legacy-suit/onyx-black-2-thumb.webp"
+            }
+          ]
+        },
+        {
+          "name": "Champagne Gold",
+          "slug": "champagne-gold",
+          "hex": "#D4AF37",
+          "images": [
+            {
+              "path": "/media/seed/products/little-legacy-suit/champagne-gold-1.webp",
+              "thumbPath": "/media/seed/products/little-legacy-suit/champagne-gold-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/little-legacy-suit/champagne-gold-2.webp",
+              "thumbPath": "/media/seed/products/little-legacy-suit/champagne-gold-2-thumb.webp"
+            }
+          ]
+        },
+        {
+          "name": "Oxblood",
+          "slug": "oxblood",
+          "hex": "#5B1620",
+          "images": [
+            {
+              "path": "/media/seed/products/little-legacy-suit/oxblood-1.webp",
+              "thumbPath": "/media/seed/products/little-legacy-suit/oxblood-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/little-legacy-suit/oxblood-2.webp",
+              "thumbPath": "/media/seed/products/little-legacy-suit/oxblood-2-thumb.webp"
+            }
+          ]
+        }
+      ]
+    },
+    "mini-velvet-dress": {
+      "colors": [
+        {
+          "name": "Emerald Noir",
+          "slug": "emerald-noir",
+          "hex": "#143C31",
+          "images": [
+            {
+              "path": "/media/seed/products/mini-velvet-dress/emerald-noir-1.webp",
+              "thumbPath": "/media/seed/products/mini-velvet-dress/emerald-noir-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/mini-velvet-dress/emerald-noir-2.webp",
+              "thumbPath": "/media/seed/products/mini-velvet-dress/emerald-noir-2-thumb.webp"
+            }
+          ]
+        },
+        {
+          "name": "Rose Gold",
+          "slug": "rose-gold",
+          "hex": "#B76E79",
+          "images": [
+            {
+              "path": "/media/seed/products/mini-velvet-dress/rose-gold-1.webp",
+              "thumbPath": "/media/seed/products/mini-velvet-dress/rose-gold-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/mini-velvet-dress/rose-gold-2.webp",
+              "thumbPath": "/media/seed/products/mini-velvet-dress/rose-gold-2-thumb.webp"
+            }
+          ]
+        },
+        {
+          "name": "Obsidian",
+          "slug": "obsidian",
+          "hex": "#0B0B0B",
+          "images": [
+            {
+              "path": "/media/seed/products/mini-velvet-dress/obsidian-1.webp",
+              "thumbPath": "/media/seed/products/mini-velvet-dress/obsidian-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/mini-velvet-dress/obsidian-2.webp",
+              "thumbPath": "/media/seed/products/mini-velvet-dress/obsidian-2-thumb.webp"
+            }
+          ]
+        }
+      ]
+    },
+    "junior-atelier-jacket": {
+      "colors": [
+        {
+          "name": "Midnight Blue",
+          "slug": "midnight-blue",
+          "hex": "#16243B",
+          "images": [
+            {
+              "path": "/media/seed/products/junior-atelier-jacket/midnight-blue-1.webp",
+              "thumbPath": "/media/seed/products/junior-atelier-jacket/midnight-blue-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/junior-atelier-jacket/midnight-blue-2.webp",
+              "thumbPath": "/media/seed/products/junior-atelier-jacket/midnight-blue-2-thumb.webp"
+            }
+          ]
+        },
+        {
+          "name": "Ivory",
+          "slug": "ivory",
+          "hex": "#D8C9AA",
+          "images": [
+            {
+              "path": "/media/seed/products/junior-atelier-jacket/ivory-1.webp",
+              "thumbPath": "/media/seed/products/junior-atelier-jacket/ivory-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/junior-atelier-jacket/ivory-2.webp",
+              "thumbPath": "/media/seed/products/junior-atelier-jacket/ivory-2-thumb.webp"
+            }
+          ]
+        },
+        {
+          "name": "Graphite",
+          "slug": "graphite",
+          "hex": "#3C3C3C",
+          "images": [
+            {
+              "path": "/media/seed/products/junior-atelier-jacket/graphite-1.webp",
+              "thumbPath": "/media/seed/products/junior-atelier-jacket/graphite-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/junior-atelier-jacket/graphite-2.webp",
+              "thumbPath": "/media/seed/products/junior-atelier-jacket/graphite-2-thumb.webp"
+            }
+          ]
+        }
+      ]
+    },
+    "aurum-low-top-sneakers": {
+      "colors": [
+        {
+          "name": "Onyx Black",
+          "slug": "onyx-black",
+          "hex": "#111111",
+          "images": [
+            {
+              "path": "/media/seed/products/aurum-low-top-sneakers/onyx-black-1.webp",
+              "thumbPath": "/media/seed/products/aurum-low-top-sneakers/onyx-black-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/aurum-low-top-sneakers/onyx-black-2.webp",
+              "thumbPath": "/media/seed/products/aurum-low-top-sneakers/onyx-black-2-thumb.webp"
+            }
+          ]
+        },
+        {
+          "name": "Champagne Gold",
+          "slug": "champagne-gold",
+          "hex": "#D4AF37",
+          "images": [
+            {
+              "path": "/media/seed/products/aurum-low-top-sneakers/champagne-gold-1.webp",
+              "thumbPath": "/media/seed/products/aurum-low-top-sneakers/champagne-gold-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/aurum-low-top-sneakers/champagne-gold-2.webp",
+              "thumbPath": "/media/seed/products/aurum-low-top-sneakers/champagne-gold-2-thumb.webp"
+            }
+          ]
+        },
+        {
+          "name": "Oxblood",
+          "slug": "oxblood",
+          "hex": "#5B1620",
+          "images": [
+            {
+              "path": "/media/seed/products/aurum-low-top-sneakers/oxblood-1.webp",
+              "thumbPath": "/media/seed/products/aurum-low-top-sneakers/oxblood-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/aurum-low-top-sneakers/oxblood-2.webp",
+              "thumbPath": "/media/seed/products/aurum-low-top-sneakers/oxblood-2-thumb.webp"
+            }
+          ]
+        }
+      ]
+    },
+    "obsidian-leather-loafers": {
+      "colors": [
+        {
+          "name": "Espresso",
+          "slug": "espresso",
+          "hex": "#3B241B",
+          "images": [
+            {
+              "path": "/media/seed/products/obsidian-leather-loafers/espresso-1.webp",
+              "thumbPath": "/media/seed/products/obsidian-leather-loafers/espresso-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/obsidian-leather-loafers/espresso-2.webp",
+              "thumbPath": "/media/seed/products/obsidian-leather-loafers/espresso-2-thumb.webp"
+            }
+          ]
+        },
+        {
+          "name": "Antique Gold",
+          "slug": "antique-gold",
+          "hex": "#C6A15B",
+          "images": [
+            {
+              "path": "/media/seed/products/obsidian-leather-loafers/antique-gold-1.webp",
+              "thumbPath": "/media/seed/products/obsidian-leather-loafers/antique-gold-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/obsidian-leather-loafers/antique-gold-2.webp",
+              "thumbPath": "/media/seed/products/obsidian-leather-loafers/antique-gold-2-thumb.webp"
+            }
+          ]
+        },
+        {
+          "name": "Burgundy",
+          "slug": "burgundy",
+          "hex": "#4B1620",
+          "images": [
+            {
+              "path": "/media/seed/products/obsidian-leather-loafers/burgundy-1.webp",
+              "thumbPath": "/media/seed/products/obsidian-leather-loafers/burgundy-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/obsidian-leather-loafers/burgundy-2.webp",
+              "thumbPath": "/media/seed/products/obsidian-leather-loafers/burgundy-2-thumb.webp"
+            }
+          ]
+        }
+      ]
+    },
+    "noir-runner-edit": {
+      "colors": [
+        {
+          "name": "Midnight Blue",
+          "slug": "midnight-blue",
+          "hex": "#16243B",
+          "images": [
+            {
+              "path": "/media/seed/products/noir-runner-edit/midnight-blue-1.webp",
+              "thumbPath": "/media/seed/products/noir-runner-edit/midnight-blue-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/noir-runner-edit/midnight-blue-2.webp",
+              "thumbPath": "/media/seed/products/noir-runner-edit/midnight-blue-2-thumb.webp"
+            }
+          ]
+        },
+        {
+          "name": "Ivory",
+          "slug": "ivory",
+          "hex": "#D8C9AA",
+          "images": [
+            {
+              "path": "/media/seed/products/noir-runner-edit/ivory-1.webp",
+              "thumbPath": "/media/seed/products/noir-runner-edit/ivory-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/noir-runner-edit/ivory-2.webp",
+              "thumbPath": "/media/seed/products/noir-runner-edit/ivory-2-thumb.webp"
+            }
+          ]
+        },
+        {
+          "name": "Graphite",
+          "slug": "graphite",
+          "hex": "#3C3C3C",
+          "images": [
+            {
+              "path": "/media/seed/products/noir-runner-edit/graphite-1.webp",
+              "thumbPath": "/media/seed/products/noir-runner-edit/graphite-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/noir-runner-edit/graphite-2.webp",
+              "thumbPath": "/media/seed/products/noir-runner-edit/graphite-2-thumb.webp"
+            }
+          ]
+        }
+      ]
+    },
+    "maison-noir-top-handle": {
+      "colors": [
+        {
+          "name": "Onyx Black",
+          "slug": "onyx-black",
+          "hex": "#111111",
+          "images": [
+            {
+              "path": "/media/seed/products/maison-noir-top-handle/onyx-black-1.webp",
+              "thumbPath": "/media/seed/products/maison-noir-top-handle/onyx-black-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/maison-noir-top-handle/onyx-black-2.webp",
+              "thumbPath": "/media/seed/products/maison-noir-top-handle/onyx-black-2-thumb.webp"
+            }
+          ]
+        },
+        {
+          "name": "Champagne Gold",
+          "slug": "champagne-gold",
+          "hex": "#D4AF37",
+          "images": [
+            {
+              "path": "/media/seed/products/maison-noir-top-handle/champagne-gold-1.webp",
+              "thumbPath": "/media/seed/products/maison-noir-top-handle/champagne-gold-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/maison-noir-top-handle/champagne-gold-2.webp",
+              "thumbPath": "/media/seed/products/maison-noir-top-handle/champagne-gold-2-thumb.webp"
+            }
+          ]
+        },
+        {
+          "name": "Oxblood",
+          "slug": "oxblood",
+          "hex": "#5B1620",
+          "images": [
+            {
+              "path": "/media/seed/products/maison-noir-top-handle/oxblood-1.webp",
+              "thumbPath": "/media/seed/products/maison-noir-top-handle/oxblood-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/maison-noir-top-handle/oxblood-2.webp",
+              "thumbPath": "/media/seed/products/maison-noir-top-handle/oxblood-2-thumb.webp"
+            }
+          ]
+        }
+      ]
+    },
+    "gilded-mini-bag": {
+      "colors": [
+        {
+          "name": "Emerald Noir",
+          "slug": "emerald-noir",
+          "hex": "#143C31",
+          "images": [
+            {
+              "path": "/media/seed/products/gilded-mini-bag/emerald-noir-1.webp",
+              "thumbPath": "/media/seed/products/gilded-mini-bag/emerald-noir-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/gilded-mini-bag/emerald-noir-2.webp",
+              "thumbPath": "/media/seed/products/gilded-mini-bag/emerald-noir-2-thumb.webp"
+            }
+          ]
+        },
+        {
+          "name": "Rose Gold",
+          "slug": "rose-gold",
+          "hex": "#B76E79",
+          "images": [
+            {
+              "path": "/media/seed/products/gilded-mini-bag/rose-gold-1.webp",
+              "thumbPath": "/media/seed/products/gilded-mini-bag/rose-gold-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/gilded-mini-bag/rose-gold-2.webp",
+              "thumbPath": "/media/seed/products/gilded-mini-bag/rose-gold-2-thumb.webp"
+            }
+          ]
+        },
+        {
+          "name": "Obsidian",
+          "slug": "obsidian",
+          "hex": "#0B0B0B",
+          "images": [
+            {
+              "path": "/media/seed/products/gilded-mini-bag/obsidian-1.webp",
+              "thumbPath": "/media/seed/products/gilded-mini-bag/obsidian-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/gilded-mini-bag/obsidian-2.webp",
+              "thumbPath": "/media/seed/products/gilded-mini-bag/obsidian-2-thumb.webp"
+            }
+          ]
+        }
+      ]
+    },
+    "obsidian-weekender": {
+      "colors": [
+        {
+          "name": "Midnight Blue",
+          "slug": "midnight-blue",
+          "hex": "#16243B",
+          "images": [
+            {
+              "path": "/media/seed/products/obsidian-weekender/midnight-blue-1.webp",
+              "thumbPath": "/media/seed/products/obsidian-weekender/midnight-blue-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/obsidian-weekender/midnight-blue-2.webp",
+              "thumbPath": "/media/seed/products/obsidian-weekender/midnight-blue-2-thumb.webp"
+            }
+          ]
+        },
+        {
+          "name": "Ivory",
+          "slug": "ivory",
+          "hex": "#D8C9AA",
+          "images": [
+            {
+              "path": "/media/seed/products/obsidian-weekender/ivory-1.webp",
+              "thumbPath": "/media/seed/products/obsidian-weekender/ivory-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/obsidian-weekender/ivory-2.webp",
+              "thumbPath": "/media/seed/products/obsidian-weekender/ivory-2-thumb.webp"
+            }
+          ]
+        },
+        {
+          "name": "Graphite",
+          "slug": "graphite",
+          "hex": "#3C3C3C",
+          "images": [
+            {
+              "path": "/media/seed/products/obsidian-weekender/graphite-1.webp",
+              "thumbPath": "/media/seed/products/obsidian-weekender/graphite-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/obsidian-weekender/graphite-2.webp",
+              "thumbPath": "/media/seed/products/obsidian-weekender/graphite-2-thumb.webp"
+            }
+          ]
+        }
+      ]
+    },
+    "noir-amber-parfum": {
+      "colors": [
+        {
+          "name": "Espresso",
+          "slug": "espresso",
+          "hex": "#3B241B",
+          "images": [
+            {
+              "path": "/media/seed/products/noir-amber-parfum/espresso-1.webp",
+              "thumbPath": "/media/seed/products/noir-amber-parfum/espresso-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/noir-amber-parfum/espresso-2.webp",
+              "thumbPath": "/media/seed/products/noir-amber-parfum/espresso-2-thumb.webp"
+            }
+          ]
+        },
+        {
+          "name": "Antique Gold",
+          "slug": "antique-gold",
+          "hex": "#C6A15B",
+          "images": [
+            {
+              "path": "/media/seed/products/noir-amber-parfum/antique-gold-1.webp",
+              "thumbPath": "/media/seed/products/noir-amber-parfum/antique-gold-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/noir-amber-parfum/antique-gold-2.webp",
+              "thumbPath": "/media/seed/products/noir-amber-parfum/antique-gold-2-thumb.webp"
+            }
+          ]
+        },
+        {
+          "name": "Burgundy",
+          "slug": "burgundy",
+          "hex": "#4B1620",
+          "images": [
+            {
+              "path": "/media/seed/products/noir-amber-parfum/burgundy-1.webp",
+              "thumbPath": "/media/seed/products/noir-amber-parfum/burgundy-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/noir-amber-parfum/burgundy-2.webp",
+              "thumbPath": "/media/seed/products/noir-amber-parfum/burgundy-2-thumb.webp"
+            }
+          ]
+        }
+      ]
+    },
+    "aurum-elixir-serum": {
+      "colors": [
+        {
+          "name": "Onyx Black",
+          "slug": "onyx-black",
+          "hex": "#111111",
+          "images": [
+            {
+              "path": "/media/seed/products/aurum-elixir-serum/onyx-black-1.webp",
+              "thumbPath": "/media/seed/products/aurum-elixir-serum/onyx-black-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/aurum-elixir-serum/onyx-black-2.webp",
+              "thumbPath": "/media/seed/products/aurum-elixir-serum/onyx-black-2-thumb.webp"
+            }
+          ]
+        },
+        {
+          "name": "Champagne Gold",
+          "slug": "champagne-gold",
+          "hex": "#D4AF37",
+          "images": [
+            {
+              "path": "/media/seed/products/aurum-elixir-serum/champagne-gold-1.webp",
+              "thumbPath": "/media/seed/products/aurum-elixir-serum/champagne-gold-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/aurum-elixir-serum/champagne-gold-2.webp",
+              "thumbPath": "/media/seed/products/aurum-elixir-serum/champagne-gold-2-thumb.webp"
+            }
+          ]
+        },
+        {
+          "name": "Oxblood",
+          "slug": "oxblood",
+          "hex": "#5B1620",
+          "images": [
+            {
+              "path": "/media/seed/products/aurum-elixir-serum/oxblood-1.webp",
+              "thumbPath": "/media/seed/products/aurum-elixir-serum/oxblood-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/aurum-elixir-serum/oxblood-2.webp",
+              "thumbPath": "/media/seed/products/aurum-elixir-serum/oxblood-2-thumb.webp"
+            }
+          ]
+        }
+      ]
+    },
+    "black-rose-edp": {
+      "colors": [
+        {
+          "name": "Emerald Noir",
+          "slug": "emerald-noir",
+          "hex": "#143C31",
+          "images": [
+            {
+              "path": "/media/seed/products/black-rose-edp/emerald-noir-1.webp",
+              "thumbPath": "/media/seed/products/black-rose-edp/emerald-noir-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/black-rose-edp/emerald-noir-2.webp",
+              "thumbPath": "/media/seed/products/black-rose-edp/emerald-noir-2-thumb.webp"
+            }
+          ]
+        },
+        {
+          "name": "Rose Gold",
+          "slug": "rose-gold",
+          "hex": "#B76E79",
+          "images": [
+            {
+              "path": "/media/seed/products/black-rose-edp/rose-gold-1.webp",
+              "thumbPath": "/media/seed/products/black-rose-edp/rose-gold-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/black-rose-edp/rose-gold-2.webp",
+              "thumbPath": "/media/seed/products/black-rose-edp/rose-gold-2-thumb.webp"
+            }
+          ]
+        },
+        {
+          "name": "Obsidian",
+          "slug": "obsidian",
+          "hex": "#0B0B0B",
+          "images": [
+            {
+              "path": "/media/seed/products/black-rose-edp/obsidian-1.webp",
+              "thumbPath": "/media/seed/products/black-rose-edp/obsidian-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/black-rose-edp/obsidian-2.webp",
+              "thumbPath": "/media/seed/products/black-rose-edp/obsidian-2-thumb.webp"
+            }
+          ]
+        }
+      ]
+    },
+    "aurum-chronograph": {
+      "colors": [
+        {
+          "name": "Onyx Black",
+          "slug": "onyx-black",
+          "hex": "#111111",
+          "images": [
+            {
+              "path": "/media/seed/products/aurum-chronograph/onyx-black-1.webp",
+              "thumbPath": "/media/seed/products/aurum-chronograph/onyx-black-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/aurum-chronograph/onyx-black-2.webp",
+              "thumbPath": "/media/seed/products/aurum-chronograph/onyx-black-2-thumb.webp"
+            }
+          ]
+        },
+        {
+          "name": "Champagne Gold",
+          "slug": "champagne-gold",
+          "hex": "#D4AF37",
+          "images": [
+            {
+              "path": "/media/seed/products/aurum-chronograph/champagne-gold-1.webp",
+              "thumbPath": "/media/seed/products/aurum-chronograph/champagne-gold-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/aurum-chronograph/champagne-gold-2.webp",
+              "thumbPath": "/media/seed/products/aurum-chronograph/champagne-gold-2-thumb.webp"
+            }
+          ]
+        },
+        {
+          "name": "Oxblood",
+          "slug": "oxblood",
+          "hex": "#5B1620",
+          "images": [
+            {
+              "path": "/media/seed/products/aurum-chronograph/oxblood-1.webp",
+              "thumbPath": "/media/seed/products/aurum-chronograph/oxblood-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/aurum-chronograph/oxblood-2.webp",
+              "thumbPath": "/media/seed/products/aurum-chronograph/oxblood-2-thumb.webp"
+            }
+          ]
+        }
+      ]
+    },
+    "noir-aviator-sunglasses": {
+      "colors": [
+        {
+          "name": "Midnight Blue",
+          "slug": "midnight-blue",
+          "hex": "#16243B",
+          "images": [
+            {
+              "path": "/media/seed/products/noir-aviator-sunglasses/midnight-blue-1.webp",
+              "thumbPath": "/media/seed/products/noir-aviator-sunglasses/midnight-blue-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/noir-aviator-sunglasses/midnight-blue-2.webp",
+              "thumbPath": "/media/seed/products/noir-aviator-sunglasses/midnight-blue-2-thumb.webp"
+            }
+          ]
+        },
+        {
+          "name": "Ivory",
+          "slug": "ivory",
+          "hex": "#D8C9AA",
+          "images": [
+            {
+              "path": "/media/seed/products/noir-aviator-sunglasses/ivory-1.webp",
+              "thumbPath": "/media/seed/products/noir-aviator-sunglasses/ivory-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/noir-aviator-sunglasses/ivory-2.webp",
+              "thumbPath": "/media/seed/products/noir-aviator-sunglasses/ivory-2-thumb.webp"
+            }
+          ]
+        },
+        {
+          "name": "Graphite",
+          "slug": "graphite",
+          "hex": "#3C3C3C",
+          "images": [
+            {
+              "path": "/media/seed/products/noir-aviator-sunglasses/graphite-1.webp",
+              "thumbPath": "/media/seed/products/noir-aviator-sunglasses/graphite-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/noir-aviator-sunglasses/graphite-2.webp",
+              "thumbPath": "/media/seed/products/noir-aviator-sunglasses/graphite-2-thumb.webp"
+            }
+          ]
+        }
+      ]
+    },
+    "gilded-cuff-bracelet": {
+      "colors": [
+        {
+          "name": "Emerald Noir",
+          "slug": "emerald-noir",
+          "hex": "#143C31",
+          "images": [
+            {
+              "path": "/media/seed/products/gilded-cuff-bracelet/emerald-noir-1.webp",
+              "thumbPath": "/media/seed/products/gilded-cuff-bracelet/emerald-noir-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/gilded-cuff-bracelet/emerald-noir-2.webp",
+              "thumbPath": "/media/seed/products/gilded-cuff-bracelet/emerald-noir-2-thumb.webp"
+            }
+          ]
+        },
+        {
+          "name": "Rose Gold",
+          "slug": "rose-gold",
+          "hex": "#B76E79",
+          "images": [
+            {
+              "path": "/media/seed/products/gilded-cuff-bracelet/rose-gold-1.webp",
+              "thumbPath": "/media/seed/products/gilded-cuff-bracelet/rose-gold-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/gilded-cuff-bracelet/rose-gold-2.webp",
+              "thumbPath": "/media/seed/products/gilded-cuff-bracelet/rose-gold-2-thumb.webp"
+            }
+          ]
+        },
+        {
+          "name": "Obsidian",
+          "slug": "obsidian",
+          "hex": "#0B0B0B",
+          "images": [
+            {
+              "path": "/media/seed/products/gilded-cuff-bracelet/obsidian-1.webp",
+              "thumbPath": "/media/seed/products/gilded-cuff-bracelet/obsidian-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/gilded-cuff-bracelet/obsidian-2.webp",
+              "thumbPath": "/media/seed/products/gilded-cuff-bracelet/obsidian-2-thumb.webp"
+            }
+          ]
+        }
+      ]
+    },
+    "obsidian-silk-scarf": {
+      "colors": [
+        {
+          "name": "Espresso",
+          "slug": "espresso",
+          "hex": "#3B241B",
+          "images": [
+            {
+              "path": "/media/seed/products/obsidian-silk-scarf/espresso-1.webp",
+              "thumbPath": "/media/seed/products/obsidian-silk-scarf/espresso-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/obsidian-silk-scarf/espresso-2.webp",
+              "thumbPath": "/media/seed/products/obsidian-silk-scarf/espresso-2-thumb.webp"
+            }
+          ]
+        },
+        {
+          "name": "Antique Gold",
+          "slug": "antique-gold",
+          "hex": "#C6A15B",
+          "images": [
+            {
+              "path": "/media/seed/products/obsidian-silk-scarf/antique-gold-1.webp",
+              "thumbPath": "/media/seed/products/obsidian-silk-scarf/antique-gold-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/obsidian-silk-scarf/antique-gold-2.webp",
+              "thumbPath": "/media/seed/products/obsidian-silk-scarf/antique-gold-2-thumb.webp"
+            }
+          ]
+        },
+        {
+          "name": "Burgundy",
+          "slug": "burgundy",
+          "hex": "#4B1620",
+          "images": [
+            {
+              "path": "/media/seed/products/obsidian-silk-scarf/burgundy-1.webp",
+              "thumbPath": "/media/seed/products/obsidian-silk-scarf/burgundy-1-thumb.webp"
+            },
+            {
+              "path": "/media/seed/products/obsidian-silk-scarf/burgundy-2.webp",
+              "thumbPath": "/media/seed/products/obsidian-silk-scarf/burgundy-2-thumb.webp"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
