@@ -1,3 +1,4 @@
+import { FALLBACK_IMAGE } from '@/lib/urls';
 import { useEffect, useState, type FormEvent } from 'react';
 import { Link, useParams } from 'react-router-dom';
 import { ArrowLeft, MapPin, PackageCheck, ShieldCheck, Truck, UserRound } from 'lucide-react';
@@ -113,7 +114,7 @@ export default function AdminOrderDetail() {
                 <div className="admin-card-body grid gap-4">
                   {order.items.map((item) => (
                     <div className="summary-product" key={item.id} style={{ gridTemplateColumns: '76px 1fr auto', alignItems: 'center' }}>
-                      <img src={item.imagePath || '/media/seed/editorial/campaign.webp'} alt="" style={{ width: 76, height: 96 }} loading="lazy" />
+                      <img src={item.imagePath || FALLBACK_IMAGE} alt="" style={{ width: 76, height: 96 }} loading="lazy" />
                       <div>
                         <div style={{ color: 'var(--white)', fontSize: '.88rem' }}>{item.productName}</div>
                         <div className="muted" style={{ fontSize: '.7rem', marginTop: 6 }}>{item.variantName} · {item.sizeLabel} · Qty {item.quantity}</div>

@@ -1,3 +1,4 @@
+import { FALLBACK_IMAGE } from '@/lib/urls';
 import { useEffect, useMemo, useState } from 'react';
 import { Link, useParams, useSearchParams } from 'react-router-dom';
 import { ArrowUpRight, Check, Heart, PackageCheck, RotateCw, ShieldCheck, Truck } from 'lucide-react';
@@ -11,7 +12,6 @@ import { Breadcrumb, EmptyState, LoadingBlock, Price } from '@/components/ui';
 import { api, errorMessage } from '@/lib/api';
 import { checkoutPath, clamp, formatINR } from '@/lib/format';
 
-const FALLBACK_IMAGE = '/media/seed/editorial/campaign.webp';
 
 export default function ProductPage() {
   const { slug = '' } = useParams();

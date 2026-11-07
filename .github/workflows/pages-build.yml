@@ -1,0 +1,32 @@
+name: Validate GitHub Pages project-path build
+
+on:
+  push:
+    branches: [main, fix/github-pages-project-path]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+      - run: npm ci
+      - run: npm run build:pages
+      - run: npx playwright install --with-deps chromium --only-shell
+      - run: npm run test:pages
+      - name: Save Pages build candidate
+        uses: actions/upload-artifact@v4
+        with:
+          name: github-pages-build-candidate
+          path: dist-pages/
+          retention-days: 7
+# No automatic deployment: GitHub Pages is static and the real store API,
+# durable database, media storage and cross-origin authentication are not yet
+# provisioned or verified. Publishing a partial store would be misleading.

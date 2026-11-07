@@ -1,3 +1,5 @@
+import { apiEndpoint, rebaseMediaInPayload } from '@/lib/urls';
+
 export class ApiError extends Error {
   constructor(
     message: string,
@@ -50,7 +52,7 @@ async function request<T>(path: string, init: RequestInit = {}, params?: Record<
   if (init.body && !isForm && !headers.has('Content-Type')) headers.set('Content-Type', 'application/json');
   let response: Response;
   try {
-    response = await fetch(buildUrl(path, params), {
+    response = await fetch(buildUrl(apiEndpoint(path), params), {
       ...init,
       credentials: 'include',
       cache: path.startsWith('/api/auth/') || path.startsWith('/api/admin/') || path.startsWith('/api/customer/') ? 'no-store' : init.cache,
@@ -66,7 +68,7 @@ async function request<T>(path: string, init: RequestInit = {}, params?: Record<
     const message = validationMessage(body.details) || String(body.error || 'Something went wrong. Please try again.');
     throw new ApiError(message, response.status, String(body.code || 'api_error'), body.details);
   }
-  return payload as T;
+  return rebaseMediaInPayload(payload) as T;
 }
 
 function jsonBody(body: unknown): string | undefined {

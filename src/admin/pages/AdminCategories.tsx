@@ -1,3 +1,4 @@
+import { FALLBACK_IMAGE } from '@/lib/urls';
 import { useCallback, useEffect, useState, type FormEvent } from 'react';
 import { Pencil, Plus, Trash2, Upload, X } from 'lucide-react';
 import type { Category } from '@shared/types';
@@ -142,7 +143,7 @@ export default function AdminCategories() {
                 <tbody>
                   {categories.map((category) => (
                     <tr key={category.id}>
-                      <td><img className="admin-thumb" src={category.imagePath || '/media/seed/editorial/campaign.webp'} alt="" loading="lazy" /></td>
+                      <td><img className="admin-thumb" src={category.imagePath || FALLBACK_IMAGE} alt="" loading="lazy" /></td>
                       <td><div style={{ color: 'var(--white)' }}>{category.name}</div><div className="muted" style={{ fontSize: '.66rem' }}>/{category.slug}</div></td>
                       <td>{category.specialFilter ? <span className="badge">{category.specialFilter.replace('_', ' ')}</span> : <span className="muted">Standard</span>}</td>
                       <td>{category.productCount ?? 0}</td>

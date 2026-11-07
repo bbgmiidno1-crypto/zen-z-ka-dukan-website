@@ -1,3 +1,4 @@
+import { FALLBACK_IMAGE } from '@/lib/urls';
 import { useCallback, useEffect, useState, type FormEvent } from 'react';
 import { Link, useSearchParams } from 'react-router-dom';
 import { Pencil, Plus, Power, Search, Sparkles, Star, Trash2, TrendingUp } from 'lucide-react';
@@ -132,7 +133,7 @@ export default function AdminProducts() {
                   <tr key={product.id}>
                     <td>
                       <div className="flex items-center gap-3">
-                        <img className="admin-thumb" src={product.primaryThumb || product.primaryImage || '/media/seed/editorial/campaign.webp'} alt="" loading="lazy" />
+                        <img className="admin-thumb" src={product.primaryThumb || product.primaryImage || FALLBACK_IMAGE} alt="" loading="lazy" />
                         <div><div style={{ color: 'var(--white)' }}>{product.name}</div><div className="muted" style={{ fontSize: '.66rem' }}>/{product.slug}</div></div>
                       </div>
                     </td>

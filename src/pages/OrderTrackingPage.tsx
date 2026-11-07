@@ -1,3 +1,4 @@
+import { FALLBACK_IMAGE } from '@/lib/urls';
 import { useEffect, useState } from 'react';
 import { Link, useParams } from 'react-router-dom';
 import { ArrowLeft, MapPin, PackageCheck, ShieldCheck, Truck } from 'lucide-react';
@@ -85,7 +86,7 @@ export default function OrderTrackingPage() {
               <div className="admin-card-body grid gap-4">
                 {order.items.map((item) => (
                   <div className="summary-product" key={item.id} style={{ gridTemplateColumns: '96px 1fr auto', alignItems: 'center' }}>
-                    <img src={item.imagePath || '/media/seed/editorial/campaign.webp'} alt={item.productName} width="96" height="120" loading="lazy" />
+                    <img src={item.imagePath || FALLBACK_IMAGE} alt={item.productName} width="96" height="120" loading="lazy" />
                     <div>
                       <div className="product-category">ZEN Z KA DUKAN</div>
                       <h4 className="product-name" style={{ marginTop: 5 }}>{item.productName}</h4>

@@ -1,3 +1,4 @@
+import { FALLBACK_IMAGE } from '@/lib/urls';
 import { useEffect, useMemo, useState, type ChangeEvent, type FormEvent } from 'react';
 import { Link, useNavigate, useSearchParams } from 'react-router-dom';
 import { ArrowLeft, LockKeyhole, MapPin, PackageCheck, ShieldCheck, Truck } from 'lucide-react';
@@ -285,7 +286,7 @@ export default function CheckoutPage() {
                 {preview ? (
                   <>
                     <div className="summary-product">
-                      <img src={preview.product.image || '/media/seed/editorial/campaign.webp'} alt={preview.product.name} width="96" height="120" />
+                      <img src={preview.product.image || FALLBACK_IMAGE} alt={preview.product.name} width="96" height="120" />
                       <div>
                         <div className="product-category">ZEN Z KA DUKAN</div>
                         <h3 className="product-name" style={{ marginTop: 6 }}>{preview.product.name}</h3>

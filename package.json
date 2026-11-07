@@ -11,12 +11,14 @@
     "dev:api": "tsx watch server/index.ts",
     "dev:web": "vite --host 0.0.0.0",
     "build": "tsc --noEmit && vite build",
+    "build:pages": "tsc --noEmit && vite build --mode github-pages --outDir dist-pages && node scripts/prepare-pages.mjs dist-pages",
     "start": "NODE_ENV=production tsx server/index.ts",
     "test": "tsx server/test/e2e.ts",
     "test:browser": "tsx server/test/browser.ts",
     "typecheck": "tsc --noEmit",
     "test:liquid": "tsx server/test/liquid.ts",
-    "test:preview-auth": "tsx server/test/preview-auth.ts"
+    "test:preview-auth": "tsx server/test/preview-auth.ts",
+    "test:pages": "tsx server/test/pages.ts"
   },
   "dependencies": {
     "@fontsource/bodoni-moda": "^5.3.0",

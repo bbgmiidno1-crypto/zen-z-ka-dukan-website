@@ -4,7 +4,10 @@ import react from '@vitejs/plugin-react';
 
 const apiTarget = process.env.API_TARGET || 'http://127.0.0.1:3001';
 
-export default defineConfig({
+export default defineConfig(({ mode }) => ({
+  // Only the GitHub Pages project build lives below the repository path. Normal
+  // development and full-stack deployments retain their existing root URLs.
+  base: mode === 'github-pages' ? '/zen-z-ka-dukan-website/' : '/',
   plugins: [react()],
   resolve: {
     alias: {
@@ -43,4 +46,4 @@ export default defineConfig({
       },
     },
   },
-});
+}));

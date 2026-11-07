@@ -97,7 +97,7 @@ export function AdminLogin() {
           <button className="btn btn-gold btn-full" type="submit" disabled={busy}>{busy ? 'Verifying…' : 'Enter console'} <ArrowRight size={15} /></button>
         </form>
         {sessionBlocked && (
-          <p style={{ marginTop: 16 }}><a className="text-link" href="/admin/login" target="_blank" rel="noopener noreferrer">Open administrator sign-in in a new tab ↗</a></p>
+          <p style={{ marginTop: 16 }}><a className="text-link" href={`${import.meta.env.BASE_URL}admin/login`} target="_blank" rel="noopener noreferrer">Open administrator sign-in in a new tab ↗</a></p>
         )}
         {!adminConfigured && (
           <p className="muted" style={{ marginTop: 20, fontSize: '.75rem' }}>
@@ -190,7 +190,7 @@ export function AdminSetup() {
           <button className="btn btn-gold btn-full" type="submit" disabled={busy || createdWithoutSession}>{busy ? 'Securing…' : 'Create administrator'} <ArrowRight size={15} /></button>
         </form>
         {createdWithoutSession && (
-          <p style={{ marginTop: 16 }}><a className="text-link" href="/admin/login" target="_blank" rel="noopener noreferrer">Open administrator sign-in in a new tab ↗</a></p>
+          <p style={{ marginTop: 16 }}><a className="text-link" href={`${import.meta.env.BASE_URL}admin/login`} target="_blank" rel="noopener noreferrer">Open administrator sign-in in a new tab ↗</a></p>
         )}
         <div className="notice" style={{ marginTop: 20, fontSize: '.72rem' }}>
           The token file is server-side workspace storage and is not served under /media or exposed by the API.

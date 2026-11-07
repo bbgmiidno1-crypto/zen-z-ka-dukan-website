@@ -1,3 +1,4 @@
+import { FALLBACK_IMAGE } from '@/lib/urls';
 import { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
 import { ArrowUpRight, Boxes, ClipboardList, IndianRupee, PackagePlus, ShoppingBag, Users } from 'lucide-react';
@@ -80,7 +81,7 @@ export default function AdminOverview() {
                     <div className="grid gap-3">
                       {data.stockAlerts.map((alert) => (
                         <Link className="flex items-center gap-3" style={{ borderBottom: '1px solid rgba(212,175,55,.1)', paddingBottom: 10 }} to={`/admin/products/${alert.productId}/edit`} key={alert.productId}>
-                          <img className="admin-thumb" src={alert.imagePath || '/media/seed/editorial/campaign.webp'} alt="" loading="lazy" />
+                          <img className="admin-thumb" src={alert.imagePath || FALLBACK_IMAGE} alt="" loading="lazy" />
                           <div style={{ flex: 1, minWidth: 0 }}>
                             <div style={{ fontSize: '.8rem' }}>{alert.productName}</div>
                             <div className="muted" style={{ fontSize: '.68rem' }}>Lowest SKU stock: {alert.lowestStock}</div>

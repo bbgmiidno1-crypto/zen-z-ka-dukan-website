@@ -1,3 +1,4 @@
+import { FALLBACK_IMAGE } from '@/lib/urls';
 import { useEffect, useRef, useState, type FormEvent } from 'react';
 import { Link } from 'react-router-dom';
 import { ArrowDownRight, ArrowUpRight, Check, PackageCheck, ShieldCheck, Truck } from 'lucide-react';
@@ -8,7 +9,6 @@ import { useToast } from '@/context/ToastContext';
 import { api, errorMessage } from '@/lib/api';
 import { useHomeAnimations } from '@/lib/motion';
 
-const FALLBACK_IMAGE = '/media/seed/editorial/campaign.webp';
 
 const testimonials = [
   { quote: 'The coat arrives like a piece of architecture. Structured, quiet, and unmistakably considered.', name: 'Patron note · Chennai' },

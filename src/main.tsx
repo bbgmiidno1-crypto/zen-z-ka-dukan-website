@@ -17,7 +17,7 @@ import './index.css';
 
 ReactDOM.createRoot(document.getElementById('root')!).render(
   <React.Fragment>
-    <BrowserRouter>
+    <BrowserRouter basename={import.meta.env.BASE_URL}>
       <ToastProvider>
         <AuthProvider>
           <WishlistProvider>

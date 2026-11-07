@@ -1,3 +1,4 @@
+import { FALLBACK_IMAGE } from '@/lib/urls';
 import type { ReactNode } from 'react';
 import { Link } from 'react-router-dom';
 import { ArrowLeft } from 'lucide-react';
@@ -7,7 +8,7 @@ export function AuthShell({ children, kicker, title }: { children: ReactNode; ki
   return (
     <div className="auth-shell">
       <aside className="auth-art">
-        <img src="/media/seed/editorial/campaign.webp" alt="ZEN Z KA DUKAN black and gold editorial" width="1200" height="1500" />
+        <img src={FALLBACK_IMAGE} alt="ZEN Z KA DUKAN black and gold editorial" width="1200" height="1500" />
         <div className="auth-art-copy">
           <div className="eyebrow eyebrow-line">{kicker}</div>
           <h2 className="luxe-title" style={{ marginTop: 16 }}>{title}</h2>

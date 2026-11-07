@@ -1,3 +1,4 @@
+import { FALLBACK_IMAGE } from '@/lib/urls';
 import { Link } from 'react-router-dom';
 import { ArrowUpRight, Heart } from 'lucide-react';
 import type { ProductSummary } from '@shared/types';
@@ -8,7 +9,6 @@ import { useToast } from '@/context/ToastContext';
 import { errorMessage } from '@/lib/api';
 import { checkoutPath } from '@/lib/format';
 
-const FALLBACK_IMAGE = '/media/seed/editorial/campaign.webp';
 
 export function ProductCard({ product }: { product: ProductSummary }) {
   const wishlist = useWishlist();

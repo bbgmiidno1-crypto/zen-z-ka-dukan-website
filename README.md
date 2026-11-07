@@ -35,6 +35,14 @@ The repository includes the complete storefront and server source, configuration
 
 For security, the live database (including administrator and customer accounts, sessions and orders), private setup tokens, session secrets, local environment files, and user-uploaded runtime media are **not** committed. Generated dependencies, builds and test screenshots are also excluded. A fresh clone therefore requires its own administrator setup; it does not migrate a live store's accounts, orders, catalogue edits or later uploads. Back up and transfer those separately through a secure private channel—never commit them to a public repository. Preserve both the database and its associated uploads when migrating a running store.
 
+### GitHub Pages project-path build (non-commercial preview only)
+
+`npm run build:pages` creates a separate `dist-pages/` artifact with Vite's base set to `/zen-z-ka-dukan-website/`, a matching React Router basename, bundled seed media, `.nojekyll` and a 404 redirect for direct application routes. `npm run test:pages` exercises that build with the real API through an **isolated local test proxy**; the proxy is not part of GitHub Pages. The `pages-build.yml` workflow checks and saves this artifact but deliberately does **not** deploy it while the backend is unavailable.
+
+**This artifact alone is not the complete store.** GitHub Pages cannot run the Express API, SQLite database or upload processing. A Pages frontend requires a separately hosted API with durable database/media storage, explicit cross-origin access and browser-compatible secure sessions. `VITE_API_ORIGIN` can point the built frontend at an HTTPS API origin; it is a public URL, not a secret. Merely setting it does not make the existing server cross-origin or serverless-ready. Do not deploy this build as a working store until the real backend and every authenticated flow have been validated.
+
+GitHub says [Pages is not for operating an online store](https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits), and [Vercel's Hobby plan is limited to non-commercial use](https://vercel.com/docs/limits/fair-use-guidelines). Use an appropriate commercial hosting plan for a live store. No production deployment or data migration is implied by this build.
+
 ### Embedded HTTPS preview sessions
 
 When an HTTPS preview is embedded in another site, browsers may block ordinary `SameSite=Lax` cookies. For that preview only, `COOKIE_PARTITIONED=true` enables signed, HTTP-only, `Secure; SameSite=None; Partitioned` cookies. Normal deployments leave it off and keep `SameSite=Lax`.
@@ -118,6 +126,7 @@ npm test                          # backend + persistence end-to-end suite
 npm run test:browser              # real Chromium desktop/mobile/tablet suite
 npm run test:liquid               # liquid surface, floating gallery, wishlist, reduced motion
 npm run test:preview-auth         # embedded authentication with blocked/stripped cookies
+npm run test:pages                # project-path build using an isolated local API proxy
 ```
 
 `npm test` starts an isolated server on port `3102`, verifies health, catalogue, protected admin access, private bootstrap, admin login, registration, scrypt hashing, login, forgot-password rotation, product upload with two colour-image sets, price tampering protection, colour/size selection, COD checkout preview, order creation, stock decrement, saved addresses, out-of-stock rejection, admin search/filter, status updates, cancellation stock restoration, quick stock management, category CRUD, product deletion, order-history retention, newsletter idempotency, **server restart**, persistent sessions/orders and uploaded image availability after restart.

@@ -1,3 +1,4 @@
+import { FALLBACK_IMAGE } from '@/lib/urls';
 import { useCallback, useEffect, useState, type ChangeEvent, type FormEvent } from 'react';
 import { Link, useNavigate, useSearchParams } from 'react-router-dom';
 import { Heart, LogOut, MapPin, Plus, ShieldCheck, Trash2, UserRound } from 'lucide-react';
@@ -280,7 +281,7 @@ export default function AccountPage() {
                     {wishProducts.map((product) => (
                       <div className="wish-row" key={product.id}>
                         <Link className="wish-thumb" to={`/product/${product.slug}`} aria-label={`View ${product.name}`}>
-                          <img src={product.primaryThumb || product.primaryImage || '/media/seed/editorial/campaign.webp'} alt={product.name} loading="lazy" width="120" height="150" />
+                          <img src={product.primaryThumb || product.primaryImage || FALLBACK_IMAGE} alt={product.name} loading="lazy" width="120" height="150" />
                         </Link>
                         <div className="wish-copy">
                           <Link to={`/product/${product.slug}`} className="wish-name">{product.name}</Link>
